@@ -14,4 +14,4 @@ git add ./0.00/*
 git add ./JSON/*
 git add ./models/final_model_V7.pth
 git commit -m "First Upload"
-git push -u https://github.com/IAURAI/MSGscore.git master
+git push --force -u https://github.com/IAURAI/MSGscore.git master
