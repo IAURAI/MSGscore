@@ -1,0 +1,1643 @@
+{
+    "subject_consistency": [
+        0.9323792573373029,
+        [
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_3.mp4",
+                "video_results": 0.8907342887164762
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_3.mp4",
+                "video_results": 0.9919951578114656
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_3.mp4",
+                "video_results": 0.9762411491582857
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_6.mp4",
+                "video_results": 0.9351644648001498
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_3.mp4",
+                "video_results": 0.8868488226281969
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_4.mp4",
+                "video_results": 0.9502850463123698
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_2.mp4",
+                "video_results": 0.9069505659925857
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_5.mp4",
+                "video_results": 0.9171293956276617
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_5.mp4",
+                "video_results": 0.8906974454454127
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_1.mp4",
+                "video_results": 0.9788906882075887
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_0.mp4",
+                "video_results": 0.9252708244243725
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_2.mp4",
+                "video_results": 0.9213114874874986
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_8.mp4",
+                "video_results": 0.9139882882169429
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_6.mp4",
+                "video_results": 0.9733315096205513
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_4.mp4",
+                "video_results": 0.9903867944775012
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_5.mp4",
+                "video_results": 0.9662134261081443
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_9.mp4",
+                "video_results": 0.9744389603201975
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_1.mp4",
+                "video_results": 0.9098276707686876
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_2.mp4",
+                "video_results": 0.989631365609649
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_6.mp4",
+                "video_results": 0.8891878445681772
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_7.mp4",
+                "video_results": 0.9162561452310336
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_6.mp4",
+                "video_results": 0.9815645841944137
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_5.mp4",
+                "video_results": 0.9505959313187823
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_4.mp4",
+                "video_results": 0.9300001709653227
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_2.mp4",
+                "video_results": 0.9865614426763434
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_1.mp4",
+                "video_results": 0.9793647565697664
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_4.mp4",
+                "video_results": 0.9305941611528397
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_7.mp4",
+                "video_results": 0.9913005170806143
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_1.mp4",
+                "video_results": 0.8846158031249206
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_1.mp4",
+                "video_results": 0.891034637721593
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_4.mp4",
+                "video_results": 0.9481208656458247
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_9.mp4",
+                "video_results": 0.9578434573648699
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_7.mp4",
+                "video_results": 0.9305941611528397
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_5.mp4",
+                "video_results": 0.9300847469560252
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_8.mp4",
+                "video_results": 0.771448109872066
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_2.mp4",
+                "video_results": 0.9418047225226093
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_3.mp4",
+                "video_results": 0.9111093482688853
+            }
+        ]
+    ],
+    "background_consistency": [
+        0.9543149213901478,
+        [
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_3.mp4",
+                "video_results": 0.9652976221686241,
+                "video_sim": 143.829345703125,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_3.mp4",
+                "video_results": 0.9862068739513423,
+                "video_sim": 146.94482421875,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_3.mp4",
+                "video_results": 0.9793348888422819,
+                "video_sim": 145.9208984375,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_6.mp4",
+                "video_results": 0.929431889681208,
+                "video_sim": 138.4853515625,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_3.mp4",
+                "video_results": 0.9309130216899671,
+                "video_sim": 141.498779296875,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_4.mp4",
+                "video_results": 0.9769495913856908,
+                "video_sim": 148.496337890625,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_2.mp4",
+                "video_results": 0.9484240640729866,
+                "video_sim": 141.315185546875,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_5.mp4",
+                "video_results": 0.9551375539679277,
+                "video_sim": 145.180908203125,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_5.mp4",
+                "video_results": 0.9262252910025168,
+                "video_sim": 138.007568359375,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_1.mp4",
+                "video_results": 0.9699803402549342,
+                "video_sim": 147.43701171875,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_0.mp4",
+                "video_results": 0.9641785077600671,
+                "video_sim": 143.66259765625,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_2.mp4",
+                "video_results": 0.96574494022651,
+                "video_sim": 143.89599609375,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_8.mp4",
+                "video_results": 0.9578587064807047,
+                "video_sim": 142.720947265625,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_6.mp4",
+                "video_results": 0.972757838716443,
+                "video_sim": 144.94091796875,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_4.mp4",
+                "video_results": 0.9891054294253355,
+                "video_sim": 147.376708984375,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_5.mp4",
+                "video_results": 0.9541236797691638,
+                "video_sim": 273.83349609375,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_9.mp4",
+                "video_results": 0.9758579330956376,
+                "video_sim": 145.40283203125,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_1.mp4",
+                "video_results": 0.9396298057154605,
+                "video_sim": 142.82373046875,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_2.mp4",
+                "video_results": 0.9910225068162751,
+                "video_sim": 147.662353515625,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_6.mp4",
+                "video_results": 0.8972938939144737,
+                "video_sim": 136.388671875,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_7.mp4",
+                "video_results": 0.963518644634046,
+                "video_sim": 146.454833984375,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_6.mp4",
+                "video_results": 0.9803655227558725,
+                "video_sim": 146.074462890625,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_5.mp4",
+                "video_results": 0.962004181522651,
+                "video_sim": 143.338623046875,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_4.mp4",
+                "video_results": 0.9766034631921141,
+                "video_sim": 145.513916015625,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_2.mp4",
+                "video_results": 0.9856679815995065,
+                "video_sim": 149.821533203125,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_1.mp4",
+                "video_results": 0.9875422740142618,
+                "video_sim": 147.143798828125,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_4.mp4",
+                "video_results": 0.9370470548930921,
+                "video_sim": 142.43115234375,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_7.mp4",
+                "video_results": 0.9821760958473155,
+                "video_sim": 146.34423828125,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_1.mp4",
+                "video_results": 0.9404739277474832,
+                "video_sim": 140.130615234375,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_1.mp4",
+                "video_results": 0.9345572042785235,
+                "video_sim": 139.2490234375,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_4.mp4",
+                "video_results": 0.976742738045302,
+                "video_sim": 145.53466796875,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_9.mp4",
+                "video_results": 0.9516456949586237,
+                "video_sim": 273.122314453125,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_7.mp4",
+                "video_results": 0.9370470548930921,
+                "video_sim": 142.43115234375,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_5.mp4",
+                "video_results": 0.9394695102768457,
+                "video_sim": 139.98095703125,
+                "cnt_per_video": 149
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_8.mp4",
+                "video_results": 0.8582356770833334,
+                "video_sim": 267.76953125,
+                "cnt_per_video": 312
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_2.mp4",
+                "video_results": 0.9694620059342335,
+                "video_sim": 278.235595703125,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_3.mp4",
+                "video_results": 0.9465091103001645,
+                "video_sim": 143.869384765625,
+                "cnt_per_video": 152
+            }
+        ]
+    ],
+    "temporal_flickering": [
+        0.9820349503776415,
+        [
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_3.mp4",
+                "video_results": 0.9782281445521934
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_3.mp4",
+                "video_results": 0.9960424441917269
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_3.mp4",
+                "video_results": 0.9790947988921521
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_6.mp4",
+                "video_results": 0.9927180023754344
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_3.mp4",
+                "video_results": 0.9654074762381759
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_4.mp4",
+                "video_results": 0.991940731160781
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_2.mp4",
+                "video_results": 0.9810773942984786
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_5.mp4",
+                "video_results": 0.9806442260742188
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_5.mp4",
+                "video_results": 0.9847283914977429
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_1.mp4",
+                "video_results": 0.9849447540208405
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_0.mp4",
+                "video_results": 0.9948809380624809
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_2.mp4",
+                "video_results": 0.9818462596220129
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_8.mp4",
+                "video_results": 0.9755614841685576
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_6.mp4",
+                "video_results": 0.9811105578553443
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_4.mp4",
+                "video_results": 0.9942130696539785
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_5.mp4",
+                "video_results": 0.9818846347285252
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_9.mp4",
+                "video_results": 0.99200312203052
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_1.mp4",
+                "video_results": 0.9833469072977702
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_2.mp4",
+                "video_results": 0.9906776755463843
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_6.mp4",
+                "video_results": 0.9718283073574889
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_7.mp4",
+                "video_results": 0.9875873201033648
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_6.mp4",
+                "video_results": 0.9933412252687941
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_5.mp4",
+                "video_results": 0.9803171606624828
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_4.mp4",
+                "video_results": 0.9844410924350514
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_2.mp4",
+                "video_results": 0.985802433537502
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_1.mp4",
+                "video_results": 0.9884131169786641
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_4.mp4",
+                "video_results": 0.9737842485016468
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_7.mp4",
+                "video_results": 0.9940994982625924
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_1.mp4",
+                "video_results": 0.9598427192837584
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_1.mp4",
+                "video_results": 0.9688807936275706
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_4.mp4",
+                "video_results": 0.9923507470710605
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_9.mp4",
+                "video_results": 0.9827703270257688
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_7.mp4",
+                "video_results": 0.9737842485016468
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_5.mp4",
+                "video_results": 0.9818722220028148
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_8.mp4",
+                "video_results": 0.9504187565223844
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_2.mp4",
+                "video_results": 0.9913864537781361
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_3.mp4",
+                "video_results": 0.9640214807846967
+            }
+        ]
+    ],
+    "motion_smoothness": [
+        0.9931902904701196,
+        [
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_3.mp4",
+                "video_results": 0.9891816036831707
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_3.mp4",
+                "video_results": 0.9962291744406618
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_3.mp4",
+                "video_results": 0.9934241598845023
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_6.mp4",
+                "video_results": 0.9949266146484685
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_3.mp4",
+                "video_results": 0.9900322278318481
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_4.mp4",
+                "video_results": 0.9962003721261897
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_2.mp4",
+                "video_results": 0.9901412156146365
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_5.mp4",
+                "video_results": 0.9932178908463254
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_5.mp4",
+                "video_results": 0.9876944143913166
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_1.mp4",
+                "video_results": 0.9953773795053666
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_0.mp4",
+                "video_results": 0.9961792183766629
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_2.mp4",
+                "video_results": 0.9858303264260955
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_8.mp4",
+                "video_results": 0.9936964839288248
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_6.mp4",
+                "video_results": 0.994775441166473
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_4.mp4",
+                "video_results": 0.996495139968802
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_5.mp4",
+                "video_results": 0.9933953490142189
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_9.mp4",
+                "video_results": 0.995806413159957
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_1.mp4",
+                "video_results": 0.9929950048717282
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_2.mp4",
+                "video_results": 0.9961219873786171
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_6.mp4",
+                "video_results": 0.9894755818506846
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_7.mp4",
+                "video_results": 0.9943356540109546
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_6.mp4",
+                "video_results": 0.9960034059407251
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_5.mp4",
+                "video_results": 0.9940882956589322
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_4.mp4",
+                "video_results": 0.9949200228262427
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_2.mp4",
+                "video_results": 0.9957878197847269
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_1.mp4",
+                "video_results": 0.9955035501560935
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_4.mp4",
+                "video_results": 0.9892486479986329
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_7.mp4",
+                "video_results": 0.9960455582321541
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_1.mp4",
+                "video_results": 0.992731175735937
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_1.mp4",
+                "video_results": 0.9917461212504004
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_4.mp4",
+                "video_results": 0.9950381360576033
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_9.mp4",
+                "video_results": 0.99361506342703
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_7.mp4",
+                "video_results": 0.9892486479986329
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_5.mp4",
+                "video_results": 0.9950815615777645
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_8.mp4",
+                "video_results": 0.9896590591078241
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_2.mp4",
+                "video_results": 0.9948516639992973
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_3.mp4",
+                "video_results": 0.9889403645169295
+            }
+        ]
+    ],
+    "dynamic_degree": [
+        0.6216216216216216,
+        [
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_3.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_3.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_3.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_6.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_3.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_4.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_2.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_5.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_5.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_1.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_0.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_2.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_8.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_6.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_4.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_5.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_9.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_1.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_2.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_6.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_7.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_6.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_5.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_4.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_2.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_1.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_4.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_7.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_1.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_1.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_4.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_9.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_7.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_5.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_8.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_2.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_3.mp4",
+                "video_results": true
+            }
+        ]
+    ],
+    "aesthetic_quality": [
+        0.6307565159088856,
+        [
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_3.mp4",
+                "video_results": 0.7099728584289551
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_3.mp4",
+                "video_results": 0.67999267578125
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_3.mp4",
+                "video_results": 0.37703391909599304
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_6.mp4",
+                "video_results": 0.5883784890174866
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_3.mp4",
+                "video_results": 0.6717727184295654
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_4.mp4",
+                "video_results": 0.7155022025108337
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_2.mp4",
+                "video_results": 0.3901706039905548
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_5.mp4",
+                "video_results": 0.7282392978668213
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_5.mp4",
+                "video_results": 0.6371598243713379
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_1.mp4",
+                "video_results": 0.7238661050796509
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_0.mp4",
+                "video_results": 0.6660007834434509
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_2.mp4",
+                "video_results": 0.7168512940406799
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_8.mp4",
+                "video_results": 0.5986300706863403
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_6.mp4",
+                "video_results": 0.6991939544677734
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_4.mp4",
+                "video_results": 0.4374803900718689
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_5.mp4",
+                "video_results": 0.7172277569770813
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_9.mp4",
+                "video_results": 0.6507522463798523
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_1.mp4",
+                "video_results": 0.6921781301498413
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_2.mp4",
+                "video_results": 0.6729233264923096
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_6.mp4",
+                "video_results": 0.6918732523918152
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_7.mp4",
+                "video_results": 0.7352041006088257
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_6.mp4",
+                "video_results": 0.37924090027809143
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_5.mp4",
+                "video_results": 0.6333986520767212
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_4.mp4",
+                "video_results": 0.6323252320289612
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_2.mp4",
+                "video_results": 0.7136694192886353
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_1.mp4",
+                "video_results": 0.6520496010780334
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_4.mp4",
+                "video_results": 0.6752326488494873
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_7.mp4",
+                "video_results": 0.6814250946044922
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_1.mp4",
+                "video_results": 0.40367206931114197
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_1.mp4",
+                "video_results": 0.6647948622703552
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_4.mp4",
+                "video_results": 0.6718085408210754
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_9.mp4",
+                "video_results": 0.7114304304122925
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_7.mp4",
+                "video_results": 0.6752326488494873
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_5.mp4",
+                "video_results": 0.3726676404476166
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_8.mp4",
+                "video_results": 0.5739370584487915
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_2.mp4",
+                "video_results": 0.6967872977256775
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_3.mp4",
+                "video_results": 0.6999149918556213
+            }
+        ]
+    ],
+    "imaging_quality": [
+        0.7145092056605329,
+        [
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_3.mp4",
+                "video_results": 73.2074981689453
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_3.mp4",
+                "video_results": 72.8052810160319
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_3.mp4",
+                "video_results": 68.62512062072754
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_6.mp4",
+                "video_results": 74.5842664082845
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_3.mp4",
+                "video_results": 76.68778717439938
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_4.mp4",
+                "video_results": 78.29771398407182
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_2.mp4",
+                "video_results": 68.44049324035645
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_5.mp4",
+                "video_results": 71.7344312979505
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_5.mp4",
+                "video_results": 69.21064356486002
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_1.mp4",
+                "video_results": 68.9994334551244
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_0.mp4",
+                "video_results": 70.81355478922526
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_2.mp4",
+                "video_results": 75.8088835144043
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_8.mp4",
+                "video_results": 71.21643188476563
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_6.mp4",
+                "video_results": 73.87887039184571
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_4.mp4",
+                "video_results": 70.99211186726887
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_5.mp4",
+                "video_results": 68.40536505646176
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_9.mp4",
+                "video_results": 70.1286919148763
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_1.mp4",
+                "video_results": 75.99453042223563
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_2.mp4",
+                "video_results": 70.0646044921875
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_6.mp4",
+                "video_results": 73.34881200354084
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_7.mp4",
+                "video_results": 73.77106485803142
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_6.mp4",
+                "video_results": 72.5213545735677
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_5.mp4",
+                "video_results": 69.40000991821289
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_4.mp4",
+                "video_results": 71.40354090372722
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_2.mp4",
+                "video_results": 72.63385461046805
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_1.mp4",
+                "video_results": 67.12985582987467
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_4.mp4",
+                "video_results": 70.9856838400847
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_7.mp4",
+                "video_results": 71.47597417195638
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_1.mp4",
+                "video_results": 51.582220230102536
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_1.mp4",
+                "video_results": 74.4384144337972
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_4.mp4",
+                "video_results": 78.11988845825195
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_9.mp4",
+                "video_results": 70.09208594428168
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_7.mp4",
+                "video_results": 70.9856838400847
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_5.mp4",
+                "video_results": 66.76012730916341
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_8.mp4",
+                "video_results": 68.25084251184433
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_2.mp4",
+                "video_results": 76.71611703766717
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_3.mp4",
+                "video_results": 74.17281720529195
+            }
+        ]
+    ],
+    "human_action": [
+        0.0,
+        [
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_3.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_3.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_3.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_6.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_3.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_4.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_2.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_5.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_5.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_1.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_0.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_2.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_8.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_6.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_4.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_5.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_9.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_1.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_2.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_6.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_7.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_6.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_5.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_4.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_2.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_1.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_4.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_7.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_1.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_1.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_4.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_9.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_7.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_5.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_8.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_2.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_3.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            }
+        ]
+    ],
+    "temporal_style": [
+        0.23204766133347074,
+        [
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_3.mp4",
+                "video_results": 0.19918686151504517
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_3.mp4",
+                "video_results": 0.20389020442962646
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_3.mp4",
+                "video_results": 0.1866418868303299
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_6.mp4",
+                "video_results": 0.2077687382698059
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_3.mp4",
+                "video_results": 0.3084312379360199
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_4.mp4",
+                "video_results": 0.31510430574417114
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_2.mp4",
+                "video_results": 0.18358448147773743
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_5.mp4",
+                "video_results": 0.3186536431312561
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_5.mp4",
+                "video_results": 0.19972889125347137
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_1.mp4",
+                "video_results": 0.2706611454486847
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_0.mp4",
+                "video_results": 0.23114359378814697
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_2.mp4",
+                "video_results": 0.17704902589321136
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_8.mp4",
+                "video_results": 0.22177843749523163
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_6.mp4",
+                "video_results": 0.19094222784042358
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_4.mp4",
+                "video_results": 0.21201874315738678
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_5.mp4",
+                "video_results": 0.27417704463005066
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_9.mp4",
+                "video_results": 0.225592240691185
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_1.mp4",
+                "video_results": 0.3156365752220154
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_2.mp4",
+                "video_results": 0.191042959690094
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_6.mp4",
+                "video_results": 0.27429285645484924
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_7.mp4",
+                "video_results": 0.3044487535953522
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_6.mp4",
+                "video_results": 0.18432125449180603
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_5.mp4",
+                "video_results": 0.1824016273021698
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_4.mp4",
+                "video_results": 0.23403102159500122
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_2.mp4",
+                "video_results": 0.26572757959365845
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_1.mp4",
+                "video_results": 0.23033781349658966
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_4.mp4",
+                "video_results": 0.23954832553863525
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_7.mp4",
+                "video_results": 0.21615558862686157
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_1.mp4",
+                "video_results": 0.17706894874572754
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_1.mp4",
+                "video_results": 0.1727944165468216
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_4.mp4",
+                "video_results": 0.18866261839866638
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_9.mp4",
+                "video_results": 0.2568036615848541
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_7.mp4",
+                "video_results": 0.23773163557052612
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_5.mp4",
+                "video_results": 0.18418283760547638
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_8.mp4",
+                "video_results": 0.2243751585483551
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_2.mp4",
+                "video_results": 0.32473671436309814
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_3.mp4",
+                "video_results": 0.25511041283607483
+            }
+        ]
+    ],
+    "overall_consistency": [
+        0.23204766133347074,
+        [
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_3.mp4",
+                "video_results": 0.19918686151504517
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_3.mp4",
+                "video_results": 0.20389020442962646
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_3.mp4",
+                "video_results": 0.1866418868303299
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_6.mp4",
+                "video_results": 0.2077687382698059
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_3.mp4",
+                "video_results": 0.3084312379360199
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_4.mp4",
+                "video_results": 0.31510430574417114
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_2.mp4",
+                "video_results": 0.18358448147773743
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_5.mp4",
+                "video_results": 0.3186536431312561
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_5.mp4",
+                "video_results": 0.19972889125347137
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_1.mp4",
+                "video_results": 0.2706611454486847
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_0.mp4",
+                "video_results": 0.23114359378814697
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_2.mp4",
+                "video_results": 0.17704902589321136
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_8.mp4",
+                "video_results": 0.22177843749523163
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_6.mp4",
+                "video_results": 0.19094222784042358
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_4.mp4",
+                "video_results": 0.21201874315738678
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_5.mp4",
+                "video_results": 0.27417704463005066
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_9.mp4",
+                "video_results": 0.225592240691185
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_1.mp4",
+                "video_results": 0.3156365752220154
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_2.mp4",
+                "video_results": 0.191042959690094
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_6.mp4",
+                "video_results": 0.27429285645484924
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_7.mp4",
+                "video_results": 0.3044487535953522
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_6.mp4",
+                "video_results": 0.18432125449180603
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_5.mp4",
+                "video_results": 0.1824016273021698
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_4.mp4",
+                "video_results": 0.23403102159500122
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_2.mp4",
+                "video_results": 0.26572757959365845
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_1.mp4",
+                "video_results": 0.23033781349658966
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_4.mp4",
+                "video_results": 0.23954832553863525
+            },
+            {
+                "video_path": "../BadPrompt/apples on the table_7.mp4",
+                "video_results": 0.21615558862686157
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_1.mp4",
+                "video_results": 0.17706894874572754
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_1.mp4",
+                "video_results": 0.1727944165468216
+            },
+            {
+                "video_path": "../BadPrompt/A giraffe and a turtle are having a conversation_4.mp4",
+                "video_results": 0.18866261839866638
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_9.mp4",
+                "video_results": 0.2568036615848541
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_7.mp4",
+                "video_results": 0.23773163557052612
+            },
+            {
+                "video_path": "../BadPrompt/person showing finger_5.mp4",
+                "video_results": 0.18418283760547638
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_8.mp4",
+                "video_results": 0.2243751585483551
+            },
+            {
+                "video_path": "../BadPrompt/Rabbit and turtle at the starting line_2.mp4",
+                "video_results": 0.32473671436309814
+            },
+            {
+                "video_path": "../BadPrompt/The rabbit and the tortoise are crossing the finish line_3.mp4",
+                "video_results": 0.25511041283607483
+            }
+        ]
+    ]
+}

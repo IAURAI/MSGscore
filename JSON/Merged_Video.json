@@ -1,0 +1,4352 @@
+{
+    "subject_consistency": [
+        0.7735753953056673,
+        [
+            {
+                "video_path": "../merged_videos/merged_video_22.mp4",
+                "video_results": 0.6868302142466178
+            },
+            {
+                "video_path": "../merged_videos/merged_video_3.mp4",
+                "video_results": 0.6076250126291263
+            },
+            {
+                "video_path": "../merged_videos/merged_video_1.mp4",
+                "video_results": 0.7341272629374731
+            },
+            {
+                "video_path": "../merged_videos/merged_video_53.mp4",
+                "video_results": 0.7769921269402447
+            },
+            {
+                "video_path": "../merged_videos/merged_video_62.mp4",
+                "video_results": 0.8850467155014512
+            },
+            {
+                "video_path": "../merged_videos/merged_video_27.mp4",
+                "video_results": 0.9010345757692709
+            },
+            {
+                "video_path": "../merged_videos/merged_video_78.mp4",
+                "video_results": 0.8672559593291678
+            },
+            {
+                "video_path": "../merged_videos/merged_video_45.mp4",
+                "video_results": 0.7455925098197027
+            },
+            {
+                "video_path": "../merged_videos/merged_video_9.mp4",
+                "video_results": 0.6670659991687742
+            },
+            {
+                "video_path": "../merged_videos/merged_video_75.mp4",
+                "video_results": 0.7595000213255053
+            },
+            {
+                "video_path": "../merged_videos/merged_video_37.mp4",
+                "video_results": 0.738998898637614
+            },
+            {
+                "video_path": "../merged_videos/merged_video_59.mp4",
+                "video_results": 0.7062498154118657
+            },
+            {
+                "video_path": "../merged_videos/merged_video_94.mp4",
+                "video_results": 0.5701694492599927
+            },
+            {
+                "video_path": "../merged_videos/merged_video_84.mp4",
+                "video_results": 0.7258352520210403
+            },
+            {
+                "video_path": "../merged_videos/merged_video_41.mp4",
+                "video_results": 0.6719235521278634
+            },
+            {
+                "video_path": "../merged_videos/merged_video_90.mp4",
+                "video_results": 0.8210909521343921
+            },
+            {
+                "video_path": "../merged_videos/merged_video_47.mp4",
+                "video_results": 0.7615538741915654
+            },
+            {
+                "video_path": "../merged_videos/merged_video_61.mp4",
+                "video_results": 0.6907207765490622
+            },
+            {
+                "video_path": "../merged_videos/merged_video_98.mp4",
+                "video_results": 0.773247806576349
+            },
+            {
+                "video_path": "../merged_videos/merged_video_68.mp4",
+                "video_results": 0.7322142632212489
+            },
+            {
+                "video_path": "../merged_videos/merged_video_81.mp4",
+                "video_results": 0.8396372279295554
+            },
+            {
+                "video_path": "../merged_videos/merged_video_66.mp4",
+                "video_results": 0.8174844422292981
+            },
+            {
+                "video_path": "../merged_videos/merged_video_58.mp4",
+                "video_results": 0.8204946121491423
+            },
+            {
+                "video_path": "../merged_videos/merged_video_12.mp4",
+                "video_results": 0.7476028431344915
+            },
+            {
+                "video_path": "../merged_videos/merged_video_80.mp4",
+                "video_results": 0.8094868608952864
+            },
+            {
+                "video_path": "../merged_videos/merged_video_67.mp4",
+                "video_results": 0.8408697621146245
+            },
+            {
+                "video_path": "../merged_videos/merged_video_85.mp4",
+                "video_results": 0.7153902404366973
+            },
+            {
+                "video_path": "../merged_videos/merged_video_32.mp4",
+                "video_results": 0.7654361953397119
+            },
+            {
+                "video_path": "../merged_videos/merged_video_79.mp4",
+                "video_results": 0.829795677628782
+            },
+            {
+                "video_path": "../merged_videos/merged_video_64.mp4",
+                "video_results": 0.8837570527293643
+            },
+            {
+                "video_path": "../merged_videos/merged_video_50.mp4",
+                "video_results": 0.7957382371250008
+            },
+            {
+                "video_path": "../merged_videos/merged_video_55.mp4",
+                "video_results": 0.5930199416811174
+            },
+            {
+                "video_path": "../merged_videos/merged_video_97.mp4",
+                "video_results": 0.7556929791346192
+            },
+            {
+                "video_path": "../merged_videos/merged_video_38.mp4",
+                "video_results": 0.8090541838951733
+            },
+            {
+                "video_path": "../merged_videos/merged_video_34.mp4",
+                "video_results": 0.8205662510792414
+            },
+            {
+                "video_path": "../merged_videos/merged_video_99.mp4",
+                "video_results": 0.8591894209384918
+            },
+            {
+                "video_path": "../merged_videos/merged_video_57.mp4",
+                "video_results": 0.7568415513680887
+            },
+            {
+                "video_path": "../merged_videos/merged_video_89.mp4",
+                "video_results": 0.7777251441473678
+            },
+            {
+                "video_path": "../merged_videos/merged_video_100.mp4",
+                "video_results": 0.7516149297682908
+            },
+            {
+                "video_path": "../merged_videos/merged_video_35.mp4",
+                "video_results": 0.815639964323871
+            },
+            {
+                "video_path": "../merged_videos/merged_video_28.mp4",
+                "video_results": 0.8007645455992404
+            },
+            {
+                "video_path": "../merged_videos/merged_video_74.mp4",
+                "video_results": 0.7657601599767804
+            },
+            {
+                "video_path": "../merged_videos/merged_video_21.mp4",
+                "video_results": 0.7296913764439523
+            },
+            {
+                "video_path": "../merged_videos/merged_video_43.mp4",
+                "video_results": 0.7120729207992553
+            },
+            {
+                "video_path": "../merged_videos/merged_video_51.mp4",
+                "video_results": 0.7101466365478522
+            },
+            {
+                "video_path": "../merged_videos/merged_video_95.mp4",
+                "video_results": 0.8634953715147511
+            },
+            {
+                "video_path": "../merged_videos/merged_video_39.mp4",
+                "video_results": 0.7838868921001753
+            },
+            {
+                "video_path": "../merged_videos/merged_video_72.mp4",
+                "video_results": 0.7400716908009989
+            },
+            {
+                "video_path": "../merged_videos/merged_video_11.mp4",
+                "video_results": 0.8865302417752812
+            },
+            {
+                "video_path": "../merged_videos/merged_video_23.mp4",
+                "video_results": 0.8127989321581873
+            },
+            {
+                "video_path": "../merged_videos/merged_video_46.mp4",
+                "video_results": 0.8214035603776574
+            },
+            {
+                "video_path": "../merged_videos/merged_video_20.mp4",
+                "video_results": 0.7299980957333635
+            },
+            {
+                "video_path": "../merged_videos/merged_video_42.mp4",
+                "video_results": 0.8265769312093998
+            },
+            {
+                "video_path": "../merged_videos/merged_video_8.mp4",
+                "video_results": 0.7382462839595973
+            },
+            {
+                "video_path": "../merged_videos/merged_video_71.mp4",
+                "video_results": 0.7966162522241734
+            },
+            {
+                "video_path": "../merged_videos/merged_video_92.mp4",
+                "video_results": 0.8089283567099345
+            },
+            {
+                "video_path": "../merged_videos/merged_video_13.mp4",
+                "video_results": 0.8426090928947642
+            },
+            {
+                "video_path": "../merged_videos/merged_video_24.mp4",
+                "video_results": 0.820470611458715
+            },
+            {
+                "video_path": "../merged_videos/merged_video_88.mp4",
+                "video_results": 0.6777447766274404
+            },
+            {
+                "video_path": "../merged_videos/merged_video_2.mp4",
+                "video_results": 0.7782945182996911
+            },
+            {
+                "video_path": "../merged_videos/merged_video_18.mp4",
+                "video_results": 0.7780977586905161
+            },
+            {
+                "video_path": "../merged_videos/merged_video_56.mp4",
+                "video_results": 0.7365746203632582
+            },
+            {
+                "video_path": "../merged_videos/merged_video_14.mp4",
+                "video_results": 0.7132665904792579
+            },
+            {
+                "video_path": "../merged_videos/merged_video_26.mp4",
+                "video_results": 0.7862900399175802
+            },
+            {
+                "video_path": "../merged_videos/merged_video_19.mp4",
+                "video_results": 0.8131375918055281
+            },
+            {
+                "video_path": "../merged_videos/merged_video_91.mp4",
+                "video_results": 0.7443482667207718
+            },
+            {
+                "video_path": "../merged_videos/merged_video_69.mp4",
+                "video_results": 0.6820414014686192
+            },
+            {
+                "video_path": "../merged_videos/merged_video_87.mp4",
+                "video_results": 0.7356310193174578
+            },
+            {
+                "video_path": "../merged_videos/merged_video_65.mp4",
+                "video_results": 0.7833529826814094
+            },
+            {
+                "video_path": "../merged_videos/merged_video_63.mp4",
+                "video_results": 0.7904273889592437
+            },
+            {
+                "video_path": "../merged_videos/merged_video_52.mp4",
+                "video_results": 0.6811087140277106
+            },
+            {
+                "video_path": "../merged_videos/merged_video_82.mp4",
+                "video_results": 0.8051236422337922
+            },
+            {
+                "video_path": "../merged_videos/merged_video_86.mp4",
+                "video_results": 0.6921713217958674
+            },
+            {
+                "video_path": "../merged_videos/merged_video_29.mp4",
+                "video_results": 0.8077895155118913
+            },
+            {
+                "video_path": "../merged_videos/merged_video_60.mp4",
+                "video_results": 0.7076156914786056
+            },
+            {
+                "video_path": "../merged_videos/merged_video_40.mp4",
+                "video_results": 0.7476717200057179
+            },
+            {
+                "video_path": "../merged_videos/merged_video_10.mp4",
+                "video_results": 0.8291751749871313
+            },
+            {
+                "video_path": "../merged_videos/merged_video_93.mp4",
+                "video_results": 0.7712258556626033
+            },
+            {
+                "video_path": "../merged_videos/merged_video_15.mp4",
+                "video_results": 0.893128775104791
+            },
+            {
+                "video_path": "../merged_videos/merged_video_6.mp4",
+                "video_results": 0.8163047940696327
+            },
+            {
+                "video_path": "../merged_videos/merged_video_49.mp4",
+                "video_results": 0.78056577504963
+            },
+            {
+                "video_path": "../merged_videos/merged_video_54.mp4",
+                "video_results": 0.7432898451774819
+            },
+            {
+                "video_path": "../merged_videos/merged_video_25.mp4",
+                "video_results": 0.8631159209639486
+            },
+            {
+                "video_path": "../merged_videos/merged_video_77.mp4",
+                "video_results": 0.7624713521344321
+            },
+            {
+                "video_path": "../merged_videos/merged_video_30.mp4",
+                "video_results": 0.8070975827385288
+            },
+            {
+                "video_path": "../merged_videos/merged_video_17.mp4",
+                "video_results": 0.8825994561547819
+            },
+            {
+                "video_path": "../merged_videos/merged_video_36.mp4",
+                "video_results": 0.757041235528295
+            },
+            {
+                "video_path": "../merged_videos/merged_video_5.mp4",
+                "video_results": 0.8260368903353811
+            },
+            {
+                "video_path": "../merged_videos/merged_video_33.mp4",
+                "video_results": 0.7543743291736152
+            },
+            {
+                "video_path": "../merged_videos/merged_video_16.mp4",
+                "video_results": 0.69457867507252
+            },
+            {
+                "video_path": "../merged_videos/merged_video_4.mp4",
+                "video_results": 0.813783610837511
+            },
+            {
+                "video_path": "../merged_videos/merged_video_48.mp4",
+                "video_results": 0.8395633243701675
+            },
+            {
+                "video_path": "../merged_videos/merged_video_44.mp4",
+                "video_results": 0.8257495005215917
+            },
+            {
+                "video_path": "../merged_videos/merged_video_31.mp4",
+                "video_results": 0.860161354040934
+            },
+            {
+                "video_path": "../merged_videos/merged_video_70.mp4",
+                "video_results": 0.762073117120219
+            },
+            {
+                "video_path": "../merged_videos/merged_video_96.mp4",
+                "video_results": 0.8303971095889244
+            },
+            {
+                "video_path": "../merged_videos/merged_video_73.mp4",
+                "video_results": 0.8768798051441603
+            },
+            {
+                "video_path": "../merged_videos/merged_video_7.mp4",
+                "video_results": 0.743872987971242
+            },
+            {
+                "video_path": "../merged_videos/merged_video_83.mp4",
+                "video_results": 0.782737331528242
+            },
+            {
+                "video_path": "../merged_videos/merged_video_76.mp4",
+                "video_results": 0.829806825844571
+            }
+        ]
+    ],
+    "background_consistency": [
+        0.8951316123943056,
+        [
+            {
+                "video_path": "../merged_videos/merged_video_22.mp4",
+                "video_results": 0.8648194505575117,
+                "video_sim": 184.20654296875,
+                "cnt_per_video": 213
+            },
+            {
+                "video_path": "../merged_videos/merged_video_3.mp4",
+                "video_results": 0.8055776852613304,
+                "video_sim": 137.7537841796875,
+                "cnt_per_video": 171
+            },
+            {
+                "video_path": "../merged_videos/merged_video_1.mp4",
+                "video_results": 0.7885698900155141,
+                "video_sim": 111.1883544921875,
+                "cnt_per_video": 141
+            },
+            {
+                "video_path": "../merged_videos/merged_video_53.mp4",
+                "video_results": 0.8783150178840361,
+                "video_sim": 145.80029296875,
+                "cnt_per_video": 166
+            },
+            {
+                "video_path": "../merged_videos/merged_video_62.mp4",
+                "video_results": 0.9381638130132299,
+                "video_sim": 128.5284423828125,
+                "cnt_per_video": 137
+            },
+            {
+                "video_path": "../merged_videos/merged_video_27.mp4",
+                "video_results": 0.9491093076508621,
+                "video_sim": 165.14501953125,
+                "cnt_per_video": 174
+            },
+            {
+                "video_path": "../merged_videos/merged_video_78.mp4",
+                "video_results": 0.9381746371116864,
+                "video_sim": 158.551513671875,
+                "cnt_per_video": 169
+            },
+            {
+                "video_path": "../merged_videos/merged_video_45.mp4",
+                "video_results": 0.895426960734578,
+                "video_sim": 137.895751953125,
+                "cnt_per_video": 154
+            },
+            {
+                "video_path": "../merged_videos/merged_video_9.mp4",
+                "video_results": 0.8608600484913793,
+                "video_sim": 124.82470703125,
+                "cnt_per_video": 145
+            },
+            {
+                "video_path": "../merged_videos/merged_video_75.mp4",
+                "video_results": 0.8876528532608695,
+                "video_sim": 102.080078125,
+                "cnt_per_video": 115
+            },
+            {
+                "video_path": "../merged_videos/merged_video_37.mp4",
+                "video_results": 0.8790087018694196,
+                "video_sim": 98.448974609375,
+                "cnt_per_video": 112
+            },
+            {
+                "video_path": "../merged_videos/merged_video_59.mp4",
+                "video_results": 0.8680209455818966,
+                "video_sim": 100.6904296875,
+                "cnt_per_video": 116
+            },
+            {
+                "video_path": "../merged_videos/merged_video_94.mp4",
+                "video_results": 0.8383832659040179,
+                "video_sim": 93.89892578125,
+                "cnt_per_video": 112
+            },
+            {
+                "video_path": "../merged_videos/merged_video_84.mp4",
+                "video_results": 0.8821541922433036,
+                "video_sim": 98.80126953125,
+                "cnt_per_video": 112
+            },
+            {
+                "video_path": "../merged_videos/merged_video_41.mp4",
+                "video_results": 0.8848254475372517,
+                "video_sim": 133.608642578125,
+                "cnt_per_video": 151
+            },
+            {
+                "video_path": "../merged_videos/merged_video_90.mp4",
+                "video_results": 0.9224752723623854,
+                "video_sim": 100.5498046875,
+                "cnt_per_video": 109
+            },
+            {
+                "video_path": "../merged_videos/merged_video_47.mp4",
+                "video_results": 0.8910632011217948,
+                "video_sim": 104.25439453125,
+                "cnt_per_video": 117
+            },
+            {
+                "video_path": "../merged_videos/merged_video_61.mp4",
+                "video_results": 0.8839408255912162,
+                "video_sim": 196.23486328125,
+                "cnt_per_video": 222
+            },
+            {
+                "video_path": "../merged_videos/merged_video_98.mp4",
+                "video_results": 0.8808738579184322,
+                "video_sim": 103.943115234375,
+                "cnt_per_video": 118
+            },
+            {
+                "video_path": "../merged_videos/merged_video_68.mp4",
+                "video_results": 0.8797561645507812,
+                "video_sim": 140.760986328125,
+                "cnt_per_video": 160
+            },
+            {
+                "video_path": "../merged_videos/merged_video_81.mp4",
+                "video_results": 0.9422161395733173,
+                "video_sim": 97.990478515625,
+                "cnt_per_video": 104
+            },
+            {
+                "video_path": "../merged_videos/merged_video_66.mp4",
+                "video_results": 0.8979603160511364,
+                "video_sim": 79.0205078125,
+                "cnt_per_video": 88
+            },
+            {
+                "video_path": "../merged_videos/merged_video_58.mp4",
+                "video_results": 0.8859885679472477,
+                "video_sim": 96.57275390625,
+                "cnt_per_video": 109
+            },
+            {
+                "video_path": "../merged_videos/merged_video_12.mp4",
+                "video_results": 0.8264937789351852,
+                "video_sim": 111.57666015625,
+                "cnt_per_video": 135
+            },
+            {
+                "video_path": "../merged_videos/merged_video_80.mp4",
+                "video_results": 0.9342638098675272,
+                "video_sim": 171.904541015625,
+                "cnt_per_video": 184
+            },
+            {
+                "video_path": "../merged_videos/merged_video_67.mp4",
+                "video_results": 0.9258128303793532,
+                "video_sim": 186.08837890625,
+                "cnt_per_video": 201
+            },
+            {
+                "video_path": "../merged_videos/merged_video_85.mp4",
+                "video_results": 0.8847682222406915,
+                "video_sim": 166.33642578125,
+                "cnt_per_video": 188
+            },
+            {
+                "video_path": "../merged_videos/merged_video_32.mp4",
+                "video_results": 0.9031439887152778,
+                "video_sim": 113.796142578125,
+                "cnt_per_video": 126
+            },
+            {
+                "video_path": "../merged_videos/merged_video_79.mp4",
+                "video_results": 0.8486373336226852,
+                "video_sim": 91.65283203125,
+                "cnt_per_video": 108
+            },
+            {
+                "video_path": "../merged_videos/merged_video_64.mp4",
+                "video_results": 0.9524646196209017,
+                "video_sim": 116.20068359375,
+                "cnt_per_video": 122
+            },
+            {
+                "video_path": "../merged_videos/merged_video_50.mp4",
+                "video_results": 0.9123796735491071,
+                "video_sim": 127.733154296875,
+                "cnt_per_video": 140
+            },
+            {
+                "video_path": "../merged_videos/merged_video_55.mp4",
+                "video_results": 0.8482965433372641,
+                "video_sim": 89.91943359375,
+                "cnt_per_video": 106
+            },
+            {
+                "video_path": "../merged_videos/merged_video_97.mp4",
+                "video_results": 0.910650634765625,
+                "video_sim": 109.278076171875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "../merged_videos/merged_video_38.mp4",
+                "video_results": 0.9113265327785326,
+                "video_sim": 83.842041015625,
+                "cnt_per_video": 92
+            },
+            {
+                "video_path": "../merged_videos/merged_video_34.mp4",
+                "video_results": 0.9324793836805556,
+                "video_sim": 209.807861328125,
+                "cnt_per_video": 225
+            },
+            {
+                "video_path": "../merged_videos/merged_video_99.mp4",
+                "video_results": 0.9460678100585938,
+                "video_sim": 151.370849609375,
+                "cnt_per_video": 160
+            },
+            {
+                "video_path": "../merged_videos/merged_video_57.mp4",
+                "video_results": 0.8311436379602714,
+                "video_sim": 107.217529296875,
+                "cnt_per_video": 129
+            },
+            {
+                "video_path": "../merged_videos/merged_video_89.mp4",
+                "video_results": 0.9047375695180084,
+                "video_sim": 106.759033203125,
+                "cnt_per_video": 118
+            },
+            {
+                "video_path": "../merged_videos/merged_video_100.mp4",
+                "video_results": 0.8713895700273723,
+                "video_sim": 119.38037109375,
+                "cnt_per_video": 137
+            },
+            {
+                "video_path": "../merged_videos/merged_video_35.mp4",
+                "video_results": 0.9306640625,
+                "video_sim": 136.8076171875,
+                "cnt_per_video": 147
+            },
+            {
+                "video_path": "../merged_videos/merged_video_28.mp4",
+                "video_results": 0.879257551586355,
+                "video_sim": 115.1827392578125,
+                "cnt_per_video": 131
+            },
+            {
+                "video_path": "../merged_videos/merged_video_74.mp4",
+                "video_results": 0.91035888671875,
+                "video_sim": 91.035888671875,
+                "cnt_per_video": 100
+            },
+            {
+                "video_path": "../merged_videos/merged_video_21.mp4",
+                "video_results": 0.8612889419367284,
+                "video_sim": 139.52880859375,
+                "cnt_per_video": 162
+            },
+            {
+                "video_path": "../merged_videos/merged_video_43.mp4",
+                "video_results": 0.8901649876644737,
+                "video_sim": 169.13134765625,
+                "cnt_per_video": 190
+            },
+            {
+                "video_path": "../merged_videos/merged_video_51.mp4",
+                "video_results": 0.8766820240605828,
+                "video_sim": 142.899169921875,
+                "cnt_per_video": 163
+            },
+            {
+                "video_path": "../merged_videos/merged_video_95.mp4",
+                "video_results": 0.9435503559727823,
+                "video_sim": 117.000244140625,
+                "cnt_per_video": 124
+            },
+            {
+                "video_path": "../merged_videos/merged_video_39.mp4",
+                "video_results": 0.8713119969223485,
+                "video_sim": 115.01318359375,
+                "cnt_per_video": 132
+            },
+            {
+                "video_path": "../merged_videos/merged_video_72.mp4",
+                "video_results": 0.8726754324776785,
+                "video_sim": 122.174560546875,
+                "cnt_per_video": 140
+            },
+            {
+                "video_path": "../merged_videos/merged_video_11.mp4",
+                "video_results": 0.947851088440534,
+                "video_sim": 97.628662109375,
+                "cnt_per_video": 103
+            },
+            {
+                "video_path": "../merged_videos/merged_video_23.mp4",
+                "video_results": 0.9032963771446079,
+                "video_sim": 92.13623046875,
+                "cnt_per_video": 102
+            },
+            {
+                "video_path": "../merged_videos/merged_video_46.mp4",
+                "video_results": 0.85290771484375,
+                "video_sim": 85.290771484375,
+                "cnt_per_video": 100
+            },
+            {
+                "video_path": "../merged_videos/merged_video_20.mp4",
+                "video_results": 0.900584151105183,
+                "video_sim": 147.69580078125,
+                "cnt_per_video": 164
+            },
+            {
+                "video_path": "../merged_videos/merged_video_42.mp4",
+                "video_results": 0.9175427667025862,
+                "video_sim": 133.043701171875,
+                "cnt_per_video": 145
+            },
+            {
+                "video_path": "../merged_videos/merged_video_8.mp4",
+                "video_results": 0.8878829956054688,
+                "video_sim": 142.061279296875,
+                "cnt_per_video": 160
+            },
+            {
+                "video_path": "../merged_videos/merged_video_71.mp4",
+                "video_results": 0.8799290707236842,
+                "video_sim": 250.77978515625,
+                "cnt_per_video": 285
+            },
+            {
+                "video_path": "../merged_videos/merged_video_92.mp4",
+                "video_results": 0.9101260230654762,
+                "video_sim": 95.563232421875,
+                "cnt_per_video": 105
+            },
+            {
+                "video_path": "../merged_videos/merged_video_13.mp4",
+                "video_results": 0.9244059244791667,
+                "video_sim": 194.125244140625,
+                "cnt_per_video": 210
+            },
+            {
+                "video_path": "../merged_videos/merged_video_24.mp4",
+                "video_results": 0.9254907535601266,
+                "video_sim": 146.2275390625,
+                "cnt_per_video": 158
+            },
+            {
+                "video_path": "../merged_videos/merged_video_88.mp4",
+                "video_results": 0.8661813918192676,
+                "video_sim": 135.990478515625,
+                "cnt_per_video": 157
+            },
+            {
+                "video_path": "../merged_videos/merged_video_2.mp4",
+                "video_results": 0.921576958198052,
+                "video_sim": 141.9228515625,
+                "cnt_per_video": 154
+            },
+            {
+                "video_path": "../merged_videos/merged_video_18.mp4",
+                "video_results": 0.8948687385110294,
+                "video_sim": 91.276611328125,
+                "cnt_per_video": 102
+            },
+            {
+                "video_path": "../merged_videos/merged_video_56.mp4",
+                "video_results": 0.8871359850363757,
+                "video_sim": 167.668701171875,
+                "cnt_per_video": 189
+            },
+            {
+                "video_path": "../merged_videos/merged_video_14.mp4",
+                "video_results": 0.8481616870777027,
+                "video_sim": 156.909912109375,
+                "cnt_per_video": 185
+            },
+            {
+                "video_path": "../merged_videos/merged_video_26.mp4",
+                "video_results": 0.8866765301926691,
+                "video_sim": 117.927978515625,
+                "cnt_per_video": 133
+            },
+            {
+                "video_path": "../merged_videos/merged_video_19.mp4",
+                "video_results": 0.9149040670955882,
+                "video_sim": 77.766845703125,
+                "cnt_per_video": 85
+            },
+            {
+                "video_path": "../merged_videos/merged_video_91.mp4",
+                "video_results": 0.9042643229166667,
+                "video_sim": 94.94775390625,
+                "cnt_per_video": 105
+            },
+            {
+                "video_path": "../merged_videos/merged_video_69.mp4",
+                "video_results": 0.8748065109569502,
+                "video_sim": 210.828369140625,
+                "cnt_per_video": 241
+            },
+            {
+                "video_path": "../merged_videos/merged_video_87.mp4",
+                "video_results": 0.887146898091133,
+                "video_sim": 180.0908203125,
+                "cnt_per_video": 203
+            },
+            {
+                "video_path": "../merged_videos/merged_video_65.mp4",
+                "video_results": 0.8969985826880531,
+                "video_sim": 101.36083984375,
+                "cnt_per_video": 113
+            },
+            {
+                "video_path": "../merged_videos/merged_video_63.mp4",
+                "video_results": 0.8851391734972678,
+                "video_sim": 161.98046875,
+                "cnt_per_video": 183
+            },
+            {
+                "video_path": "../merged_videos/merged_video_52.mp4",
+                "video_results": 0.8793561845549738,
+                "video_sim": 167.95703125,
+                "cnt_per_video": 191
+            },
+            {
+                "video_path": "../merged_videos/merged_video_82.mp4",
+                "video_results": 0.9136127039716748,
+                "video_sim": 185.46337890625,
+                "cnt_per_video": 203
+            },
+            {
+                "video_path": "../merged_videos/merged_video_86.mp4",
+                "video_results": 0.8649627410613738,
+                "video_sim": 96.0108642578125,
+                "cnt_per_video": 111
+            },
+            {
+                "video_path": "../merged_videos/merged_video_29.mp4",
+                "video_results": 0.9136472092461341,
+                "video_sim": 88.623779296875,
+                "cnt_per_video": 97
+            },
+            {
+                "video_path": "../merged_videos/merged_video_60.mp4",
+                "video_results": 0.8726001880787037,
+                "video_sim": 117.801025390625,
+                "cnt_per_video": 135
+            },
+            {
+                "video_path": "../merged_videos/merged_video_40.mp4",
+                "video_results": 0.8690089805453431,
+                "video_sim": 177.27783203125,
+                "cnt_per_video": 204
+            },
+            {
+                "video_path": "../merged_videos/merged_video_10.mp4",
+                "video_results": 0.9285576398982558,
+                "video_sim": 119.783935546875,
+                "cnt_per_video": 129
+            },
+            {
+                "video_path": "../merged_videos/merged_video_93.mp4",
+                "video_results": 0.8999897971082089,
+                "video_sim": 180.89794921875,
+                "cnt_per_video": 201
+            },
+            {
+                "video_path": "../merged_videos/merged_video_15.mp4",
+                "video_results": 0.9462115807447605,
+                "video_sim": 158.017333984375,
+                "cnt_per_video": 167
+            },
+            {
+                "video_path": "../merged_videos/merged_video_6.mp4",
+                "video_results": 0.8980795851031553,
+                "video_sim": 92.502197265625,
+                "cnt_per_video": 103
+            },
+            {
+                "video_path": "../merged_videos/merged_video_49.mp4",
+                "video_results": 0.8939248361895161,
+                "video_sim": 83.135009765625,
+                "cnt_per_video": 93
+            },
+            {
+                "video_path": "../merged_videos/merged_video_54.mp4",
+                "video_results": 0.8806314204937845,
+                "video_sim": 159.394287109375,
+                "cnt_per_video": 181
+            },
+            {
+                "video_path": "../merged_videos/merged_video_25.mp4",
+                "video_results": 0.9197828752281022,
+                "video_sim": 126.01025390625,
+                "cnt_per_video": 137
+            },
+            {
+                "video_path": "../merged_videos/merged_video_77.mp4",
+                "video_results": 0.9223800223214286,
+                "video_sim": 161.41650390625,
+                "cnt_per_video": 175
+            },
+            {
+                "video_path": "../merged_videos/merged_video_30.mp4",
+                "video_results": 0.8782410141109496,
+                "video_sim": 113.2930908203125,
+                "cnt_per_video": 129
+            },
+            {
+                "video_path": "../merged_videos/merged_video_17.mp4",
+                "video_results": 0.9489728402400363,
+                "video_sim": 130.958251953125,
+                "cnt_per_video": 138
+            },
+            {
+                "video_path": "../merged_videos/merged_video_36.mp4",
+                "video_results": 0.9072846912202381,
+                "video_sim": 114.31787109375,
+                "cnt_per_video": 126
+            },
+            {
+                "video_path": "../merged_videos/merged_video_5.mp4",
+                "video_results": 0.884454345703125,
+                "video_sim": 88.4454345703125,
+                "cnt_per_video": 100
+            },
+            {
+                "video_path": "../merged_videos/merged_video_33.mp4",
+                "video_results": 0.8957560736418776,
+                "video_sim": 212.294189453125,
+                "cnt_per_video": 237
+            },
+            {
+                "video_path": "../merged_videos/merged_video_16.mp4",
+                "video_results": 0.8985068044354839,
+                "video_sim": 139.2685546875,
+                "cnt_per_video": 155
+            },
+            {
+                "video_path": "../merged_videos/merged_video_4.mp4",
+                "video_results": 0.9258716724537037,
+                "video_sim": 149.9912109375,
+                "cnt_per_video": 162
+            },
+            {
+                "video_path": "../merged_videos/merged_video_48.mp4",
+                "video_results": 0.8975996537642046,
+                "video_sim": 98.7359619140625,
+                "cnt_per_video": 110
+            },
+            {
+                "video_path": "../merged_videos/merged_video_44.mp4",
+                "video_results": 0.8887677873883929,
+                "video_sim": 87.0992431640625,
+                "cnt_per_video": 98
+            },
+            {
+                "video_path": "../merged_videos/merged_video_31.mp4",
+                "video_results": 0.9002882215711806,
+                "video_sim": 162.0518798828125,
+                "cnt_per_video": 180
+            },
+            {
+                "video_path": "../merged_videos/merged_video_70.mp4",
+                "video_results": 0.8828618091902709,
+                "video_sim": 179.220947265625,
+                "cnt_per_video": 203
+            },
+            {
+                "video_path": "../merged_videos/merged_video_96.mp4",
+                "video_results": 0.9260530291863207,
+                "video_sim": 98.16162109375,
+                "cnt_per_video": 106
+            },
+            {
+                "video_path": "../merged_videos/merged_video_73.mp4",
+                "video_results": 0.947494182180851,
+                "video_sim": 178.12890625,
+                "cnt_per_video": 188
+            },
+            {
+                "video_path": "../merged_videos/merged_video_7.mp4",
+                "video_results": 0.8684191022600446,
+                "video_sim": 97.262939453125,
+                "cnt_per_video": 112
+            },
+            {
+                "video_path": "../merged_videos/merged_video_83.mp4",
+                "video_results": 0.9232850366709183,
+                "video_sim": 135.722900390625,
+                "cnt_per_video": 147
+            },
+            {
+                "video_path": "../merged_videos/merged_video_76.mp4",
+                "video_results": 0.8959363301595052,
+                "video_sim": 86.0098876953125,
+                "cnt_per_video": 96
+            }
+        ]
+    ],
+    "temporal_flickering": [
+        0.9867634170102138,
+        [
+            {
+                "video_path": "../merged_videos/merged_video_22.mp4",
+                "video_results": 0.9907564107109519
+            },
+            {
+                "video_path": "../merged_videos/merged_video_3.mp4",
+                "video_results": 0.9929003243352853
+            },
+            {
+                "video_path": "../merged_videos/merged_video_1.mp4",
+                "video_results": 0.9795955096974093
+            },
+            {
+                "video_path": "../merged_videos/merged_video_53.mp4",
+                "video_results": 0.9841076159009746
+            },
+            {
+                "video_path": "../merged_videos/merged_video_62.mp4",
+                "video_results": 0.9871481418609619
+            },
+            {
+                "video_path": "../merged_videos/merged_video_27.mp4",
+                "video_results": 0.9910997736687753
+            },
+            {
+                "video_path": "../merged_videos/merged_video_78.mp4",
+                "video_results": 0.9852901972976386
+            },
+            {
+                "video_path": "../merged_videos/merged_video_45.mp4",
+                "video_results": 0.9881644800597547
+            },
+            {
+                "video_path": "../merged_videos/merged_video_9.mp4",
+                "video_results": 0.9678189258949429
+            },
+            {
+                "video_path": "../merged_videos/merged_video_75.mp4",
+                "video_results": 0.9911016520331888
+            },
+            {
+                "video_path": "../merged_videos/merged_video_37.mp4",
+                "video_results": 0.9739323503830853
+            },
+            {
+                "video_path": "../merged_videos/merged_video_59.mp4",
+                "video_results": 0.9895763144773595
+            },
+            {
+                "video_path": "../merged_videos/merged_video_94.mp4",
+                "video_results": 0.9560520770503026
+            },
+            {
+                "video_path": "../merged_videos/merged_video_84.mp4",
+                "video_results": 0.9760857338998832
+            },
+            {
+                "video_path": "../merged_videos/merged_video_41.mp4",
+                "video_results": 0.9606384838328642
+            },
+            {
+                "video_path": "../merged_videos/merged_video_90.mp4",
+                "video_results": 0.9932742890189675
+            },
+            {
+                "video_path": "../merged_videos/merged_video_47.mp4",
+                "video_results": 0.9888882627674177
+            },
+            {
+                "video_path": "../merged_videos/merged_video_61.mp4",
+                "video_results": 0.9874265680126115
+            },
+            {
+                "video_path": "../merged_videos/merged_video_98.mp4",
+                "video_results": 0.9907455257340974
+            },
+            {
+                "video_path": "../merged_videos/merged_video_68.mp4",
+                "video_results": 0.9894647355173148
+            },
+            {
+                "video_path": "../merged_videos/merged_video_81.mp4",
+                "video_results": 0.9924665507148294
+            },
+            {
+                "video_path": "../merged_videos/merged_video_66.mp4",
+                "video_results": 0.9841326676163019
+            },
+            {
+                "video_path": "../merged_videos/merged_video_58.mp4",
+                "video_results": 0.9973975581281326
+            },
+            {
+                "video_path": "../merged_videos/merged_video_12.mp4",
+                "video_results": 0.9921665182300642
+            },
+            {
+                "video_path": "../merged_videos/merged_video_80.mp4",
+                "video_results": 0.9906962478862089
+            },
+            {
+                "video_path": "../merged_videos/merged_video_67.mp4",
+                "video_results": 0.9880699587803261
+            },
+            {
+                "video_path": "../merged_videos/merged_video_85.mp4",
+                "video_results": 0.9928545292686014
+            },
+            {
+                "video_path": "../merged_videos/merged_video_32.mp4",
+                "video_results": 0.9856614973030838
+            },
+            {
+                "video_path": "../merged_videos/merged_video_79.mp4",
+                "video_results": 0.9933606680701761
+            },
+            {
+                "video_path": "../merged_videos/merged_video_64.mp4",
+                "video_results": 0.9929150768354827
+            },
+            {
+                "video_path": "../merged_videos/merged_video_50.mp4",
+                "video_results": 0.9710636699900907
+            },
+            {
+                "video_path": "../merged_videos/merged_video_55.mp4",
+                "video_results": 0.9628753849104339
+            },
+            {
+                "video_path": "../merged_videos/merged_video_97.mp4",
+                "video_results": 0.9888969355938482
+            },
+            {
+                "video_path": "../merged_videos/merged_video_38.mp4",
+                "video_results": 0.9829366029477586
+            },
+            {
+                "video_path": "../merged_videos/merged_video_34.mp4",
+                "video_results": 0.9939606086880552
+            },
+            {
+                "video_path": "../merged_videos/merged_video_99.mp4",
+                "video_results": 0.9953747805427102
+            },
+            {
+                "video_path": "../merged_videos/merged_video_57.mp4",
+                "video_results": 0.98473300372853
+            },
+            {
+                "video_path": "../merged_videos/merged_video_89.mp4",
+                "video_results": 0.97442133473415
+            },
+            {
+                "video_path": "../merged_videos/merged_video_100.mp4",
+                "video_results": 0.9856500232920927
+            },
+            {
+                "video_path": "../merged_videos/merged_video_35.mp4",
+                "video_results": 0.9885648568471272
+            },
+            {
+                "video_path": "../merged_videos/merged_video_28.mp4",
+                "video_results": 0.9796486854553222
+            },
+            {
+                "video_path": "../merged_videos/merged_video_74.mp4",
+                "video_results": 0.9786240633796243
+            },
+            {
+                "video_path": "../merged_videos/merged_video_21.mp4",
+                "video_results": 0.9736657011742685
+            },
+            {
+                "video_path": "../merged_videos/merged_video_43.mp4",
+                "video_results": 0.9914722096686269
+            },
+            {
+                "video_path": "../merged_videos/merged_video_51.mp4",
+                "video_results": 0.9941273623821782
+            },
+            {
+                "video_path": "../merged_videos/merged_video_95.mp4",
+                "video_results": 0.983580841737635
+            },
+            {
+                "video_path": "../merged_videos/merged_video_39.mp4",
+                "video_results": 0.9939076110428455
+            },
+            {
+                "video_path": "../merged_videos/merged_video_72.mp4",
+                "video_results": 0.9922253248738307
+            },
+            {
+                "video_path": "../merged_videos/merged_video_11.mp4",
+                "video_results": 0.9882386310427796
+            },
+            {
+                "video_path": "../merged_videos/merged_video_23.mp4",
+                "video_results": 0.9951973162445368
+            },
+            {
+                "video_path": "../merged_videos/merged_video_46.mp4",
+                "video_results": 0.9812317941703048
+            },
+            {
+                "video_path": "../merged_videos/merged_video_20.mp4",
+                "video_results": 0.9807514097176346
+            },
+            {
+                "video_path": "../merged_videos/merged_video_42.mp4",
+                "video_results": 0.9955527847888423
+            },
+            {
+                "video_path": "../merged_videos/merged_video_8.mp4",
+                "video_results": 0.9886665895873425
+            },
+            {
+                "video_path": "../merged_videos/merged_video_71.mp4",
+                "video_results": 0.992408964213203
+            },
+            {
+                "video_path": "../merged_videos/merged_video_92.mp4",
+                "video_results": 0.9919934001623415
+            },
+            {
+                "video_path": "../merged_videos/merged_video_13.mp4",
+                "video_results": 0.996327969607185
+            },
+            {
+                "video_path": "../merged_videos/merged_video_24.mp4",
+                "video_results": 0.9953215781380148
+            },
+            {
+                "video_path": "../merged_videos/merged_video_88.mp4",
+                "video_results": 0.9567422268437404
+            },
+            {
+                "video_path": "../merged_videos/merged_video_2.mp4",
+                "video_results": 0.9788239273370481
+            },
+            {
+                "video_path": "../merged_videos/merged_video_18.mp4",
+                "video_results": 0.9884958435507382
+            },
+            {
+                "video_path": "../merged_videos/merged_video_56.mp4",
+                "video_results": 0.98739340913062
+            },
+            {
+                "video_path": "../merged_videos/merged_video_14.mp4",
+                "video_results": 0.9910940815420711
+            },
+            {
+                "video_path": "../merged_videos/merged_video_26.mp4",
+                "video_results": 0.9864759230146221
+            },
+            {
+                "video_path": "../merged_videos/merged_video_19.mp4",
+                "video_results": 0.9803384874381271
+            },
+            {
+                "video_path": "../merged_videos/merged_video_91.mp4",
+                "video_results": 0.9933285764619416
+            },
+            {
+                "video_path": "../merged_videos/merged_video_69.mp4",
+                "video_results": 0.9895661690655877
+            },
+            {
+                "video_path": "../merged_videos/merged_video_87.mp4",
+                "video_results": 0.9875774776234346
+            },
+            {
+                "video_path": "../merged_videos/merged_video_65.mp4",
+                "video_results": 0.9875965800939822
+            },
+            {
+                "video_path": "../merged_videos/merged_video_63.mp4",
+                "video_results": 0.9899076041053323
+            },
+            {
+                "video_path": "../merged_videos/merged_video_52.mp4",
+                "video_results": 0.9890510465584549
+            },
+            {
+                "video_path": "../merged_videos/merged_video_82.mp4",
+                "video_results": 0.990140598895503
+            },
+            {
+                "video_path": "../merged_videos/merged_video_86.mp4",
+                "video_results": 0.9957896148457247
+            },
+            {
+                "video_path": "../merged_videos/merged_video_29.mp4",
+                "video_results": 0.9749692224988751
+            },
+            {
+                "video_path": "../merged_videos/merged_video_60.mp4",
+                "video_results": 0.9792063918768191
+            },
+            {
+                "video_path": "../merged_videos/merged_video_40.mp4",
+                "video_results": 0.9920738005170635
+            },
+            {
+                "video_path": "../merged_videos/merged_video_10.mp4",
+                "video_results": 0.9894598530788048
+            },
+            {
+                "video_path": "../merged_videos/merged_video_93.mp4",
+                "video_results": 0.9771389344159295
+            },
+            {
+                "video_path": "../merged_videos/merged_video_15.mp4",
+                "video_results": 0.988725871665805
+            },
+            {
+                "video_path": "../merged_videos/merged_video_6.mp4",
+                "video_results": 0.9908929506937663
+            },
+            {
+                "video_path": "../merged_videos/merged_video_49.mp4",
+                "video_results": 0.981022746890199
+            },
+            {
+                "video_path": "../merged_videos/merged_video_54.mp4",
+                "video_results": 0.9817750631594191
+            },
+            {
+                "video_path": "../merged_videos/merged_video_25.mp4",
+                "video_results": 0.990751729292028
+            },
+            {
+                "video_path": "../merged_videos/merged_video_77.mp4",
+                "video_results": 0.9892737080069149
+            },
+            {
+                "video_path": "../merged_videos/merged_video_30.mp4",
+                "video_results": 0.9948222983117198
+            },
+            {
+                "video_path": "../merged_videos/merged_video_17.mp4",
+                "video_results": 0.9942194971383786
+            },
+            {
+                "video_path": "../merged_videos/merged_video_36.mp4",
+                "video_results": 0.9938586122849409
+            },
+            {
+                "video_path": "../merged_videos/merged_video_5.mp4",
+                "video_results": 0.9933051244885314
+            },
+            {
+                "video_path": "../merged_videos/merged_video_33.mp4",
+                "video_results": 0.9800260412926768
+            },
+            {
+                "video_path": "../merged_videos/merged_video_16.mp4",
+                "video_results": 0.9957078162361593
+            },
+            {
+                "video_path": "../merged_videos/merged_video_4.mp4",
+                "video_results": 0.9960816621780395
+            },
+            {
+                "video_path": "../merged_videos/merged_video_48.mp4",
+                "video_results": 0.994570985027388
+            },
+            {
+                "video_path": "../merged_videos/merged_video_44.mp4",
+                "video_results": 0.9974311844975341
+            },
+            {
+                "video_path": "../merged_videos/merged_video_31.mp4",
+                "video_results": 0.9951501589195401
+            },
+            {
+                "video_path": "../merged_videos/merged_video_70.mp4",
+                "video_results": 0.9904355254827761
+            },
+            {
+                "video_path": "../merged_videos/merged_video_96.mp4",
+                "video_results": 0.9839693462147432
+            },
+            {
+                "video_path": "../merged_videos/merged_video_73.mp4",
+                "video_results": 0.9851835783790139
+            },
+            {
+                "video_path": "../merged_videos/merged_video_7.mp4",
+                "video_results": 0.9829529463076124
+            },
+            {
+                "video_path": "../merged_videos/merged_video_83.mp4",
+                "video_results": 0.9924674679251279
+            },
+            {
+                "video_path": "../merged_videos/merged_video_76.mp4",
+                "video_results": 0.9833395340863396
+            }
+        ]
+    ],
+    "motion_smoothness": [
+        0.9893112682191653,
+        [
+            {
+                "video_path": "../merged_videos/merged_video_22.mp4",
+                "video_results": 0.9924945352322009
+            },
+            {
+                "video_path": "../merged_videos/merged_video_3.mp4",
+                "video_results": 0.9932096750982529
+            },
+            {
+                "video_path": "../merged_videos/merged_video_1.mp4",
+                "video_results": 0.9895611489618996
+            },
+            {
+                "video_path": "../merged_videos/merged_video_53.mp4",
+                "video_results": 0.9906644874022232
+            },
+            {
+                "video_path": "../merged_videos/merged_video_62.mp4",
+                "video_results": 0.9891269583396745
+            },
+            {
+                "video_path": "../merged_videos/merged_video_27.mp4",
+                "video_results": 0.9929507470097048
+            },
+            {
+                "video_path": "../merged_videos/merged_video_78.mp4",
+                "video_results": 0.98851868403129
+            },
+            {
+                "video_path": "../merged_videos/merged_video_45.mp4",
+                "video_results": 0.9918992803929231
+            },
+            {
+                "video_path": "../merged_videos/merged_video_9.mp4",
+                "video_results": 0.9733484402461634
+            },
+            {
+                "video_path": "../merged_videos/merged_video_75.mp4",
+                "video_results": 0.9926982444395075
+            },
+            {
+                "video_path": "../merged_videos/merged_video_37.mp4",
+                "video_results": 0.9816756751999122
+            },
+            {
+                "video_path": "../merged_videos/merged_video_59.mp4",
+                "video_results": 0.9919980766367651
+            },
+            {
+                "video_path": "../merged_videos/merged_video_94.mp4",
+                "video_results": 0.9601995299602769
+            },
+            {
+                "video_path": "../merged_videos/merged_video_84.mp4",
+                "video_results": 0.9824574866043061
+            },
+            {
+                "video_path": "../merged_videos/merged_video_41.mp4",
+                "video_results": 0.972831488838205
+            },
+            {
+                "video_path": "../merged_videos/merged_video_90.mp4",
+                "video_results": 0.9921423925783877
+            },
+            {
+                "video_path": "../merged_videos/merged_video_47.mp4",
+                "video_results": 0.9914795889560326
+            },
+            {
+                "video_path": "../merged_videos/merged_video_61.mp4",
+                "video_results": 0.9895775357030846
+            },
+            {
+                "video_path": "../merged_videos/merged_video_98.mp4",
+                "video_results": 0.9923069998386399
+            },
+            {
+                "video_path": "../merged_videos/merged_video_68.mp4",
+                "video_results": 0.9876501713594147
+            },
+            {
+                "video_path": "../merged_videos/merged_video_81.mp4",
+                "video_results": 0.9945063735146168
+            },
+            {
+                "video_path": "../merged_videos/merged_video_66.mp4",
+                "video_results": 0.9889115828938898
+            },
+            {
+                "video_path": "../merged_videos/merged_video_58.mp4",
+                "video_results": 0.99672365928914
+            },
+            {
+                "video_path": "../merged_videos/merged_video_12.mp4",
+                "video_results": 0.9915873685299333
+            },
+            {
+                "video_path": "../merged_videos/merged_video_80.mp4",
+                "video_results": 0.9925908019504979
+            },
+            {
+                "video_path": "../merged_videos/merged_video_67.mp4",
+                "video_results": 0.989491758152914
+            },
+            {
+                "video_path": "../merged_videos/merged_video_85.mp4",
+                "video_results": 0.9926478341706068
+            },
+            {
+                "video_path": "../merged_videos/merged_video_32.mp4",
+                "video_results": 0.989761419897177
+            },
+            {
+                "video_path": "../merged_videos/merged_video_79.mp4",
+                "video_results": 0.9940826158899345
+            },
+            {
+                "video_path": "../merged_videos/merged_video_64.mp4",
+                "video_results": 0.9937589442833523
+            },
+            {
+                "video_path": "../merged_videos/merged_video_50.mp4",
+                "video_results": 0.9717401500009727
+            },
+            {
+                "video_path": "../merged_videos/merged_video_55.mp4",
+                "video_results": 0.9675367446610675
+            },
+            {
+                "video_path": "../merged_videos/merged_video_97.mp4",
+                "video_results": 0.9900072724947425
+            },
+            {
+                "video_path": "../merged_videos/merged_video_38.mp4",
+                "video_results": 0.9889876186145251
+            },
+            {
+                "video_path": "../merged_videos/merged_video_34.mp4",
+                "video_results": 0.9947574329029933
+            },
+            {
+                "video_path": "../merged_videos/merged_video_99.mp4",
+                "video_results": 0.9943724836317629
+            },
+            {
+                "video_path": "../merged_videos/merged_video_57.mp4",
+                "video_results": 0.9868295410200575
+            },
+            {
+                "video_path": "../merged_videos/merged_video_89.mp4",
+                "video_results": 0.9824560768168104
+            },
+            {
+                "video_path": "../merged_videos/merged_video_100.mp4",
+                "video_results": 0.9879946450717406
+            },
+            {
+                "video_path": "../merged_videos/merged_video_35.mp4",
+                "video_results": 0.9917100079872924
+            },
+            {
+                "video_path": "../merged_videos/merged_video_28.mp4",
+                "video_results": 0.9809724987867299
+            },
+            {
+                "video_path": "../merged_videos/merged_video_74.mp4",
+                "video_results": 0.9811305233013344
+            },
+            {
+                "video_path": "../merged_videos/merged_video_21.mp4",
+                "video_results": 0.9849301521545261
+            },
+            {
+                "video_path": "../merged_videos/merged_video_43.mp4",
+                "video_results": 0.9926087442189351
+            },
+            {
+                "video_path": "../merged_videos/merged_video_51.mp4",
+                "video_results": 0.9949109297986599
+            },
+            {
+                "video_path": "../merged_videos/merged_video_95.mp4",
+                "video_results": 0.9854282158045043
+            },
+            {
+                "video_path": "../merged_videos/merged_video_39.mp4",
+                "video_results": 0.9942242401204309
+            },
+            {
+                "video_path": "../merged_videos/merged_video_72.mp4",
+                "video_results": 0.9935378143965921
+            },
+            {
+                "video_path": "../merged_videos/merged_video_11.mp4",
+                "video_results": 0.9899056310807275
+            },
+            {
+                "video_path": "../merged_videos/merged_video_23.mp4",
+                "video_results": 0.994443349307202
+            },
+            {
+                "video_path": "../merged_videos/merged_video_46.mp4",
+                "video_results": 0.9799924011664851
+            },
+            {
+                "video_path": "../merged_videos/merged_video_20.mp4",
+                "video_results": 0.9871598495315019
+            },
+            {
+                "video_path": "../merged_videos/merged_video_42.mp4",
+                "video_results": 0.9954650753221009
+            },
+            {
+                "video_path": "../merged_videos/merged_video_8.mp4",
+                "video_results": 0.9914338872861065
+            },
+            {
+                "video_path": "../merged_videos/merged_video_71.mp4",
+                "video_results": 0.9940991802017168
+            },
+            {
+                "video_path": "../merged_videos/merged_video_92.mp4",
+                "video_results": 0.9925547047389113
+            },
+            {
+                "video_path": "../merged_videos/merged_video_13.mp4",
+                "video_results": 0.9957120798589497
+            },
+            {
+                "video_path": "../merged_videos/merged_video_24.mp4",
+                "video_results": 0.9960278557174892
+            },
+            {
+                "video_path": "../merged_videos/merged_video_88.mp4",
+                "video_results": 0.9713969759385532
+            },
+            {
+                "video_path": "../merged_videos/merged_video_2.mp4",
+                "video_results": 0.9833171962756062
+            },
+            {
+                "video_path": "../merged_videos/merged_video_18.mp4",
+                "video_results": 0.9905745872258443
+            },
+            {
+                "video_path": "../merged_videos/merged_video_56.mp4",
+                "video_results": 0.9892669897792524
+            },
+            {
+                "video_path": "../merged_videos/merged_video_14.mp4",
+                "video_results": 0.9941401417293718
+            },
+            {
+                "video_path": "../merged_videos/merged_video_26.mp4",
+                "video_results": 0.9917841560906244
+            },
+            {
+                "video_path": "../merged_videos/merged_video_19.mp4",
+                "video_results": 0.9881643580995284
+            },
+            {
+                "video_path": "../merged_videos/merged_video_91.mp4",
+                "video_results": 0.9924668558473514
+            },
+            {
+                "video_path": "../merged_videos/merged_video_69.mp4",
+                "video_results": 0.9906438778916273
+            },
+            {
+                "video_path": "../merged_videos/merged_video_87.mp4",
+                "video_results": 0.9902324928367019
+            },
+            {
+                "video_path": "../merged_videos/merged_video_65.mp4",
+                "video_results": 0.9888553154624118
+            },
+            {
+                "video_path": "../merged_videos/merged_video_63.mp4",
+                "video_results": 0.992000784105487
+            },
+            {
+                "video_path": "../merged_videos/merged_video_52.mp4",
+                "video_results": 0.9918781065907722
+            },
+            {
+                "video_path": "../merged_videos/merged_video_82.mp4",
+                "video_results": 0.9928764116646039
+            },
+            {
+                "video_path": "../merged_videos/merged_video_86.mp4",
+                "video_results": 0.9947027521177872
+            },
+            {
+                "video_path": "../merged_videos/merged_video_29.mp4",
+                "video_results": 0.9841821643955856
+            },
+            {
+                "video_path": "../merged_videos/merged_video_60.mp4",
+                "video_results": 0.9817186883740678
+            },
+            {
+                "video_path": "../merged_videos/merged_video_40.mp4",
+                "video_results": 0.9932381660126491
+            },
+            {
+                "video_path": "../merged_videos/merged_video_10.mp4",
+                "video_results": 0.9904845553794978
+            },
+            {
+                "video_path": "../merged_videos/merged_video_93.mp4",
+                "video_results": 0.98283031184754
+            },
+            {
+                "video_path": "../merged_videos/merged_video_15.mp4",
+                "video_results": 0.9901774188939855
+            },
+            {
+                "video_path": "../merged_videos/merged_video_6.mp4",
+                "video_results": 0.9928007799706666
+            },
+            {
+                "video_path": "../merged_videos/merged_video_49.mp4",
+                "video_results": 0.9884113077371649
+            },
+            {
+                "video_path": "../merged_videos/merged_video_54.mp4",
+                "video_results": 0.9876745278490126
+            },
+            {
+                "video_path": "../merged_videos/merged_video_25.mp4",
+                "video_results": 0.9908875780657612
+            },
+            {
+                "video_path": "../merged_videos/merged_video_77.mp4",
+                "video_results": 0.9907913284210689
+            },
+            {
+                "video_path": "../merged_videos/merged_video_30.mp4",
+                "video_results": 0.9940660186523792
+            },
+            {
+                "video_path": "../merged_videos/merged_video_17.mp4",
+                "video_results": 0.9944046789362048
+            },
+            {
+                "video_path": "../merged_videos/merged_video_36.mp4",
+                "video_results": 0.9935217677606022
+            },
+            {
+                "video_path": "../merged_videos/merged_video_5.mp4",
+                "video_results": 0.9939235129584241
+            },
+            {
+                "video_path": "../merged_videos/merged_video_33.mp4",
+                "video_results": 0.9850714876373002
+            },
+            {
+                "video_path": "../merged_videos/merged_video_16.mp4",
+                "video_results": 0.9953684476026311
+            },
+            {
+                "video_path": "../merged_videos/merged_video_4.mp4",
+                "video_results": 0.9953114846068457
+            },
+            {
+                "video_path": "../merged_videos/merged_video_48.mp4",
+                "video_results": 0.9944847825425415
+            },
+            {
+                "video_path": "../merged_videos/merged_video_44.mp4",
+                "video_results": 0.9966784025531509
+            },
+            {
+                "video_path": "../merged_videos/merged_video_31.mp4",
+                "video_results": 0.9951563189180637
+            },
+            {
+                "video_path": "../merged_videos/merged_video_70.mp4",
+                "video_results": 0.993157685973867
+            },
+            {
+                "video_path": "../merged_videos/merged_video_96.mp4",
+                "video_results": 0.9876178444025671
+            },
+            {
+                "video_path": "../merged_videos/merged_video_73.mp4",
+                "video_results": 0.9879798753493467
+            },
+            {
+                "video_path": "../merged_videos/merged_video_7.mp4",
+                "video_results": 0.9890869459256504
+            },
+            {
+                "video_path": "../merged_videos/merged_video_83.mp4",
+                "video_results": 0.992907147297735
+            },
+            {
+                "video_path": "../merged_videos/merged_video_76.mp4",
+                "video_results": 0.9851099808008901
+            }
+        ]
+    ],
+    "dynamic_degree": [
+        0.83,
+        [
+            {
+                "video_path": "../merged_videos/merged_video_22.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_3.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_1.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_53.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_62.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_27.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_78.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_45.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_9.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_75.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_37.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_59.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_94.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_84.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_41.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_90.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_47.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_61.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_98.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_68.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_81.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_66.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_58.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_12.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_80.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_67.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_85.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_32.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_79.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_64.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_50.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_55.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_97.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_38.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_34.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_99.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_57.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_89.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_100.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_35.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_28.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_74.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_21.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_43.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_51.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_95.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_39.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_72.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_11.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_23.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_46.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_20.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_42.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_8.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_71.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_92.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_13.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_24.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_88.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_2.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_18.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_56.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_14.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_26.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_19.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_91.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_69.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_87.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_65.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_63.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_52.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_82.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_86.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_29.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_60.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_40.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_10.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_93.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_15.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_6.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_49.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_54.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_25.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_77.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_30.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_17.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_36.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_5.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_33.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_16.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_4.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_48.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_44.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_31.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../merged_videos/merged_video_70.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_96.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_73.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_7.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_83.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../merged_videos/merged_video_76.mp4",
+                "video_results": true
+            }
+        ]
+    ],
+    "aesthetic_quality": [
+        0.5649278751015663,
+        [
+            {
+                "video_path": "../merged_videos/merged_video_22.mp4",
+                "video_results": 0.6162545084953308
+            },
+            {
+                "video_path": "../merged_videos/merged_video_3.mp4",
+                "video_results": 0.5690451264381409
+            },
+            {
+                "video_path": "../merged_videos/merged_video_1.mp4",
+                "video_results": 0.3993057906627655
+            },
+            {
+                "video_path": "../merged_videos/merged_video_53.mp4",
+                "video_results": 0.6721598505973816
+            },
+            {
+                "video_path": "../merged_videos/merged_video_62.mp4",
+                "video_results": 0.5688176155090332
+            },
+            {
+                "video_path": "../merged_videos/merged_video_27.mp4",
+                "video_results": 0.561942458152771
+            },
+            {
+                "video_path": "../merged_videos/merged_video_78.mp4",
+                "video_results": 0.6667146682739258
+            },
+            {
+                "video_path": "../merged_videos/merged_video_45.mp4",
+                "video_results": 0.6088851094245911
+            },
+            {
+                "video_path": "../merged_videos/merged_video_9.mp4",
+                "video_results": 0.5190192461013794
+            },
+            {
+                "video_path": "../merged_videos/merged_video_75.mp4",
+                "video_results": 0.6207872033119202
+            },
+            {
+                "video_path": "../merged_videos/merged_video_37.mp4",
+                "video_results": 0.5625642538070679
+            },
+            {
+                "video_path": "../merged_videos/merged_video_59.mp4",
+                "video_results": 0.6421239376068115
+            },
+            {
+                "video_path": "../merged_videos/merged_video_94.mp4",
+                "video_results": 0.555996298789978
+            },
+            {
+                "video_path": "../merged_videos/merged_video_84.mp4",
+                "video_results": 0.5838126540184021
+            },
+            {
+                "video_path": "../merged_videos/merged_video_41.mp4",
+                "video_results": 0.60566246509552
+            },
+            {
+                "video_path": "../merged_videos/merged_video_90.mp4",
+                "video_results": 0.5717006325721741
+            },
+            {
+                "video_path": "../merged_videos/merged_video_47.mp4",
+                "video_results": 0.6526018977165222
+            },
+            {
+                "video_path": "../merged_videos/merged_video_61.mp4",
+                "video_results": 0.6056294441223145
+            },
+            {
+                "video_path": "../merged_videos/merged_video_98.mp4",
+                "video_results": 0.5779109001159668
+            },
+            {
+                "video_path": "../merged_videos/merged_video_68.mp4",
+                "video_results": 0.5615516901016235
+            },
+            {
+                "video_path": "../merged_videos/merged_video_81.mp4",
+                "video_results": 0.5839868783950806
+            },
+            {
+                "video_path": "../merged_videos/merged_video_66.mp4",
+                "video_results": 0.6218655109405518
+            },
+            {
+                "video_path": "../merged_videos/merged_video_58.mp4",
+                "video_results": 0.4090023338794708
+            },
+            {
+                "video_path": "../merged_videos/merged_video_12.mp4",
+                "video_results": 0.4315221309661865
+            },
+            {
+                "video_path": "../merged_videos/merged_video_80.mp4",
+                "video_results": 0.6577401161193848
+            },
+            {
+                "video_path": "../merged_videos/merged_video_67.mp4",
+                "video_results": 0.5947539210319519
+            },
+            {
+                "video_path": "../merged_videos/merged_video_85.mp4",
+                "video_results": 0.5280216336250305
+            },
+            {
+                "video_path": "../merged_videos/merged_video_32.mp4",
+                "video_results": 0.6108776926994324
+            },
+            {
+                "video_path": "../merged_videos/merged_video_79.mp4",
+                "video_results": 0.4670315384864807
+            },
+            {
+                "video_path": "../merged_videos/merged_video_64.mp4",
+                "video_results": 0.5573927760124207
+            },
+            {
+                "video_path": "../merged_videos/merged_video_50.mp4",
+                "video_results": 0.5715292096138
+            },
+            {
+                "video_path": "../merged_videos/merged_video_55.mp4",
+                "video_results": 0.5460295677185059
+            },
+            {
+                "video_path": "../merged_videos/merged_video_97.mp4",
+                "video_results": 0.5228946805000305
+            },
+            {
+                "video_path": "../merged_videos/merged_video_38.mp4",
+                "video_results": 0.7208307981491089
+            },
+            {
+                "video_path": "../merged_videos/merged_video_34.mp4",
+                "video_results": 0.5804392099380493
+            },
+            {
+                "video_path": "../merged_videos/merged_video_99.mp4",
+                "video_results": 0.6513356566429138
+            },
+            {
+                "video_path": "../merged_videos/merged_video_57.mp4",
+                "video_results": 0.41428157687187195
+            },
+            {
+                "video_path": "../merged_videos/merged_video_89.mp4",
+                "video_results": 0.6089228987693787
+            },
+            {
+                "video_path": "../merged_videos/merged_video_100.mp4",
+                "video_results": 0.5763383507728577
+            },
+            {
+                "video_path": "../merged_videos/merged_video_35.mp4",
+                "video_results": 0.5511099696159363
+            },
+            {
+                "video_path": "../merged_videos/merged_video_28.mp4",
+                "video_results": 0.4001828134059906
+            },
+            {
+                "video_path": "../merged_videos/merged_video_74.mp4",
+                "video_results": 0.6196861267089844
+            },
+            {
+                "video_path": "../merged_videos/merged_video_21.mp4",
+                "video_results": 0.5218650698661804
+            },
+            {
+                "video_path": "../merged_videos/merged_video_43.mp4",
+                "video_results": 0.6177670955657959
+            },
+            {
+                "video_path": "../merged_videos/merged_video_51.mp4",
+                "video_results": 0.6120312213897705
+            },
+            {
+                "video_path": "../merged_videos/merged_video_95.mp4",
+                "video_results": 0.5305235981941223
+            },
+            {
+                "video_path": "../merged_videos/merged_video_39.mp4",
+                "video_results": 0.5157766342163086
+            },
+            {
+                "video_path": "../merged_videos/merged_video_72.mp4",
+                "video_results": 0.620427131652832
+            },
+            {
+                "video_path": "../merged_videos/merged_video_11.mp4",
+                "video_results": 0.5871953964233398
+            },
+            {
+                "video_path": "../merged_videos/merged_video_23.mp4",
+                "video_results": 0.46677032113075256
+            },
+            {
+                "video_path": "../merged_videos/merged_video_46.mp4",
+                "video_results": 0.4305743873119354
+            },
+            {
+                "video_path": "../merged_videos/merged_video_20.mp4",
+                "video_results": 0.4554530680179596
+            },
+            {
+                "video_path": "../merged_videos/merged_video_42.mp4",
+                "video_results": 0.6269131898880005
+            },
+            {
+                "video_path": "../merged_videos/merged_video_8.mp4",
+                "video_results": 0.6416489481925964
+            },
+            {
+                "video_path": "../merged_videos/merged_video_71.mp4",
+                "video_results": 0.6534461975097656
+            },
+            {
+                "video_path": "../merged_videos/merged_video_92.mp4",
+                "video_results": 0.6167024374008179
+            },
+            {
+                "video_path": "../merged_videos/merged_video_13.mp4",
+                "video_results": 0.5917057991027832
+            },
+            {
+                "video_path": "../merged_videos/merged_video_24.mp4",
+                "video_results": 0.5764234066009521
+            },
+            {
+                "video_path": "../merged_videos/merged_video_88.mp4",
+                "video_results": 0.5667814612388611
+            },
+            {
+                "video_path": "../merged_videos/merged_video_2.mp4",
+                "video_results": 0.5704688429832458
+            },
+            {
+                "video_path": "../merged_videos/merged_video_18.mp4",
+                "video_results": 0.6122758984565735
+            },
+            {
+                "video_path": "../merged_videos/merged_video_56.mp4",
+                "video_results": 0.5742807984352112
+            },
+            {
+                "video_path": "../merged_videos/merged_video_14.mp4",
+                "video_results": 0.5516500473022461
+            },
+            {
+                "video_path": "../merged_videos/merged_video_26.mp4",
+                "video_results": 0.5932242274284363
+            },
+            {
+                "video_path": "../merged_videos/merged_video_19.mp4",
+                "video_results": 0.7117199897766113
+            },
+            {
+                "video_path": "../merged_videos/merged_video_91.mp4",
+                "video_results": 0.5211925506591797
+            },
+            {
+                "video_path": "../merged_videos/merged_video_69.mp4",
+                "video_results": 0.6259450316429138
+            },
+            {
+                "video_path": "../merged_videos/merged_video_87.mp4",
+                "video_results": 0.6098440289497375
+            },
+            {
+                "video_path": "../merged_videos/merged_video_65.mp4",
+                "video_results": 0.5781675577163696
+            },
+            {
+                "video_path": "../merged_videos/merged_video_63.mp4",
+                "video_results": 0.6389449834823608
+            },
+            {
+                "video_path": "../merged_videos/merged_video_52.mp4",
+                "video_results": 0.5972492098808289
+            },
+            {
+                "video_path": "../merged_videos/merged_video_82.mp4",
+                "video_results": 0.6946433782577515
+            },
+            {
+                "video_path": "../merged_videos/merged_video_86.mp4",
+                "video_results": 0.43719974160194397
+            },
+            {
+                "video_path": "../merged_videos/merged_video_29.mp4",
+                "video_results": 0.5231359601020813
+            },
+            {
+                "video_path": "../merged_videos/merged_video_60.mp4",
+                "video_results": 0.5851564407348633
+            },
+            {
+                "video_path": "../merged_videos/merged_video_40.mp4",
+                "video_results": 0.4603983163833618
+            },
+            {
+                "video_path": "../merged_videos/merged_video_10.mp4",
+                "video_results": 0.5854435563087463
+            },
+            {
+                "video_path": "../merged_videos/merged_video_93.mp4",
+                "video_results": 0.5729219913482666
+            },
+            {
+                "video_path": "../merged_videos/merged_video_15.mp4",
+                "video_results": 0.5520932674407959
+            },
+            {
+                "video_path": "../merged_videos/merged_video_6.mp4",
+                "video_results": 0.55538409948349
+            },
+            {
+                "video_path": "../merged_videos/merged_video_49.mp4",
+                "video_results": 0.5592496395111084
+            },
+            {
+                "video_path": "../merged_videos/merged_video_54.mp4",
+                "video_results": 0.5994030237197876
+            },
+            {
+                "video_path": "../merged_videos/merged_video_25.mp4",
+                "video_results": 0.6097694039344788
+            },
+            {
+                "video_path": "../merged_videos/merged_video_77.mp4",
+                "video_results": 0.6058003902435303
+            },
+            {
+                "video_path": "../merged_videos/merged_video_30.mp4",
+                "video_results": 0.5455099940299988
+            },
+            {
+                "video_path": "../merged_videos/merged_video_17.mp4",
+                "video_results": 0.5701114535331726
+            },
+            {
+                "video_path": "../merged_videos/merged_video_36.mp4",
+                "video_results": 0.6009261608123779
+            },
+            {
+                "video_path": "../merged_videos/merged_video_5.mp4",
+                "video_results": 0.36744651198387146
+            },
+            {
+                "video_path": "../merged_videos/merged_video_33.mp4",
+                "video_results": 0.5837120413780212
+            },
+            {
+                "video_path": "../merged_videos/merged_video_16.mp4",
+                "video_results": 0.5598301291465759
+            },
+            {
+                "video_path": "../merged_videos/merged_video_4.mp4",
+                "video_results": 0.5442121028900146
+            },
+            {
+                "video_path": "../merged_videos/merged_video_48.mp4",
+                "video_results": 0.5533804297447205
+            },
+            {
+                "video_path": "../merged_videos/merged_video_44.mp4",
+                "video_results": 0.3255155086517334
+            },
+            {
+                "video_path": "../merged_videos/merged_video_31.mp4",
+                "video_results": 0.4877200722694397
+            },
+            {
+                "video_path": "../merged_videos/merged_video_70.mp4",
+                "video_results": 0.6077149510383606
+            },
+            {
+                "video_path": "../merged_videos/merged_video_96.mp4",
+                "video_results": 0.5731877684593201
+            },
+            {
+                "video_path": "../merged_videos/merged_video_73.mp4",
+                "video_results": 0.5909658074378967
+            },
+            {
+                "video_path": "../merged_videos/merged_video_7.mp4",
+                "video_results": 0.637566864490509
+            },
+            {
+                "video_path": "../merged_videos/merged_video_83.mp4",
+                "video_results": 0.5570399165153503
+            },
+            {
+                "video_path": "../merged_videos/merged_video_76.mp4",
+                "video_results": 0.28211891651153564
+            }
+        ]
+    ],
+    "imaging_quality": [
+        0.593922687584627,
+        [
+            {
+                "video_path": "../merged_videos/merged_video_22.mp4",
+                "video_results": 70.44990516377386
+            },
+            {
+                "video_path": "../merged_videos/merged_video_3.mp4",
+                "video_results": 63.35715711948483
+            },
+            {
+                "video_path": "../merged_videos/merged_video_1.mp4",
+                "video_results": 52.83419684289207
+            },
+            {
+                "video_path": "../merged_videos/merged_video_53.mp4",
+                "video_results": 75.2737482950359
+            },
+            {
+                "video_path": "../merged_videos/merged_video_62.mp4",
+                "video_results": 51.21863378994707
+            },
+            {
+                "video_path": "../merged_videos/merged_video_27.mp4",
+                "video_results": 69.73766560145786
+            },
+            {
+                "video_path": "../merged_videos/merged_video_78.mp4",
+                "video_results": 72.69840936099781
+            },
+            {
+                "video_path": "../merged_videos/merged_video_45.mp4",
+                "video_results": 67.1352022232548
+            },
+            {
+                "video_path": "../merged_videos/merged_video_9.mp4",
+                "video_results": 42.797735658410474
+            },
+            {
+                "video_path": "../merged_videos/merged_video_75.mp4",
+                "video_results": 71.97153305185252
+            },
+            {
+                "video_path": "../merged_videos/merged_video_37.mp4",
+                "video_results": 67.21622031557877
+            },
+            {
+                "video_path": "../merged_videos/merged_video_59.mp4",
+                "video_results": 57.72211449777978
+            },
+            {
+                "video_path": "../merged_videos/merged_video_94.mp4",
+                "video_results": 48.88415476706176
+            },
+            {
+                "video_path": "../merged_videos/merged_video_84.mp4",
+                "video_results": 70.28037518526601
+            },
+            {
+                "video_path": "../merged_videos/merged_video_41.mp4",
+                "video_results": 70.8879592795121
+            },
+            {
+                "video_path": "../merged_videos/merged_video_90.mp4",
+                "video_results": 51.98918020075018
+            },
+            {
+                "video_path": "../merged_videos/merged_video_47.mp4",
+                "video_results": 66.72886295641882
+            },
+            {
+                "video_path": "../merged_videos/merged_video_61.mp4",
+                "video_results": 55.637918540715106
+            },
+            {
+                "video_path": "../merged_videos/merged_video_98.mp4",
+                "video_results": 56.35400315292743
+            },
+            {
+                "video_path": "../merged_videos/merged_video_68.mp4",
+                "video_results": 57.54664351184916
+            },
+            {
+                "video_path": "../merged_videos/merged_video_81.mp4",
+                "video_results": 57.149003728230795
+            },
+            {
+                "video_path": "../merged_videos/merged_video_66.mp4",
+                "video_results": 69.9066085386812
+            },
+            {
+                "video_path": "../merged_videos/merged_video_58.mp4",
+                "video_results": 51.14738329107111
+            },
+            {
+                "video_path": "../merged_videos/merged_video_12.mp4",
+                "video_results": 58.34626921485452
+            },
+            {
+                "video_path": "../merged_videos/merged_video_80.mp4",
+                "video_results": 69.8782419153162
+            },
+            {
+                "video_path": "../merged_videos/merged_video_67.mp4",
+                "video_results": 71.21538356743237
+            },
+            {
+                "video_path": "../merged_videos/merged_video_85.mp4",
+                "video_results": 60.24394191762127
+            },
+            {
+                "video_path": "../merged_videos/merged_video_32.mp4",
+                "video_results": 57.924928439883736
+            },
+            {
+                "video_path": "../merged_videos/merged_video_79.mp4",
+                "video_results": 56.14720738262211
+            },
+            {
+                "video_path": "../merged_videos/merged_video_64.mp4",
+                "video_results": 63.15610159897223
+            },
+            {
+                "video_path": "../merged_videos/merged_video_50.mp4",
+                "video_results": 62.15471549067937
+            },
+            {
+                "video_path": "../merged_videos/merged_video_55.mp4",
+                "video_results": 54.10824166057266
+            },
+            {
+                "video_path": "../merged_videos/merged_video_97.mp4",
+                "video_results": 52.20051431261803
+            },
+            {
+                "video_path": "../merged_videos/merged_video_38.mp4",
+                "video_results": 66.44281863140803
+            },
+            {
+                "video_path": "../merged_videos/merged_video_34.mp4",
+                "video_results": 70.92819198675915
+            },
+            {
+                "video_path": "../merged_videos/merged_video_99.mp4",
+                "video_results": 69.4346043841439
+            },
+            {
+                "video_path": "../merged_videos/merged_video_57.mp4",
+                "video_results": 46.86647661649264
+            },
+            {
+                "video_path": "../merged_videos/merged_video_89.mp4",
+                "video_results": 69.91336508358226
+            },
+            {
+                "video_path": "../merged_videos/merged_video_100.mp4",
+                "video_results": 63.41655586076819
+            },
+            {
+                "video_path": "../merged_videos/merged_video_35.mp4",
+                "video_results": 61.864731144260716
+            },
+            {
+                "video_path": "../merged_videos/merged_video_28.mp4",
+                "video_results": 54.63660283522172
+            },
+            {
+                "video_path": "../merged_videos/merged_video_74.mp4",
+                "video_results": 67.39098902031927
+            },
+            {
+                "video_path": "../merged_videos/merged_video_21.mp4",
+                "video_results": 61.41411808224544
+            },
+            {
+                "video_path": "../merged_videos/merged_video_43.mp4",
+                "video_results": 65.8477870681523
+            },
+            {
+                "video_path": "../merged_videos/merged_video_51.mp4",
+                "video_results": 64.46091464670693
+            },
+            {
+                "video_path": "../merged_videos/merged_video_95.mp4",
+                "video_results": 59.017468322753906
+            },
+            {
+                "video_path": "../merged_videos/merged_video_39.mp4",
+                "video_results": 51.89222123569116
+            },
+            {
+                "video_path": "../merged_videos/merged_video_72.mp4",
+                "video_results": 59.47603328515452
+            },
+            {
+                "video_path": "../merged_videos/merged_video_11.mp4",
+                "video_results": 63.508376543338485
+            },
+            {
+                "video_path": "../merged_videos/merged_video_23.mp4",
+                "video_results": 52.75537479733958
+            },
+            {
+                "video_path": "../merged_videos/merged_video_46.mp4",
+                "video_results": 65.08401160665078
+            },
+            {
+                "video_path": "../merged_videos/merged_video_20.mp4",
+                "video_results": 50.77462589379513
+            },
+            {
+                "video_path": "../merged_videos/merged_video_42.mp4",
+                "video_results": 49.06953858676022
+            },
+            {
+                "video_path": "../merged_videos/merged_video_8.mp4",
+                "video_results": 59.78459112984793
+            },
+            {
+                "video_path": "../merged_videos/merged_video_71.mp4",
+                "video_results": 50.688225392695074
+            },
+            {
+                "video_path": "../merged_videos/merged_video_92.mp4",
+                "video_results": 76.42884027732993
+            },
+            {
+                "video_path": "../merged_videos/merged_video_13.mp4",
+                "video_results": 52.36566438720124
+            },
+            {
+                "video_path": "../merged_videos/merged_video_24.mp4",
+                "video_results": 47.36059986570346
+            },
+            {
+                "video_path": "../merged_videos/merged_video_88.mp4",
+                "video_results": 66.41060269029835
+            },
+            {
+                "video_path": "../merged_videos/merged_video_2.mp4",
+                "video_results": 44.21636191337339
+            },
+            {
+                "video_path": "../merged_videos/merged_video_18.mp4",
+                "video_results": 62.82750613018147
+            },
+            {
+                "video_path": "../merged_videos/merged_video_56.mp4",
+                "video_results": 64.20879111039011
+            },
+            {
+                "video_path": "../merged_videos/merged_video_14.mp4",
+                "video_results": 50.26451285167407
+            },
+            {
+                "video_path": "../merged_videos/merged_video_26.mp4",
+                "video_results": 67.12320023152365
+            },
+            {
+                "video_path": "../merged_videos/merged_video_19.mp4",
+                "video_results": 63.24281852189885
+            },
+            {
+                "video_path": "../merged_videos/merged_video_91.mp4",
+                "video_results": 50.166665581037414
+            },
+            {
+                "video_path": "../merged_videos/merged_video_69.mp4",
+                "video_results": 59.55128947959459
+            },
+            {
+                "video_path": "../merged_videos/merged_video_87.mp4",
+                "video_results": 68.36912323446835
+            },
+            {
+                "video_path": "../merged_videos/merged_video_65.mp4",
+                "video_results": 59.313756708513225
+            },
+            {
+                "video_path": "../merged_videos/merged_video_63.mp4",
+                "video_results": 71.96046818857607
+            },
+            {
+                "video_path": "../merged_videos/merged_video_52.mp4",
+                "video_results": 61.1787106692791
+            },
+            {
+                "video_path": "../merged_videos/merged_video_82.mp4",
+                "video_results": 65.56946247699214
+            },
+            {
+                "video_path": "../merged_videos/merged_video_86.mp4",
+                "video_results": 45.10337315286909
+            },
+            {
+                "video_path": "../merged_videos/merged_video_29.mp4",
+                "video_results": 45.31261761334478
+            },
+            {
+                "video_path": "../merged_videos/merged_video_60.mp4",
+                "video_results": 59.09654816459207
+            },
+            {
+                "video_path": "../merged_videos/merged_video_40.mp4",
+                "video_results": 45.45661210781191
+            },
+            {
+                "video_path": "../merged_videos/merged_video_10.mp4",
+                "video_results": 57.272434733464166
+            },
+            {
+                "video_path": "../merged_videos/merged_video_93.mp4",
+                "video_results": 56.05871684008306
+            },
+            {
+                "video_path": "../merged_videos/merged_video_15.mp4",
+                "video_results": 68.62087722051712
+            },
+            {
+                "video_path": "../merged_videos/merged_video_6.mp4",
+                "video_results": 51.41075873374939
+            },
+            {
+                "video_path": "../merged_videos/merged_video_49.mp4",
+                "video_results": 48.68392408655045
+            },
+            {
+                "video_path": "../merged_videos/merged_video_54.mp4",
+                "video_results": 65.57310234321342
+            },
+            {
+                "video_path": "../merged_videos/merged_video_25.mp4",
+                "video_results": 72.77781351061834
+            },
+            {
+                "video_path": "../merged_videos/merged_video_77.mp4",
+                "video_results": 71.88086960532449
+            },
+            {
+                "video_path": "../merged_videos/merged_video_30.mp4",
+                "video_results": 62.44152057354267
+            },
+            {
+                "video_path": "../merged_videos/merged_video_17.mp4",
+                "video_results": 42.74888470876131
+            },
+            {
+                "video_path": "../merged_videos/merged_video_36.mp4",
+                "video_results": 68.28614332544522
+            },
+            {
+                "video_path": "../merged_videos/merged_video_5.mp4",
+                "video_results": 61.32756023595829
+            },
+            {
+                "video_path": "../merged_videos/merged_video_33.mp4",
+                "video_results": 52.626034600394114
+            },
+            {
+                "video_path": "../merged_videos/merged_video_16.mp4",
+                "video_results": 46.610334567534615
+            },
+            {
+                "video_path": "../merged_videos/merged_video_4.mp4",
+                "video_results": 42.856845551473235
+            },
+            {
+                "video_path": "../merged_videos/merged_video_48.mp4",
+                "video_results": 58.64036429465354
+            },
+            {
+                "video_path": "../merged_videos/merged_video_44.mp4",
+                "video_results": 41.709357213492346
+            },
+            {
+                "video_path": "../merged_videos/merged_video_31.mp4",
+                "video_results": 57.22264120196769
+            },
+            {
+                "video_path": "../merged_videos/merged_video_70.mp4",
+                "video_results": 58.95508222018971
+            },
+            {
+                "video_path": "../merged_videos/merged_video_96.mp4",
+                "video_results": 63.05770859762887
+            },
+            {
+                "video_path": "../merged_videos/merged_video_73.mp4",
+                "video_results": 42.65219077862129
+            },
+            {
+                "video_path": "../merged_videos/merged_video_7.mp4",
+                "video_results": 55.76775272335627
+            },
+            {
+                "video_path": "../merged_videos/merged_video_83.mp4",
+                "video_results": 74.05044821146372
+            },
+            {
+                "video_path": "../merged_videos/merged_video_76.mp4",
+                "video_results": 43.500201884004255
+            }
+        ]
+    ],
+    "human_action": [
+        0.0,
+        [
+            {
+                "video_path": "../merged_videos/merged_video_22.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_3.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_1.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_53.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_62.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_27.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_78.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_45.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_9.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_75.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_37.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_59.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_94.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_84.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_41.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_90.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_47.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_61.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_98.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_68.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_81.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_66.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_58.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_12.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_80.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_67.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_85.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_32.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_79.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_64.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_50.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_55.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_97.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_38.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_34.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_99.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_57.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_89.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_100.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_35.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_28.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_74.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_21.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_43.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_51.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_95.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_39.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_72.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_11.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_23.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_46.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_20.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_42.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_8.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_71.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_92.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_13.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_24.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_88.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_2.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_18.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_56.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_14.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_26.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_19.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_91.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_69.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_87.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_65.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_63.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_52.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_82.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_86.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_29.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_60.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_40.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_10.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_93.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_15.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_6.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_49.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_54.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_25.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_77.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_30.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_17.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_36.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_5.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_33.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_16.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_4.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_48.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_44.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_31.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_70.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_96.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_73.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_7.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_83.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../merged_videos/merged_video_76.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            }
+        ]
+    ],
+    "temporal_style": [
+        0.10192587662488223,
+        [
+            {
+                "video_path": "../merged_videos/merged_video_22.mp4",
+                "video_results": 0.11904159188270569
+            },
+            {
+                "video_path": "../merged_videos/merged_video_3.mp4",
+                "video_results": 0.11858893930912018
+            },
+            {
+                "video_path": "../merged_videos/merged_video_1.mp4",
+                "video_results": 0.12479676306247711
+            },
+            {
+                "video_path": "../merged_videos/merged_video_53.mp4",
+                "video_results": 0.09738993644714355
+            },
+            {
+                "video_path": "../merged_videos/merged_video_62.mp4",
+                "video_results": 0.07785864174365997
+            },
+            {
+                "video_path": "../merged_videos/merged_video_27.mp4",
+                "video_results": 0.08091574907302856
+            },
+            {
+                "video_path": "../merged_videos/merged_video_78.mp4",
+                "video_results": 0.09645761549472809
+            },
+            {
+                "video_path": "../merged_videos/merged_video_45.mp4",
+                "video_results": 0.11574982106685638
+            },
+            {
+                "video_path": "../merged_videos/merged_video_9.mp4",
+                "video_results": 0.1196211576461792
+            },
+            {
+                "video_path": "../merged_videos/merged_video_75.mp4",
+                "video_results": 0.07957058399915695
+            },
+            {
+                "video_path": "../merged_videos/merged_video_37.mp4",
+                "video_results": 0.09917973726987839
+            },
+            {
+                "video_path": "../merged_videos/merged_video_59.mp4",
+                "video_results": 0.08105906844139099
+            },
+            {
+                "video_path": "../merged_videos/merged_video_94.mp4",
+                "video_results": 0.10606612265110016
+            },
+            {
+                "video_path": "../merged_videos/merged_video_84.mp4",
+                "video_results": 0.10634132474660873
+            },
+            {
+                "video_path": "../merged_videos/merged_video_41.mp4",
+                "video_results": 0.10850159078836441
+            },
+            {
+                "video_path": "../merged_videos/merged_video_90.mp4",
+                "video_results": 0.07729536294937134
+            },
+            {
+                "video_path": "../merged_videos/merged_video_47.mp4",
+                "video_results": 0.10163429379463196
+            },
+            {
+                "video_path": "../merged_videos/merged_video_61.mp4",
+                "video_results": 0.07652612775564194
+            },
+            {
+                "video_path": "../merged_videos/merged_video_98.mp4",
+                "video_results": 0.09345147013664246
+            },
+            {
+                "video_path": "../merged_videos/merged_video_68.mp4",
+                "video_results": 0.11845824122428894
+            },
+            {
+                "video_path": "../merged_videos/merged_video_81.mp4",
+                "video_results": 0.10656095296144485
+            },
+            {
+                "video_path": "../merged_videos/merged_video_66.mp4",
+                "video_results": 0.08402322977781296
+            },
+            {
+                "video_path": "../merged_videos/merged_video_58.mp4",
+                "video_results": 0.10634559392929077
+            },
+            {
+                "video_path": "../merged_videos/merged_video_12.mp4",
+                "video_results": 0.12433432787656784
+            },
+            {
+                "video_path": "../merged_videos/merged_video_80.mp4",
+                "video_results": 0.11643321067094803
+            },
+            {
+                "video_path": "../merged_videos/merged_video_67.mp4",
+                "video_results": 0.0743735134601593
+            },
+            {
+                "video_path": "../merged_videos/merged_video_85.mp4",
+                "video_results": 0.11299765110015869
+            },
+            {
+                "video_path": "../merged_videos/merged_video_32.mp4",
+                "video_results": 0.08671138435602188
+            },
+            {
+                "video_path": "../merged_videos/merged_video_79.mp4",
+                "video_results": 0.12958823144435883
+            },
+            {
+                "video_path": "../merged_videos/merged_video_64.mp4",
+                "video_results": 0.09397463500499725
+            },
+            {
+                "video_path": "../merged_videos/merged_video_50.mp4",
+                "video_results": 0.09443272650241852
+            },
+            {
+                "video_path": "../merged_videos/merged_video_55.mp4",
+                "video_results": 0.09973452240228653
+            },
+            {
+                "video_path": "../merged_videos/merged_video_97.mp4",
+                "video_results": 0.11399117857217789
+            },
+            {
+                "video_path": "../merged_videos/merged_video_38.mp4",
+                "video_results": 0.10545717179775238
+            },
+            {
+                "video_path": "../merged_videos/merged_video_34.mp4",
+                "video_results": 0.05950139835476875
+            },
+            {
+                "video_path": "../merged_videos/merged_video_99.mp4",
+                "video_results": 0.10666823387145996
+            },
+            {
+                "video_path": "../merged_videos/merged_video_57.mp4",
+                "video_results": 0.1221393346786499
+            },
+            {
+                "video_path": "../merged_videos/merged_video_89.mp4",
+                "video_results": 0.09633409976959229
+            },
+            {
+                "video_path": "../merged_videos/merged_video_100.mp4",
+                "video_results": 0.09804554283618927
+            },
+            {
+                "video_path": "../merged_videos/merged_video_35.mp4",
+                "video_results": 0.09468881785869598
+            },
+            {
+                "video_path": "../merged_videos/merged_video_28.mp4",
+                "video_results": 0.1211230456829071
+            },
+            {
+                "video_path": "../merged_videos/merged_video_74.mp4",
+                "video_results": 0.1100170910358429
+            },
+            {
+                "video_path": "../merged_videos/merged_video_21.mp4",
+                "video_results": 0.11852242052555084
+            },
+            {
+                "video_path": "../merged_videos/merged_video_43.mp4",
+                "video_results": 0.09806700050830841
+            },
+            {
+                "video_path": "../merged_videos/merged_video_51.mp4",
+                "video_results": 0.1049039363861084
+            },
+            {
+                "video_path": "../merged_videos/merged_video_95.mp4",
+                "video_results": 0.0860244482755661
+            },
+            {
+                "video_path": "../merged_videos/merged_video_39.mp4",
+                "video_results": 0.10966081917285919
+            },
+            {
+                "video_path": "../merged_videos/merged_video_72.mp4",
+                "video_results": 0.10789154469966888
+            },
+            {
+                "video_path": "../merged_videos/merged_video_11.mp4",
+                "video_results": 0.08124925196170807
+            },
+            {
+                "video_path": "../merged_videos/merged_video_23.mp4",
+                "video_results": 0.11888957023620605
+            },
+            {
+                "video_path": "../merged_videos/merged_video_46.mp4",
+                "video_results": 0.1459416300058365
+            },
+            {
+                "video_path": "../merged_videos/merged_video_20.mp4",
+                "video_results": 0.11096600443124771
+            },
+            {
+                "video_path": "../merged_videos/merged_video_42.mp4",
+                "video_results": 0.06606475263834
+            },
+            {
+                "video_path": "../merged_videos/merged_video_8.mp4",
+                "video_results": 0.13739266991615295
+            },
+            {
+                "video_path": "../merged_videos/merged_video_71.mp4",
+                "video_results": 0.10326039046049118
+            },
+            {
+                "video_path": "../merged_videos/merged_video_92.mp4",
+                "video_results": 0.08897487819194794
+            },
+            {
+                "video_path": "../merged_videos/merged_video_13.mp4",
+                "video_results": 0.07614976167678833
+            },
+            {
+                "video_path": "../merged_videos/merged_video_24.mp4",
+                "video_results": 0.08072184026241302
+            },
+            {
+                "video_path": "../merged_videos/merged_video_88.mp4",
+                "video_results": 0.11615721881389618
+            },
+            {
+                "video_path": "../merged_videos/merged_video_2.mp4",
+                "video_results": 0.12171803414821625
+            },
+            {
+                "video_path": "../merged_videos/merged_video_18.mp4",
+                "video_results": 0.12079307436943054
+            },
+            {
+                "video_path": "../merged_videos/merged_video_56.mp4",
+                "video_results": 0.09790200740098953
+            },
+            {
+                "video_path": "../merged_videos/merged_video_14.mp4",
+                "video_results": 0.1313624382019043
+            },
+            {
+                "video_path": "../merged_videos/merged_video_26.mp4",
+                "video_results": 0.08749902248382568
+            },
+            {
+                "video_path": "../merged_videos/merged_video_19.mp4",
+                "video_results": 0.08960919827222824
+            },
+            {
+                "video_path": "../merged_videos/merged_video_91.mp4",
+                "video_results": 0.09440834820270538
+            },
+            {
+                "video_path": "../merged_videos/merged_video_69.mp4",
+                "video_results": 0.08649440109729767
+            },
+            {
+                "video_path": "../merged_videos/merged_video_87.mp4",
+                "video_results": 0.08289560675621033
+            },
+            {
+                "video_path": "../merged_videos/merged_video_65.mp4",
+                "video_results": 0.09999602288007736
+            },
+            {
+                "video_path": "../merged_videos/merged_video_63.mp4",
+                "video_results": 0.08605703711509705
+            },
+            {
+                "video_path": "../merged_videos/merged_video_52.mp4",
+                "video_results": 0.09451328217983246
+            },
+            {
+                "video_path": "../merged_videos/merged_video_82.mp4",
+                "video_results": 0.10779702663421631
+            },
+            {
+                "video_path": "../merged_videos/merged_video_86.mp4",
+                "video_results": 0.1330195814371109
+            },
+            {
+                "video_path": "../merged_videos/merged_video_29.mp4",
+                "video_results": 0.09977778047323227
+            },
+            {
+                "video_path": "../merged_videos/merged_video_60.mp4",
+                "video_results": 0.10506007075309753
+            },
+            {
+                "video_path": "../merged_videos/merged_video_40.mp4",
+                "video_results": 0.1175241470336914
+            },
+            {
+                "video_path": "../merged_videos/merged_video_10.mp4",
+                "video_results": 0.09101802110671997
+            },
+            {
+                "video_path": "../merged_videos/merged_video_93.mp4",
+                "video_results": 0.10591891407966614
+            },
+            {
+                "video_path": "../merged_videos/merged_video_15.mp4",
+                "video_results": 0.06572171300649643
+            },
+            {
+                "video_path": "../merged_videos/merged_video_6.mp4",
+                "video_results": 0.10575927048921585
+            },
+            {
+                "video_path": "../merged_videos/merged_video_49.mp4",
+                "video_results": 0.0949363261461258
+            },
+            {
+                "video_path": "../merged_videos/merged_video_54.mp4",
+                "video_results": 0.08976002782583237
+            },
+            {
+                "video_path": "../merged_videos/merged_video_25.mp4",
+                "video_results": 0.08116669207811356
+            },
+            {
+                "video_path": "../merged_videos/merged_video_77.mp4",
+                "video_results": 0.10584664344787598
+            },
+            {
+                "video_path": "../merged_videos/merged_video_30.mp4",
+                "video_results": 0.0955895334482193
+            },
+            {
+                "video_path": "../merged_videos/merged_video_17.mp4",
+                "video_results": 0.06868983805179596
+            },
+            {
+                "video_path": "../merged_videos/merged_video_36.mp4",
+                "video_results": 0.09888307005167007
+            },
+            {
+                "video_path": "../merged_videos/merged_video_5.mp4",
+                "video_results": 0.11517490446567535
+            },
+            {
+                "video_path": "../merged_videos/merged_video_33.mp4",
+                "video_results": 0.09696923196315765
+            },
+            {
+                "video_path": "../merged_videos/merged_video_16.mp4",
+                "video_results": 0.08810163289308548
+            },
+            {
+                "video_path": "../merged_videos/merged_video_4.mp4",
+                "video_results": 0.1004539281129837
+            },
+            {
+                "video_path": "../merged_videos/merged_video_48.mp4",
+                "video_results": 0.10493846237659454
+            },
+            {
+                "video_path": "../merged_videos/merged_video_44.mp4",
+                "video_results": 0.13934871554374695
+            },
+            {
+                "video_path": "../merged_videos/merged_video_31.mp4",
+                "video_results": 0.11406523734331131
+            },
+            {
+                "video_path": "../merged_videos/merged_video_70.mp4",
+                "video_results": 0.12233966588973999
+            },
+            {
+                "video_path": "../merged_videos/merged_video_96.mp4",
+                "video_results": 0.10462839901447296
+            },
+            {
+                "video_path": "../merged_videos/merged_video_73.mp4",
+                "video_results": 0.08180296421051025
+            },
+            {
+                "video_path": "../merged_videos/merged_video_7.mp4",
+                "video_results": 0.096760094165802
+            },
+            {
+                "video_path": "../merged_videos/merged_video_83.mp4",
+                "video_results": 0.1214318573474884
+            },
+            {
+                "video_path": "../merged_videos/merged_video_76.mp4",
+                "video_results": 0.14003726840019226
+            }
+        ]
+    ],
+    "overall_consistency": [
+        0.10192587662488223,
+        [
+            {
+                "video_path": "../merged_videos/merged_video_22.mp4",
+                "video_results": 0.11904159188270569
+            },
+            {
+                "video_path": "../merged_videos/merged_video_3.mp4",
+                "video_results": 0.11858893930912018
+            },
+            {
+                "video_path": "../merged_videos/merged_video_1.mp4",
+                "video_results": 0.12479676306247711
+            },
+            {
+                "video_path": "../merged_videos/merged_video_53.mp4",
+                "video_results": 0.09738993644714355
+            },
+            {
+                "video_path": "../merged_videos/merged_video_62.mp4",
+                "video_results": 0.07785864174365997
+            },
+            {
+                "video_path": "../merged_videos/merged_video_27.mp4",
+                "video_results": 0.08091574907302856
+            },
+            {
+                "video_path": "../merged_videos/merged_video_78.mp4",
+                "video_results": 0.09645761549472809
+            },
+            {
+                "video_path": "../merged_videos/merged_video_45.mp4",
+                "video_results": 0.11574982106685638
+            },
+            {
+                "video_path": "../merged_videos/merged_video_9.mp4",
+                "video_results": 0.1196211576461792
+            },
+            {
+                "video_path": "../merged_videos/merged_video_75.mp4",
+                "video_results": 0.07957058399915695
+            },
+            {
+                "video_path": "../merged_videos/merged_video_37.mp4",
+                "video_results": 0.09917973726987839
+            },
+            {
+                "video_path": "../merged_videos/merged_video_59.mp4",
+                "video_results": 0.08105906844139099
+            },
+            {
+                "video_path": "../merged_videos/merged_video_94.mp4",
+                "video_results": 0.10606612265110016
+            },
+            {
+                "video_path": "../merged_videos/merged_video_84.mp4",
+                "video_results": 0.10634132474660873
+            },
+            {
+                "video_path": "../merged_videos/merged_video_41.mp4",
+                "video_results": 0.10850159078836441
+            },
+            {
+                "video_path": "../merged_videos/merged_video_90.mp4",
+                "video_results": 0.07729536294937134
+            },
+            {
+                "video_path": "../merged_videos/merged_video_47.mp4",
+                "video_results": 0.10163429379463196
+            },
+            {
+                "video_path": "../merged_videos/merged_video_61.mp4",
+                "video_results": 0.07652612775564194
+            },
+            {
+                "video_path": "../merged_videos/merged_video_98.mp4",
+                "video_results": 0.09345147013664246
+            },
+            {
+                "video_path": "../merged_videos/merged_video_68.mp4",
+                "video_results": 0.11845824122428894
+            },
+            {
+                "video_path": "../merged_videos/merged_video_81.mp4",
+                "video_results": 0.10656095296144485
+            },
+            {
+                "video_path": "../merged_videos/merged_video_66.mp4",
+                "video_results": 0.08402322977781296
+            },
+            {
+                "video_path": "../merged_videos/merged_video_58.mp4",
+                "video_results": 0.10634559392929077
+            },
+            {
+                "video_path": "../merged_videos/merged_video_12.mp4",
+                "video_results": 0.12433432787656784
+            },
+            {
+                "video_path": "../merged_videos/merged_video_80.mp4",
+                "video_results": 0.11643321067094803
+            },
+            {
+                "video_path": "../merged_videos/merged_video_67.mp4",
+                "video_results": 0.0743735134601593
+            },
+            {
+                "video_path": "../merged_videos/merged_video_85.mp4",
+                "video_results": 0.11299765110015869
+            },
+            {
+                "video_path": "../merged_videos/merged_video_32.mp4",
+                "video_results": 0.08671138435602188
+            },
+            {
+                "video_path": "../merged_videos/merged_video_79.mp4",
+                "video_results": 0.12958823144435883
+            },
+            {
+                "video_path": "../merged_videos/merged_video_64.mp4",
+                "video_results": 0.09397463500499725
+            },
+            {
+                "video_path": "../merged_videos/merged_video_50.mp4",
+                "video_results": 0.09443272650241852
+            },
+            {
+                "video_path": "../merged_videos/merged_video_55.mp4",
+                "video_results": 0.09973452240228653
+            },
+            {
+                "video_path": "../merged_videos/merged_video_97.mp4",
+                "video_results": 0.11399117857217789
+            },
+            {
+                "video_path": "../merged_videos/merged_video_38.mp4",
+                "video_results": 0.10545717179775238
+            },
+            {
+                "video_path": "../merged_videos/merged_video_34.mp4",
+                "video_results": 0.05950139835476875
+            },
+            {
+                "video_path": "../merged_videos/merged_video_99.mp4",
+                "video_results": 0.10666823387145996
+            },
+            {
+                "video_path": "../merged_videos/merged_video_57.mp4",
+                "video_results": 0.1221393346786499
+            },
+            {
+                "video_path": "../merged_videos/merged_video_89.mp4",
+                "video_results": 0.09633409976959229
+            },
+            {
+                "video_path": "../merged_videos/merged_video_100.mp4",
+                "video_results": 0.09804554283618927
+            },
+            {
+                "video_path": "../merged_videos/merged_video_35.mp4",
+                "video_results": 0.09468881785869598
+            },
+            {
+                "video_path": "../merged_videos/merged_video_28.mp4",
+                "video_results": 0.1211230456829071
+            },
+            {
+                "video_path": "../merged_videos/merged_video_74.mp4",
+                "video_results": 0.1100170910358429
+            },
+            {
+                "video_path": "../merged_videos/merged_video_21.mp4",
+                "video_results": 0.11852242052555084
+            },
+            {
+                "video_path": "../merged_videos/merged_video_43.mp4",
+                "video_results": 0.09806700050830841
+            },
+            {
+                "video_path": "../merged_videos/merged_video_51.mp4",
+                "video_results": 0.1049039363861084
+            },
+            {
+                "video_path": "../merged_videos/merged_video_95.mp4",
+                "video_results": 0.0860244482755661
+            },
+            {
+                "video_path": "../merged_videos/merged_video_39.mp4",
+                "video_results": 0.10966081917285919
+            },
+            {
+                "video_path": "../merged_videos/merged_video_72.mp4",
+                "video_results": 0.10789154469966888
+            },
+            {
+                "video_path": "../merged_videos/merged_video_11.mp4",
+                "video_results": 0.08124925196170807
+            },
+            {
+                "video_path": "../merged_videos/merged_video_23.mp4",
+                "video_results": 0.11888957023620605
+            },
+            {
+                "video_path": "../merged_videos/merged_video_46.mp4",
+                "video_results": 0.1459416300058365
+            },
+            {
+                "video_path": "../merged_videos/merged_video_20.mp4",
+                "video_results": 0.11096600443124771
+            },
+            {
+                "video_path": "../merged_videos/merged_video_42.mp4",
+                "video_results": 0.06606475263834
+            },
+            {
+                "video_path": "../merged_videos/merged_video_8.mp4",
+                "video_results": 0.13739266991615295
+            },
+            {
+                "video_path": "../merged_videos/merged_video_71.mp4",
+                "video_results": 0.10326039046049118
+            },
+            {
+                "video_path": "../merged_videos/merged_video_92.mp4",
+                "video_results": 0.08897487819194794
+            },
+            {
+                "video_path": "../merged_videos/merged_video_13.mp4",
+                "video_results": 0.07614976167678833
+            },
+            {
+                "video_path": "../merged_videos/merged_video_24.mp4",
+                "video_results": 0.08072184026241302
+            },
+            {
+                "video_path": "../merged_videos/merged_video_88.mp4",
+                "video_results": 0.11615721881389618
+            },
+            {
+                "video_path": "../merged_videos/merged_video_2.mp4",
+                "video_results": 0.12171803414821625
+            },
+            {
+                "video_path": "../merged_videos/merged_video_18.mp4",
+                "video_results": 0.12079307436943054
+            },
+            {
+                "video_path": "../merged_videos/merged_video_56.mp4",
+                "video_results": 0.09790200740098953
+            },
+            {
+                "video_path": "../merged_videos/merged_video_14.mp4",
+                "video_results": 0.1313624382019043
+            },
+            {
+                "video_path": "../merged_videos/merged_video_26.mp4",
+                "video_results": 0.08749902248382568
+            },
+            {
+                "video_path": "../merged_videos/merged_video_19.mp4",
+                "video_results": 0.08960919827222824
+            },
+            {
+                "video_path": "../merged_videos/merged_video_91.mp4",
+                "video_results": 0.09440834820270538
+            },
+            {
+                "video_path": "../merged_videos/merged_video_69.mp4",
+                "video_results": 0.08649440109729767
+            },
+            {
+                "video_path": "../merged_videos/merged_video_87.mp4",
+                "video_results": 0.08289560675621033
+            },
+            {
+                "video_path": "../merged_videos/merged_video_65.mp4",
+                "video_results": 0.09999602288007736
+            },
+            {
+                "video_path": "../merged_videos/merged_video_63.mp4",
+                "video_results": 0.08605703711509705
+            },
+            {
+                "video_path": "../merged_videos/merged_video_52.mp4",
+                "video_results": 0.09451328217983246
+            },
+            {
+                "video_path": "../merged_videos/merged_video_82.mp4",
+                "video_results": 0.10779702663421631
+            },
+            {
+                "video_path": "../merged_videos/merged_video_86.mp4",
+                "video_results": 0.1330195814371109
+            },
+            {
+                "video_path": "../merged_videos/merged_video_29.mp4",
+                "video_results": 0.09977778047323227
+            },
+            {
+                "video_path": "../merged_videos/merged_video_60.mp4",
+                "video_results": 0.10506007075309753
+            },
+            {
+                "video_path": "../merged_videos/merged_video_40.mp4",
+                "video_results": 0.1175241470336914
+            },
+            {
+                "video_path": "../merged_videos/merged_video_10.mp4",
+                "video_results": 0.09101802110671997
+            },
+            {
+                "video_path": "../merged_videos/merged_video_93.mp4",
+                "video_results": 0.10591891407966614
+            },
+            {
+                "video_path": "../merged_videos/merged_video_15.mp4",
+                "video_results": 0.06572171300649643
+            },
+            {
+                "video_path": "../merged_videos/merged_video_6.mp4",
+                "video_results": 0.10575927048921585
+            },
+            {
+                "video_path": "../merged_videos/merged_video_49.mp4",
+                "video_results": 0.0949363261461258
+            },
+            {
+                "video_path": "../merged_videos/merged_video_54.mp4",
+                "video_results": 0.08976002782583237
+            },
+            {
+                "video_path": "../merged_videos/merged_video_25.mp4",
+                "video_results": 0.08116669207811356
+            },
+            {
+                "video_path": "../merged_videos/merged_video_77.mp4",
+                "video_results": 0.10584664344787598
+            },
+            {
+                "video_path": "../merged_videos/merged_video_30.mp4",
+                "video_results": 0.0955895334482193
+            },
+            {
+                "video_path": "../merged_videos/merged_video_17.mp4",
+                "video_results": 0.06868983805179596
+            },
+            {
+                "video_path": "../merged_videos/merged_video_36.mp4",
+                "video_results": 0.09888307005167007
+            },
+            {
+                "video_path": "../merged_videos/merged_video_5.mp4",
+                "video_results": 0.11517490446567535
+            },
+            {
+                "video_path": "../merged_videos/merged_video_33.mp4",
+                "video_results": 0.09696923196315765
+            },
+            {
+                "video_path": "../merged_videos/merged_video_16.mp4",
+                "video_results": 0.08810163289308548
+            },
+            {
+                "video_path": "../merged_videos/merged_video_4.mp4",
+                "video_results": 0.1004539281129837
+            },
+            {
+                "video_path": "../merged_videos/merged_video_48.mp4",
+                "video_results": 0.10493846237659454
+            },
+            {
+                "video_path": "../merged_videos/merged_video_44.mp4",
+                "video_results": 0.13934871554374695
+            },
+            {
+                "video_path": "../merged_videos/merged_video_31.mp4",
+                "video_results": 0.11406523734331131
+            },
+            {
+                "video_path": "../merged_videos/merged_video_70.mp4",
+                "video_results": 0.12233966588973999
+            },
+            {
+                "video_path": "../merged_videos/merged_video_96.mp4",
+                "video_results": 0.10462839901447296
+            },
+            {
+                "video_path": "../merged_videos/merged_video_73.mp4",
+                "video_results": 0.08180296421051025
+            },
+            {
+                "video_path": "../merged_videos/merged_video_7.mp4",
+                "video_results": 0.096760094165802
+            },
+            {
+                "video_path": "../merged_videos/merged_video_83.mp4",
+                "video_results": 0.1214318573474884
+            },
+            {
+                "video_path": "../merged_videos/merged_video_76.mp4",
+                "video_results": 0.14003726840019226
+            }
+        ]
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "subject_consistency": [
+        0.945100060054428,
+        [
+            {
+                "video_path": "../TEST/\uac08\ub300 \uc0ac\uc774\ub97c \uc544\ub984\ub2f5\uace0 \ub0a0\uc52c\ud55c \ud55c\uad6d \uc5ec\uc790\uc640 \ud0a4\uac00 \ud06c\uace0 \ubaa8\ub378\uac19\uc740 \ud55c\uad6d \ub0a8\uc790\uac00 \uc190\uc744 \uc7a1\uace0 \ub4b7\ubaa8\uc2b5\uc744 \ubcf4\uc774\uba70 \uac78\uc5b4 \ub4e4\uc5b4\uac00\uace0 \uc788\ub2e4..mp4",
+                "video_results": 0.9529825917312077
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e42.mp4",
+                "video_results": 0.9235104928414027
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e4..mp4",
+                "video_results": 0.9478372390071551
+            }
+        ]
+    ],
+    "background_consistency": [
+        0.9514053605313093,
+        [
+            {
+                "video_path": "../TEST/\uac08\ub300 \uc0ac\uc774\ub97c \uc544\ub984\ub2f5\uace0 \ub0a0\uc52c\ud55c \ud55c\uad6d \uc5ec\uc790\uc640 \ud0a4\uac00 \ud06c\uace0 \ubaa8\ub378\uac19\uc740 \ud55c\uad6d \ub0a8\uc790\uac00 \uc190\uc744 \uc7a1\uace0 \ub4b7\ubaa8\uc2b5\uc744 \ubcf4\uc774\uba70 \uac78\uc5b4 \ub4e4\uc5b4\uac00\uace0 \uc788\ub2e4..mp4",
+                "video_results": 0.9578929728331882,
+                "video_sim": 274.915283203125,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e42.mp4",
+                "video_results": 0.9209920247395833,
+                "video_sim": 110.51904296875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e4..mp4",
+                "video_results": 0.966302490234375,
+                "video_sim": 115.956298828125,
+                "cnt_per_video": 120
+            }
+        ]
+    ],
+    "temporal_flickering": [
+        0.9874262136571548,
+        [
+            {
+                "video_path": "../TEST/\uac08\ub300 \uc0ac\uc774\ub97c \uc544\ub984\ub2f5\uace0 \ub0a0\uc52c\ud55c \ud55c\uad6d \uc5ec\uc790\uc640 \ud0a4\uac00 \ud06c\uace0 \ubaa8\ub378\uac19\uc740 \ud55c\uad6d \ub0a8\uc790\uac00 \uc190\uc744 \uc7a1\uace0 \ub4b7\ubaa8\uc2b5\uc744 \ubcf4\uc774\uba70 \uac78\uc5b4 \ub4e4\uc5b4\uac00\uace0 \uc788\ub2e4..mp4",
+                "video_results": 0.9819041775722129
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e42.mp4",
+                "video_results": 0.9899495274412866
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e4..mp4",
+                "video_results": 0.9904249359579648
+            }
+        ]
+    ],
+    "motion_smoothness": [
+        0.9953681153982039,
+        [
+            {
+                "video_path": "../TEST/\uac08\ub300 \uc0ac\uc774\ub97c \uc544\ub984\ub2f5\uace0 \ub0a0\uc52c\ud55c \ud55c\uad6d \uc5ec\uc790\uc640 \ud0a4\uac00 \ud06c\uace0 \ubaa8\ub378\uac19\uc740 \ud55c\uad6d \ub0a8\uc790\uac00 \uc190\uc744 \uc7a1\uace0 \ub4b7\ubaa8\uc2b5\uc744 \ubcf4\uc774\uba70 \uac78\uc5b4 \ub4e4\uc5b4\uac00\uace0 \uc788\ub2e4..mp4",
+                "video_results": 0.9950825294327132
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e42.mp4",
+                "video_results": 0.9958111941553027
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e4..mp4",
+                "video_results": 0.9952106226065959
+            }
+        ]
+    ],
+    "dynamic_degree": [
+        0.3333333333333333,
+        [
+            {
+                "video_path": "../TEST/\uac08\ub300 \uc0ac\uc774\ub97c \uc544\ub984\ub2f5\uace0 \ub0a0\uc52c\ud55c \ud55c\uad6d \uc5ec\uc790\uc640 \ud0a4\uac00 \ud06c\uace0 \ubaa8\ub378\uac19\uc740 \ud55c\uad6d \ub0a8\uc790\uac00 \uc190\uc744 \uc7a1\uace0 \ub4b7\ubaa8\uc2b5\uc744 \ubcf4\uc774\uba70 \uac78\uc5b4 \ub4e4\uc5b4\uac00\uace0 \uc788\ub2e4..mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e42.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e4..mp4",
+                "video_results": false
+            }
+        ]
+    ],
+    "aesthetic_quality": [
+        0.5897917747497559,
+        [
+            {
+                "video_path": "../TEST/\uac08\ub300 \uc0ac\uc774\ub97c \uc544\ub984\ub2f5\uace0 \ub0a0\uc52c\ud55c \ud55c\uad6d \uc5ec\uc790\uc640 \ud0a4\uac00 \ud06c\uace0 \ubaa8\ub378\uac19\uc740 \ud55c\uad6d \ub0a8\uc790\uac00 \uc190\uc744 \uc7a1\uace0 \ub4b7\ubaa8\uc2b5\uc744 \ubcf4\uc774\uba70 \uac78\uc5b4 \ub4e4\uc5b4\uac00\uace0 \uc788\ub2e4..mp4",
+                "video_results": 0.64739990234375
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e42.mp4",
+                "video_results": 0.5483648777008057
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e4..mp4",
+                "video_results": 0.5736105442047119
+            }
+        ]
+    ],
+    "imaging_quality": [
+        0.7530588213920155,
+        [
+            {
+                "video_path": "../TEST/\uac08\ub300 \uc0ac\uc774\ub97c \uc544\ub984\ub2f5\uace0 \ub0a0\uc52c\ud55c \ud55c\uad6d \uc5ec\uc790\uc640 \ud0a4\uac00 \ud06c\uace0 \ubaa8\ub378\uac19\uc740 \ud55c\uad6d \ub0a8\uc790\uac00 \uc190\uc744 \uc7a1\uace0 \ub4b7\ubaa8\uc2b5\uc744 \ubcf4\uc774\uba70 \uac78\uc5b4 \ub4e4\uc5b4\uac00\uace0 \uc788\ub2e4..mp4",
+                "video_results": 69.55637951691945
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e42.mp4",
+                "video_results": 77.45156456813339
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e4..mp4",
+                "video_results": 78.90970233255182
+            }
+        ]
+    ],
+    "human_action": [
+        0.0,
+        [
+            {
+                "video_path": "../TEST/\uac08\ub300 \uc0ac\uc774\ub97c \uc544\ub984\ub2f5\uace0 \ub0a0\uc52c\ud55c \ud55c\uad6d \uc5ec\uc790\uc640 \ud0a4\uac00 \ud06c\uace0 \ubaa8\ub378\uac19\uc740 \ud55c\uad6d \ub0a8\uc790\uac00 \uc190\uc744 \uc7a1\uace0 \ub4b7\ubaa8\uc2b5\uc744 \ubcf4\uc774\uba70 \uac78\uc5b4 \ub4e4\uc5b4\uac00\uace0 \uc788\ub2e4..mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e42.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e4..mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            }
+        ]
+    ],
+    "temporal_style": [
+        0.09072073673208554,
+        [
+            {
+                "video_path": "../TEST/\uac08\ub300 \uc0ac\uc774\ub97c \uc544\ub984\ub2f5\uace0 \ub0a0\uc52c\ud55c \ud55c\uad6d \uc5ec\uc790\uc640 \ud0a4\uac00 \ud06c\uace0 \ubaa8\ub378\uac19\uc740 \ud55c\uad6d \ub0a8\uc790\uac00 \uc190\uc744 \uc7a1\uace0 \ub4b7\ubaa8\uc2b5\uc744 \ubcf4\uc774\uba70 \uac78\uc5b4 \ub4e4\uc5b4\uac00\uace0 \uc788\ub2e4..mp4",
+                "video_results": 0.0510685034096241
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e42.mp4",
+                "video_results": 0.10613621026277542
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e4..mp4",
+                "video_results": 0.11495749652385712
+            }
+        ]
+    ],
+    "overall_consistency": [
+        0.09072073673208554,
+        [
+            {
+                "video_path": "../TEST/\uac08\ub300 \uc0ac\uc774\ub97c \uc544\ub984\ub2f5\uace0 \ub0a0\uc52c\ud55c \ud55c\uad6d \uc5ec\uc790\uc640 \ud0a4\uac00 \ud06c\uace0 \ubaa8\ub378\uac19\uc740 \ud55c\uad6d \ub0a8\uc790\uac00 \uc190\uc744 \uc7a1\uace0 \ub4b7\ubaa8\uc2b5\uc744 \ubcf4\uc774\uba70 \uac78\uc5b4 \ub4e4\uc5b4\uac00\uace0 \uc788\ub2e4..mp4",
+                "video_results": 0.0510685034096241
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e42.mp4",
+                "video_results": 0.10613621026277542
+            },
+            {
+                "video_path": "../TEST/\ub300\ud55c\ubbfc\uad6d\uc758 \ud558\ub298\uc5d0 0,1 \uac19\uc740 \ub514\uc9c0\ud138 \uc2e0\ud638\ub4e4\uc774 \ud558\ub298\uc5d0 \ub0a0\uc544\ub2e4\ub2cc\ub2e4..mp4",
+                "video_results": 0.11495749652385712
+            }
+        ]
+    ]
+}

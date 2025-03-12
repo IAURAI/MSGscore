@@ -1,0 +1,5255 @@
+{
+    "subject_consistency": [
+        0.8717287044782425,
+        [
+            {
+                "video_path": "../Frozen/Frozen-Scene-057.mp4",
+                "video_results": 0.966861984742585
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-233.mp4",
+                "video_results": 0.9975383731847008
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-240.mp4",
+                "video_results": 0.8990404679321907
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-202.mp4",
+                "video_results": 0.9251596304503354
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-134.mp4",
+                "video_results": 0.9264729687990236
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-005.mp4",
+                "video_results": 0.9288442630706162
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-171.mp4",
+                "video_results": 0.7594263845911393
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-242.mp4",
+                "video_results": 0.9936947807365534
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-035.mp4",
+                "video_results": 0.9309524579565654
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-261.mp4",
+                "video_results": 0.7691968201349179
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-191.mp4",
+                "video_results": 0.7939693248865516
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-060.mp4",
+                "video_results": 0.9212624901816958
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-167.mp4",
+                "video_results": 0.6509246436988606
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-107.mp4",
+                "video_results": 0.7621508661613047
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-236.mp4",
+                "video_results": 0.9615656444520662
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-259.mp4",
+                "video_results": 0.8917621358216388
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-201.mp4",
+                "video_results": 0.9747822431943162
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-137.mp4",
+                "video_results": 0.7552998915314675
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-247.mp4",
+                "video_results": 0.996319723315537
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-178.mp4",
+                "video_results": 0.9066371728073467
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-148.mp4",
+                "video_results": 0.7857269272507434
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-173.mp4",
+                "video_results": 0.8688161553854638
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-055.mp4",
+                "video_results": 0.8305331876317223
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-252.mp4",
+                "video_results": 0.9856560497554308
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-175.mp4",
+                "video_results": 0.9381419019361513
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-151.mp4",
+                "video_results": 0.9436754978878398
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-235.mp4",
+                "video_results": 0.7558135079840819
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-042.mp4",
+                "video_results": 0.9173540103694667
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-090.mp4",
+                "video_results": 0.95354775914663
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-093.mp4",
+                "video_results": 0.9584131291357137
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-122.mp4",
+                "video_results": 0.8505384801905982
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-046.mp4",
+                "video_results": 0.9081951944724374
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-216.mp4",
+                "video_results": 0.9548790320544176
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-034.mp4",
+                "video_results": 0.863440005402816
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-203.mp4",
+                "video_results": 0.876559587758641
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-115.mp4",
+                "video_results": 0.9596130855199767
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-076.mp4",
+                "video_results": 0.9684879834262224
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-058.mp4",
+                "video_results": 0.7322979829721636
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-141.mp4",
+                "video_results": 0.7097624296278465
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-196.mp4",
+                "video_results": 0.9570625673892886
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-220.mp4",
+                "video_results": 0.9692287845980554
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-244.mp4",
+                "video_results": 0.7738235128909042
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-033.mp4",
+                "video_results": 0.9219996385714587
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-251.mp4",
+                "video_results": 0.8130086268072074
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-228.mp4",
+                "video_results": 0.9805577753391941
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-045.mp4",
+                "video_results": 0.6986777740897554
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-097.mp4",
+                "video_results": 0.7416752204710607
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-071.mp4",
+                "video_results": 0.8766397963731717
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-255.mp4",
+                "video_results": 0.9981612125495533
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-237.mp4",
+                "video_results": 0.9991706371307373
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-083.mp4",
+                "video_results": 0.7118155392862502
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-212.mp4",
+                "video_results": 0.9895378979815155
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-104.mp4",
+                "video_results": 0.9187506765400598
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-086.mp4",
+                "video_results": 0.8614783451474947
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-023.mp4",
+                "video_results": 0.5267416809941023
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-108.mp4",
+                "video_results": 0.7959810816522302
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-234.mp4",
+                "video_results": 0.9972245614938061
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-078.mp4",
+                "video_results": 0.8898021499119183
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-184.mp4",
+                "video_results": 0.9415158607849949
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-037.mp4",
+                "video_results": 0.9698015348035463
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-200.mp4",
+                "video_results": 0.9810609540343285
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-123.mp4",
+                "video_results": 0.8139503034469965
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-213.mp4",
+                "video_results": 0.9714869866295467
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-164.mp4",
+                "video_results": 0.7749907668770813
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-248.mp4",
+                "video_results": 0.8563841601976981
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-075.mp4",
+                "video_results": 0.970832914757214
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-189.mp4",
+                "video_results": 0.7327902625207188
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-038.mp4",
+                "video_results": 0.9346093892396151
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-204.mp4",
+                "video_results": 0.907409829646349
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-132.mp4",
+                "video_results": 0.9097237746889998
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-243.mp4",
+                "video_results": 0.9982066666237032
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-193.mp4",
+                "video_results": 0.7894887178299133
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-066.mp4",
+                "video_results": 0.9550703830189176
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-067.mp4",
+                "video_results": 0.866135827586299
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-231.mp4",
+                "video_results": 0.7652163087609279
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-133.mp4",
+                "video_results": 0.9732717432473835
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-036.mp4",
+                "video_results": 0.8031586866046108
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-047.mp4",
+                "video_results": 0.829697847902346
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-113.mp4",
+                "video_results": 0.9717881809110227
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-174.mp4",
+                "video_results": 0.8931334784360436
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-079.mp4",
+                "video_results": 0.9779072410604926
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-227.mp4",
+                "video_results": 0.7665864640758151
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-239.mp4",
+                "video_results": 0.9975341943779377
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-257.mp4",
+                "video_results": 0.9838885166377664
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-181.mp4",
+                "video_results": 0.7528678504320291
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-238.mp4",
+                "video_results": 0.7872489215806127
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-084.mp4",
+                "video_results": 0.9333600969832452
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-250.mp4",
+                "video_results": 0.9985577886710402
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-170.mp4",
+                "video_results": 0.6905120656144019
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-124.mp4",
+                "video_results": 0.9506646964479896
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-256.mp4",
+                "video_results": 0.9946902215015143
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-061.mp4",
+                "video_results": 0.9783407479524613
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-072.mp4",
+                "video_results": 0.9099846328817197
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-001.mp4",
+                "video_results": 0.9999997250630822
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-176.mp4",
+                "video_results": 0.8780521422952086
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-254.mp4",
+                "video_results": 0.9885769120811188
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-051.mp4",
+                "video_results": 0.8201434569290051
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-063.mp4",
+                "video_results": 0.96024025942004
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-044.mp4",
+                "video_results": 0.9345201348965885
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-179.mp4",
+                "video_results": 0.8303276775179854
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-119.mp4",
+                "video_results": 0.9721622353508359
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-112.mp4",
+                "video_results": 0.9044042317777552
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-094.mp4",
+                "video_results": 0.9227437783371318
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-209.mp4",
+                "video_results": 0.7391880089340132
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-040.mp4",
+                "video_results": 0.9551102776875656
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-077.mp4",
+                "video_results": 0.9327368552122659
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-110.mp4",
+                "video_results": 0.7508086979677135
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-092.mp4",
+                "video_results": 0.9669326188004747
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-031.mp4",
+                "video_results": 0.9346416189790316
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-246.mp4",
+                "video_results": 0.9925799902641412
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-253.mp4",
+                "video_results": 0.7463392154598723
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-172.mp4",
+                "video_results": 0.7705484991723841
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-245.mp4",
+                "video_results": 0.941987436885635
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-109.mp4",
+                "video_results": 0.7674180775049673
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-140.mp4",
+                "video_results": 0.8506688301075888
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-020.mp4",
+                "video_results": 0.796907221840829
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-219.mp4",
+                "video_results": 0.8766290716240915
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-249.mp4",
+                "video_results": 0.9621943371418195
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-153.mp4",
+                "video_results": 0.8558431440875643
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-089.mp4",
+                "video_results": 0.7472945405886724
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-004.mp4",
+                "video_results": 0.8415176744850891
+            }
+        ]
+    ],
+    "background_consistency": [
+        0.9353262503685582,
+        [
+            {
+                "video_path": "../Frozen/Frozen-Scene-057.mp4",
+                "video_results": 0.9750320270497311,
+                "video_sim": 90.677978515625,
+                "cnt_per_video": 93
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-233.mp4",
+                "video_results": 0.9967931111653646,
+                "video_sim": 95.692138671875,
+                "cnt_per_video": 96
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-240.mp4",
+                "video_results": 0.9209740867077465,
+                "video_sim": 130.7783203125,
+                "cnt_per_video": 142
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-202.mp4",
+                "video_results": 0.9455288973721591,
+                "video_sim": 83.20654296875,
+                "cnt_per_video": 88
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-134.mp4",
+                "video_results": 0.9709573540805785,
+                "video_sim": 117.48583984375,
+                "cnt_per_video": 121
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-005.mp4",
+                "video_results": 0.9523967874461207,
+                "video_sim": 220.9560546875,
+                "cnt_per_video": 232
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-171.mp4",
+                "video_results": 0.8898409329927884,
+                "video_sim": 231.358642578125,
+                "cnt_per_video": 260
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-242.mp4",
+                "video_results": 0.9947310467155612,
+                "video_sim": 97.483642578125,
+                "cnt_per_video": 98
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-035.mp4",
+                "video_results": 0.9654417999031008,
+                "video_sim": 124.5419921875,
+                "cnt_per_video": 129
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-261.mp4",
+                "video_results": 0.7544677734375,
+                "video_sim": 181.072265625,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-191.mp4",
+                "video_results": 0.8738400787733402,
+                "video_sim": 210.595458984375,
+                "cnt_per_video": 241
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-060.mp4",
+                "video_results": 0.9755185081845238,
+                "video_sim": 102.429443359375,
+                "cnt_per_video": 105
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-167.mp4",
+                "video_results": 0.8987735523897059,
+                "video_sim": 76.395751953125,
+                "cnt_per_video": 85
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-107.mp4",
+                "video_results": 0.9001416210159362,
+                "video_sim": 225.935546875,
+                "cnt_per_video": 251
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-236.mp4",
+                "video_results": 0.984799163510101,
+                "video_sim": 97.4951171875,
+                "cnt_per_video": 99
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-259.mp4",
+                "video_results": 0.9261332391535194,
+                "video_sim": 190.783447265625,
+                "cnt_per_video": 206
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-201.mp4",
+                "video_results": 0.9793821794713439,
+                "video_sim": 247.78369140625,
+                "cnt_per_video": 253
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-137.mp4",
+                "video_results": 0.8523179796006944,
+                "video_sim": 153.417236328125,
+                "cnt_per_video": 180
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-247.mp4",
+                "video_results": 0.9990030924479166,
+                "video_sim": 95.904296875,
+                "cnt_per_video": 96
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-178.mp4",
+                "video_results": 0.9382521504103535,
+                "video_sim": 92.886962890625,
+                "cnt_per_video": 99
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-148.mp4",
+                "video_results": 0.922824108935743,
+                "video_sim": 229.783203125,
+                "cnt_per_video": 249
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-173.mp4",
+                "video_results": 0.9254462059507979,
+                "video_sim": 173.98388671875,
+                "cnt_per_video": 188
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-055.mp4",
+                "video_results": 0.9261112422733516,
+                "video_sim": 168.55224609375,
+                "cnt_per_video": 182
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-252.mp4",
+                "video_results": 0.9966701232280928,
+                "video_sim": 96.677001953125,
+                "cnt_per_video": 97
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-175.mp4",
+                "video_results": 0.9620177682522124,
+                "video_sim": 108.7080078125,
+                "cnt_per_video": 113
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-151.mp4",
+                "video_results": 0.946870185959507,
+                "video_sim": 67.227783203125,
+                "cnt_per_video": 71
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-235.mp4",
+                "video_results": 0.9965540568033854,
+                "video_sim": 95.669189453125,
+                "cnt_per_video": 96
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-042.mp4",
+                "video_results": 0.9728765073029891,
+                "video_sim": 89.504638671875,
+                "cnt_per_video": 92
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-090.mp4",
+                "video_results": 0.9569153604628164,
+                "video_sim": 151.192626953125,
+                "cnt_per_video": 158
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-093.mp4",
+                "video_results": 0.9703389830508474,
+                "video_sim": 171.75,
+                "cnt_per_video": 177
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-122.mp4",
+                "video_results": 0.9374950175382653,
+                "video_sim": 91.87451171875,
+                "cnt_per_video": 98
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-046.mp4",
+                "video_results": 0.8962253736413044,
+                "video_sim": 103.06591796875,
+                "cnt_per_video": 115
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-216.mp4",
+                "video_results": 0.9606211487676056,
+                "video_sim": 68.2041015625,
+                "cnt_per_video": 71
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-034.mp4",
+                "video_results": 0.9200852472979323,
+                "video_sim": 122.371337890625,
+                "cnt_per_video": 133
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-203.mp4",
+                "video_results": 0.9406539562136628,
+                "video_sim": 80.896240234375,
+                "cnt_per_video": 86
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-115.mp4",
+                "video_results": 0.9615389195884146,
+                "video_sim": 78.84619140625,
+                "cnt_per_video": 82
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-076.mp4",
+                "video_results": 0.9889573317307693,
+                "video_sim": 102.8515625,
+                "cnt_per_video": 104
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-058.mp4",
+                "video_results": 0.8977906858766234,
+                "video_sim": 138.259765625,
+                "cnt_per_video": 154
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-141.mp4",
+                "video_results": 0.887322373277559,
+                "video_sim": 112.68994140625,
+                "cnt_per_video": 127
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-196.mp4",
+                "video_results": 0.9767129587572675,
+                "video_sim": 83.997314453125,
+                "cnt_per_video": 86
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-220.mp4",
+                "video_results": 0.9608532133556548,
+                "video_sim": 80.711669921875,
+                "cnt_per_video": 84
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-244.mp4",
+                "video_results": 0.9006725193298969,
+                "video_sim": 87.365234375,
+                "cnt_per_video": 97
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-033.mp4",
+                "video_results": 0.9558938419117647,
+                "video_sim": 81.2509765625,
+                "cnt_per_video": 85
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-251.mp4",
+                "video_results": 0.9720024496822034,
+                "video_sim": 172.04443359375,
+                "cnt_per_video": 177
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-228.mp4",
+                "video_results": 0.9922933662887168,
+                "video_sim": 112.129150390625,
+                "cnt_per_video": 113
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-045.mp4",
+                "video_results": 0.8956113873106061,
+                "video_sim": 147.77587890625,
+                "cnt_per_video": 165
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-097.mp4",
+                "video_results": 0.8782493633459945,
+                "video_sim": 158.963134765625,
+                "cnt_per_video": 181
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-071.mp4",
+                "video_results": 0.9307376176883013,
+                "video_sim": 145.195068359375,
+                "cnt_per_video": 156
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-255.mp4",
+                "video_results": 0.998073268581081,
+                "video_sim": 110.7861328125,
+                "cnt_per_video": 111
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-237.mp4",
+                "video_results": 0.9994217722039473,
+                "video_sim": 94.945068359375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-083.mp4",
+                "video_results": 0.8662655784970238,
+                "video_sim": 181.915771484375,
+                "cnt_per_video": 210
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-212.mp4",
+                "video_results": 0.9891326647846639,
+                "video_sim": 117.706787109375,
+                "cnt_per_video": 119
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-104.mp4",
+                "video_results": 0.9715564972763762,
+                "video_sim": 105.899658203125,
+                "cnt_per_video": 109
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-086.mp4",
+                "video_results": 0.939660784841954,
+                "video_sim": 81.75048828125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-023.mp4",
+                "video_results": 0.7901384471792036,
+                "video_sim": 89.28564453125,
+                "cnt_per_video": 113
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-108.mp4",
+                "video_results": 0.8611576474946121,
+                "video_sim": 99.894287109375,
+                "cnt_per_video": 116
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-234.mp4",
+                "video_results": 0.9961184106691919,
+                "video_sim": 98.61572265625,
+                "cnt_per_video": 99
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-078.mp4",
+                "video_results": 0.9546454401299505,
+                "video_sim": 96.419189453125,
+                "cnt_per_video": 101
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-184.mp4",
+                "video_results": 0.9673751027960527,
+                "video_sim": 147.041015625,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-037.mp4",
+                "video_results": 0.9778164195365646,
+                "video_sim": 143.739013671875,
+                "cnt_per_video": 147
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-200.mp4",
+                "video_results": 0.98203857421875,
+                "video_sim": 98.203857421875,
+                "cnt_per_video": 100
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-123.mp4",
+                "video_results": 0.9509721235795454,
+                "video_sim": 135.989013671875,
+                "cnt_per_video": 143
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-213.mp4",
+                "video_results": 0.9794017650462963,
+                "video_sim": 185.10693359375,
+                "cnt_per_video": 189
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-164.mp4",
+                "video_results": 0.8932073329522358,
+                "video_sim": 109.864501953125,
+                "cnt_per_video": 123
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-248.mp4",
+                "video_results": 0.8901592548076923,
+                "video_sim": 173.5810546875,
+                "cnt_per_video": 195
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-075.mp4",
+                "video_results": 0.9853375112410072,
+                "video_sim": 136.9619140625,
+                "cnt_per_video": 139
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-189.mp4",
+                "video_results": 0.8491111288265306,
+                "video_sim": 124.8193359375,
+                "cnt_per_video": 147
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-038.mp4",
+                "video_results": 0.9711618947458791,
+                "video_sim": 88.375732421875,
+                "cnt_per_video": 91
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-204.mp4",
+                "video_results": 0.9709716796875,
+                "video_sim": 77.677734375,
+                "cnt_per_video": 80
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-132.mp4",
+                "video_results": 0.9610595703125,
+                "video_sim": 78.806884765625,
+                "cnt_per_video": 82
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-243.mp4",
+                "video_results": 0.9981183909406566,
+                "video_sim": 98.813720703125,
+                "cnt_per_video": 99
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-193.mp4",
+                "video_results": 0.8850467981917135,
+                "video_sim": 157.538330078125,
+                "cnt_per_video": 178
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-066.mp4",
+                "video_results": 0.9782067975427351,
+                "video_sim": 114.4501953125,
+                "cnt_per_video": 117
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-067.mp4",
+                "video_results": 0.9319528048155737,
+                "video_sim": 113.6982421875,
+                "cnt_per_video": 122
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-231.mp4",
+                "video_results": 0.8981651518924303,
+                "video_sim": 225.439453125,
+                "cnt_per_video": 251
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-133.mp4",
+                "video_results": 0.9663937217310855,
+                "video_sim": 146.891845703125,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-036.mp4",
+                "video_results": 0.8697027162063954,
+                "video_sim": 74.79443359375,
+                "cnt_per_video": 86
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-047.mp4",
+                "video_results": 0.9084700989208633,
+                "video_sim": 126.27734375,
+                "cnt_per_video": 139
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-113.mp4",
+                "video_results": 0.9860855007763976,
+                "video_sim": 158.759765625,
+                "cnt_per_video": 161
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-174.mp4",
+                "video_results": 0.9346239043445121,
+                "video_sim": 114.958740234375,
+                "cnt_per_video": 123
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-079.mp4",
+                "video_results": 0.9797747322682584,
+                "video_sim": 87.199951171875,
+                "cnt_per_video": 89
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-227.mp4",
+                "video_results": 0.8984549386160714,
+                "video_sim": 113.205322265625,
+                "cnt_per_video": 126
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-239.mp4",
+                "video_results": 0.9921332465277778,
+                "video_sim": 98.22119140625,
+                "cnt_per_video": 99
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-257.mp4",
+                "video_results": 0.9867890259929907,
+                "video_sim": 105.58642578125,
+                "cnt_per_video": 107
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-181.mp4",
+                "video_results": 0.8951603816105769,
+                "video_sim": 116.370849609375,
+                "cnt_per_video": 130
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-238.mp4",
+                "video_results": 0.9518890380859375,
+                "video_sim": 91.38134765625,
+                "cnt_per_video": 96
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-084.mp4",
+                "video_results": 0.9560907082479508,
+                "video_sim": 233.2861328125,
+                "cnt_per_video": 244
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-250.mp4",
+                "video_results": 0.9994917072233607,
+                "video_sim": 121.93798828125,
+                "cnt_per_video": 122
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-170.mp4",
+                "video_results": 0.8492820356145251,
+                "video_sim": 152.021484375,
+                "cnt_per_video": 179
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-124.mp4",
+                "video_results": 0.9727747300091911,
+                "video_sim": 132.29736328125,
+                "cnt_per_video": 136
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-256.mp4",
+                "video_results": 0.996917724609375,
+                "video_sim": 127.60546875,
+                "cnt_per_video": 128
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-061.mp4",
+                "video_results": 0.9797629616477272,
+                "video_sim": 107.77392578125,
+                "cnt_per_video": 110
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-072.mp4",
+                "video_results": 0.958565327658582,
+                "video_sim": 128.44775390625,
+                "cnt_per_video": 134
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-001.mp4",
+                "video_results": 1.000949053697183,
+                "video_sim": 71.0673828125,
+                "cnt_per_video": 71
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-176.mp4",
+                "video_results": 0.945806146978022,
+                "video_sim": 86.068359375,
+                "cnt_per_video": 91
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-254.mp4",
+                "video_results": 0.995691043814433,
+                "video_sim": 96.58203125,
+                "cnt_per_video": 97
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-051.mp4",
+                "video_results": 0.8432687612680289,
+                "video_sim": 87.699951171875,
+                "cnt_per_video": 104
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-063.mp4",
+                "video_results": 0.9861861827761628,
+                "video_sim": 84.81201171875,
+                "cnt_per_video": 86
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-044.mp4",
+                "video_results": 0.9683575776457055,
+                "video_sim": 157.84228515625,
+                "cnt_per_video": 163
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-179.mp4",
+                "video_results": 0.899493083861715,
+                "video_sim": 186.195068359375,
+                "cnt_per_video": 207
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-119.mp4",
+                "video_results": 0.9681396484375,
+                "video_sim": 121.985595703125,
+                "cnt_per_video": 126
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-112.mp4",
+                "video_results": 0.9615281628024194,
+                "video_sim": 89.422119140625,
+                "cnt_per_video": 93
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-094.mp4",
+                "video_results": 0.9759057415418388,
+                "video_sim": 236.169189453125,
+                "cnt_per_video": 242
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-209.mp4",
+                "video_results": 0.8463750161415289,
+                "video_sim": 102.411376953125,
+                "cnt_per_video": 121
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-040.mp4",
+                "video_results": 0.9706400324789326,
+                "video_sim": 172.77392578125,
+                "cnt_per_video": 178
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-077.mp4",
+                "video_results": 0.9724994442327236,
+                "video_sim": 119.617431640625,
+                "cnt_per_video": 123
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-110.mp4",
+                "video_results": 0.849332210522343,
+                "video_sim": 175.811767578125,
+                "cnt_per_video": 207
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-092.mp4",
+                "video_results": 0.9782627650669643,
+                "video_sim": 191.739501953125,
+                "cnt_per_video": 196
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-031.mp4",
+                "video_results": 0.9738780679223744,
+                "video_sim": 213.279296875,
+                "cnt_per_video": 219
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-246.mp4",
+                "video_results": 0.9973810369318182,
+                "video_sim": 98.74072265625,
+                "cnt_per_video": 99
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-253.mp4",
+                "video_results": 0.9056570870535714,
+                "video_sim": 88.75439453125,
+                "cnt_per_video": 98
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-172.mp4",
+                "video_results": 0.88670654296875,
+                "video_sim": 195.075439453125,
+                "cnt_per_video": 220
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-245.mp4",
+                "video_results": 0.9849065144856771,
+                "video_sim": 94.551025390625,
+                "cnt_per_video": 96
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-109.mp4",
+                "video_results": 0.9017689009586654,
+                "video_sim": 226.343994140625,
+                "cnt_per_video": 251
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-140.mp4",
+                "video_results": 0.9409368525552486,
+                "video_sim": 170.3095703125,
+                "cnt_per_video": 181
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-020.mp4",
+                "video_results": 0.8927102629671392,
+                "video_sim": 173.185791015625,
+                "cnt_per_video": 194
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-219.mp4",
+                "video_results": 0.9299755310744382,
+                "video_sim": 82.767822265625,
+                "cnt_per_video": 89
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-249.mp4",
+                "video_results": 0.9858060396634616,
+                "video_sim": 192.232177734375,
+                "cnt_per_video": 195
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-153.mp4",
+                "video_results": 0.9447149367559524,
+                "video_sim": 99.195068359375,
+                "cnt_per_video": 105
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-089.mp4",
+                "video_results": 0.8742973132011218,
+                "video_sim": 136.390380859375,
+                "cnt_per_video": 156
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-004.mp4",
+                "video_results": 0.944006174096564,
+                "video_sim": 199.185302734375,
+                "cnt_per_video": 211
+            }
+        ]
+    ],
+    "temporal_flickering": [
+        0.9871135490153665,
+        [
+            {
+                "video_path": "../Frozen/Frozen-Scene-057.mp4",
+                "video_results": 0.9875961406558168
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-233.mp4",
+                "video_results": 0.9993626319310245
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-240.mp4",
+                "video_results": 0.9911914797390209
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-202.mp4",
+                "video_results": 0.9823983510335287
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-134.mp4",
+                "video_results": 0.9835997076595531
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-005.mp4",
+                "video_results": 0.9898713111877442
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-171.mp4",
+                "video_results": 0.9821088416903627
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-242.mp4",
+                "video_results": 0.9993609860247257
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-035.mp4",
+                "video_results": 0.992791012689179
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-261.mp4",
+                "video_results": 0.9914703331741632
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-191.mp4",
+                "video_results": 0.9895276686724495
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-060.mp4",
+                "video_results": 0.982438856012681
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-167.mp4",
+                "video_results": 0.8954850065941904
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-107.mp4",
+                "video_results": 0.9910654311086617
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-236.mp4",
+                "video_results": 0.9990388690840964
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-259.mp4",
+                "video_results": 0.9966529483888663
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-201.mp4",
+                "video_results": 0.9951833154640946
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-137.mp4",
+                "video_results": 0.9873280945946189
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-247.mp4",
+                "video_results": 0.9993471833420735
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-178.mp4",
+                "video_results": 0.9912326850143134
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-148.mp4",
+                "video_results": 0.9707011222839356
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-173.mp4",
+                "video_results": 0.9935607185550764
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-055.mp4",
+                "video_results": 0.9662790298461914
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-252.mp4",
+                "video_results": 0.9981593234866273
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-175.mp4",
+                "video_results": 0.9919009788363587
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-151.mp4",
+                "video_results": 0.997706246843525
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-235.mp4",
+                "video_results": 0.9977880503617081
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-042.mp4",
+                "video_results": 0.9975442444576936
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-090.mp4",
+                "video_results": 0.9967826815212474
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-093.mp4",
+                "video_results": 0.9948758952757891
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-122.mp4",
+                "video_results": 0.9971174978742412
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-046.mp4",
+                "video_results": 0.9425947451124004
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-216.mp4",
+                "video_results": 0.9736196630141314
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-034.mp4",
+                "video_results": 0.9670791700774548
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-203.mp4",
+                "video_results": 0.9870043474085191
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-115.mp4",
+                "video_results": 0.9615861855301202
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-076.mp4",
+                "video_results": 0.9938053645339666
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-058.mp4",
+                "video_results": 0.9795504420411353
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-141.mp4",
+                "video_results": 0.9974153315319735
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-196.mp4",
+                "video_results": 0.9932616589116116
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-220.mp4",
+                "video_results": 0.9908120968762566
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-244.mp4",
+                "video_results": 0.9995271416563614
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-033.mp4",
+                "video_results": 0.9616234424067479
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-251.mp4",
+                "video_results": 0.9996303631394517
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-228.mp4",
+                "video_results": 0.9925630256241443
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-045.mp4",
+                "video_results": 0.9505710003422756
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-097.mp4",
+                "video_results": 0.9590711518829944
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-071.mp4",
+                "video_results": 0.993284496606565
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-255.mp4",
+                "video_results": 0.9987387812605091
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-237.mp4",
+                "video_results": 0.999604701674452
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-083.mp4",
+                "video_results": 0.9904292125327915
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-212.mp4",
+                "video_results": 0.9930958060657277
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-104.mp4",
+                "video_results": 0.9856652437471876
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-086.mp4",
+                "video_results": 0.9878153193230722
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-023.mp4",
+                "video_results": 0.9637269637163948
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-108.mp4",
+                "video_results": 0.9844002536698884
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-234.mp4",
+                "video_results": 0.9987185222261092
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-078.mp4",
+                "video_results": 0.983498010448381
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-184.mp4",
+                "video_results": 0.9972775487338795
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-037.mp4",
+                "video_results": 0.9949650741090962
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-200.mp4",
+                "video_results": 0.9904817646624995
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-123.mp4",
+                "video_results": 0.9815675398882697
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-213.mp4",
+                "video_results": 0.9932683743682562
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-164.mp4",
+                "video_results": 0.9467434303433288
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-248.mp4",
+                "video_results": 0.9983019777372771
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-075.mp4",
+                "video_results": 0.9962485100708756
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-189.mp4",
+                "video_results": 0.9813361205306708
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-038.mp4",
+                "video_results": 0.9927356808793311
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-204.mp4",
+                "video_results": 0.9685509102017271
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-132.mp4",
+                "video_results": 0.9842735814113243
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-243.mp4",
+                "video_results": 0.9990314393651252
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-193.mp4",
+                "video_results": 0.9671304253970876
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-066.mp4",
+                "video_results": 0.992911226609174
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-067.mp4",
+                "video_results": 0.9921439769221287
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-231.mp4",
+                "video_results": 0.9812744103226008
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-133.mp4",
+                "video_results": 0.9954076453751208
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-036.mp4",
+                "video_results": 0.9886909297868317
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-047.mp4",
+                "video_results": 0.9561327354580749
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-113.mp4",
+                "video_results": 0.9981392941054176
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-174.mp4",
+                "video_results": 0.985652229832668
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-079.mp4",
+                "video_results": 0.9991235227561465
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-227.mp4",
+                "video_results": 0.9724695747973873
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-239.mp4",
+                "video_results": 0.9984572437464022
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-257.mp4",
+                "video_results": 0.9978582204556933
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-181.mp4",
+                "video_results": 0.9765240014768114
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-238.mp4",
+                "video_results": 0.999669510856563
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-084.mp4",
+                "video_results": 0.997826357682546
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-250.mp4",
+                "video_results": 0.9996191511259359
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-170.mp4",
+                "video_results": 0.9794952317780139
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-124.mp4",
+                "video_results": 0.9910989078820921
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-256.mp4",
+                "video_results": 0.9992708899811202
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-061.mp4",
+                "video_results": 0.9956727313060386
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-072.mp4",
+                "video_results": 0.9921894835490807
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-001.mp4",
+                "video_results": 0.9999999601244317
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-176.mp4",
+                "video_results": 0.9864808559417725
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-254.mp4",
+                "video_results": 0.9993069213395025
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-051.mp4",
+                "video_results": 0.9728539148966472
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-063.mp4",
+                "video_results": 0.9901008213267607
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-044.mp4",
+                "video_results": 0.9791904150270948
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-179.mp4",
+                "video_results": 0.9826254732468549
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-119.mp4",
+                "video_results": 0.9944888549692491
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-112.mp4",
+                "video_results": 0.9769782851724064
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-094.mp4",
+                "video_results": 0.9907496592577766
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-209.mp4",
+                "video_results": 0.9724895888683842
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-040.mp4",
+                "video_results": 0.9892435756384158
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-077.mp4",
+                "video_results": 0.9913995191162708
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-110.mp4",
+                "video_results": 0.990284200743133
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-092.mp4",
+                "video_results": 0.9919668085434857
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-031.mp4",
+                "video_results": 0.9922694486730239
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-246.mp4",
+                "video_results": 0.995949054699318
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-253.mp4",
+                "video_results": 0.9968902943181056
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-172.mp4",
+                "video_results": 0.98750135010364
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-245.mp4",
+                "video_results": 0.999827351216592
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-109.mp4",
+                "video_results": 0.9917414973763858
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-140.mp4",
+                "video_results": 0.9910316560782638
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-020.mp4",
+                "video_results": 0.9708409851672603
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-219.mp4",
+                "video_results": 0.9883788146224677
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-249.mp4",
+                "video_results": 0.9997275417634085
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-153.mp4",
+                "video_results": 0.9943730087841258
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-089.mp4",
+                "video_results": 0.9940073405995088
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-004.mp4",
+                "video_results": 0.9903434949762681
+            }
+        ]
+    ],
+    "motion_smoothness": [
+        0.992337525446262,
+        [
+            {
+                "video_path": "../Frozen/Frozen-Scene-057.mp4",
+                "video_results": 0.9936467609356844
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-233.mp4",
+                "video_results": 0.9978560967006754
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-240.mp4",
+                "video_results": 0.9917454169179777
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-202.mp4",
+                "video_results": 0.9875936920438367
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-134.mp4",
+                "video_results": 0.9942343725283477
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-005.mp4",
+                "video_results": 0.9925688473399085
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-171.mp4",
+                "video_results": 0.9895144512589457
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-242.mp4",
+                "video_results": 0.9988102074747666
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-035.mp4",
+                "video_results": 0.9956593724869194
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-261.mp4",
+                "video_results": 0.9909717595738332
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-191.mp4",
+                "video_results": 0.9931480967560349
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-060.mp4",
+                "video_results": 0.9883243358272479
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-167.mp4",
+                "video_results": 0.9129146306028828
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-107.mp4",
+                "video_results": 0.9945672206448586
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-236.mp4",
+                "video_results": 0.9978263763047848
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-259.mp4",
+                "video_results": 0.9956971527853694
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-201.mp4",
+                "video_results": 0.9966571098247391
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-137.mp4",
+                "video_results": 0.99155813335793
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-247.mp4",
+                "video_results": 0.9990033613805492
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-178.mp4",
+                "video_results": 0.9964310276503341
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-148.mp4",
+                "video_results": 0.9783062545715603
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-173.mp4",
+                "video_results": 0.9964183513051387
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-055.mp4",
+                "video_results": 0.9797591038933132
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-252.mp4",
+                "video_results": 0.9980896983438131
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-175.mp4",
+                "video_results": 0.9970780343172404
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-151.mp4",
+                "video_results": 0.9983805578715259
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-235.mp4",
+                "video_results": 0.9976536121956889
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-042.mp4",
+                "video_results": 0.9968468840686685
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-090.mp4",
+                "video_results": 0.9974114031861891
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-093.mp4",
+                "video_results": 0.9962505151499372
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-122.mp4",
+                "video_results": 0.9958433109733168
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-046.mp4",
+                "video_results": 0.9736014454276418
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-216.mp4",
+                "video_results": 0.989509414925211
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-034.mp4",
+                "video_results": 0.9925409489095355
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-203.mp4",
+                "video_results": 0.9894426778857633
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-115.mp4",
+                "video_results": 0.9876489838146446
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-076.mp4",
+                "video_results": 0.996308052568313
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-058.mp4",
+                "video_results": 0.986804373101876
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-141.mp4",
+                "video_results": 0.9961234585930387
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-196.mp4",
+                "video_results": 0.995968392545764
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-220.mp4",
+                "video_results": 0.9950844788719944
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-244.mp4",
+                "video_results": 0.9959767985182275
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-033.mp4",
+                "video_results": 0.9918881423294932
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-251.mp4",
+                "video_results": 0.996849329042892
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-228.mp4",
+                "video_results": 0.9955339227189088
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-045.mp4",
+                "video_results": 0.9796071487968007
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-097.mp4",
+                "video_results": 0.9754284727858339
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-071.mp4",
+                "video_results": 0.9937069443662331
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-255.mp4",
+                "video_results": 0.9982538636522966
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-237.mp4",
+                "video_results": 0.998807563069159
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-083.mp4",
+                "video_results": 0.9923369109619004
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-212.mp4",
+                "video_results": 0.9956496174007771
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-104.mp4",
+                "video_results": 0.9926454426530956
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-086.mp4",
+                "video_results": 0.9916400147552945
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-023.mp4",
+                "video_results": 0.9895475897188152
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-108.mp4",
+                "video_results": 0.9885236141805315
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-234.mp4",
+                "video_results": 0.9980182704957671
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-078.mp4",
+                "video_results": 0.9921904429965055
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-184.mp4",
+                "video_results": 0.9972573053138245
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-037.mp4",
+                "video_results": 0.9963534576864129
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-200.mp4",
+                "video_results": 0.9959040995781563
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-123.mp4",
+                "video_results": 0.9939123126294437
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-213.mp4",
+                "video_results": 0.9955355824917143
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-164.mp4",
+                "video_results": 0.9564434085356965
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-248.mp4",
+                "video_results": 0.9977936006674879
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-075.mp4",
+                "video_results": 0.9967811652799622
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-189.mp4",
+                "video_results": 0.9873500407670284
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-038.mp4",
+                "video_results": 0.995311668569839
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-204.mp4",
+                "video_results": 0.9756819998712494
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-132.mp4",
+                "video_results": 0.9950451582401186
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-243.mp4",
+                "video_results": 0.9990316774055606
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-193.mp4",
+                "video_results": 0.9899966527981973
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-066.mp4",
+                "video_results": 0.9954440798679682
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-067.mp4",
+                "video_results": 0.9942306822242414
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-231.mp4",
+                "video_results": 0.9900995893664122
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-133.mp4",
+                "video_results": 0.9965865621347513
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-036.mp4",
+                "video_results": 0.9930015675736805
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-047.mp4",
+                "video_results": 0.9843551508972118
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-113.mp4",
+                "video_results": 0.9973876804931182
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-174.mp4",
+                "video_results": 0.9938619644168692
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-079.mp4",
+                "video_results": 0.9972969637458539
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-227.mp4",
+                "video_results": 0.9906851611026241
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-239.mp4",
+                "video_results": 0.998232232524473
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-257.mp4",
+                "video_results": 0.9978694660285835
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-181.mp4",
+                "video_results": 0.9850701477894301
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-238.mp4",
+                "video_results": 0.9966929809699336
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-084.mp4",
+                "video_results": 0.9970750142016874
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-250.mp4",
+                "video_results": 0.9993056029902854
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-170.mp4",
+                "video_results": 0.9870298799370739
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-124.mp4",
+                "video_results": 0.9930171245784379
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-256.mp4",
+                "video_results": 0.998305195927499
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-061.mp4",
+                "video_results": 0.9963364370750801
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-072.mp4",
+                "video_results": 0.9951832034573903
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-001.mp4",
+                "video_results": 0.9999921902204225
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-176.mp4",
+                "video_results": 0.9965012339162839
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-254.mp4",
+                "video_results": 0.9990024403038368
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-051.mp4",
+                "video_results": 0.9889384980311992
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-063.mp4",
+                "video_results": 0.9930074821581708
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-044.mp4",
+                "video_results": 0.9884552358743651
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-179.mp4",
+                "video_results": 0.9906488287960602
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-119.mp4",
+                "video_results": 0.9961464883078429
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-112.mp4",
+                "video_results": 0.9808815292361504
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-094.mp4",
+                "video_results": 0.994802330277591
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-209.mp4",
+                "video_results": 0.9836611398412616
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-040.mp4",
+                "video_results": 0.9956799069437264
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-077.mp4",
+                "video_results": 0.994105981333779
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-110.mp4",
+                "video_results": 0.9942498948244279
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-092.mp4",
+                "video_results": 0.9945492862212955
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-031.mp4",
+                "video_results": 0.9960881216439743
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-246.mp4",
+                "video_results": 0.9957982079486085
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-253.mp4",
+                "video_results": 0.9963707457680542
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-172.mp4",
+                "video_results": 0.9900899499570055
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-245.mp4",
+                "video_results": 0.9989366219911283
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-109.mp4",
+                "video_results": 0.9943248948087211
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-140.mp4",
+                "video_results": 0.993582662270346
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-020.mp4",
+                "video_results": 0.9869908534244621
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-219.mp4",
+                "video_results": 0.9945006909353619
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-249.mp4",
+                "video_results": 0.998544603227726
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-153.mp4",
+                "video_results": 0.9973269169453238
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-089.mp4",
+                "video_results": 0.9956832971517128
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-004.mp4",
+                "video_results": 0.9941132661432284
+            }
+        ]
+    ],
+    "dynamic_degree": [
+        0.6446280991735537,
+        [
+            {
+                "video_path": "../Frozen/Frozen-Scene-057.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-233.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-240.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-202.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-134.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-005.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-171.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-242.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-035.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-261.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-191.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-060.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-167.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-107.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-236.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-259.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-201.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-137.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-247.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-178.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-148.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-173.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-055.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-252.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-175.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-151.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-235.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-042.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-090.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-093.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-122.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-046.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-216.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-034.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-203.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-115.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-076.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-058.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-141.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-196.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-220.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-244.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-033.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-251.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-228.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-045.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-097.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-071.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-255.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-237.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-083.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-212.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-104.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-086.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-023.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-108.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-234.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-078.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-184.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-037.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-200.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-123.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-213.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-164.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-248.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-075.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-189.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-038.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-204.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-132.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-243.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-193.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-066.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-067.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-231.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-133.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-036.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-047.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-113.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-174.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-079.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-227.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-239.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-257.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-181.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-238.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-084.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-250.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-170.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-124.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-256.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-061.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-072.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-001.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-176.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-254.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-051.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-063.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-044.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-179.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-119.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-112.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-094.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-209.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-040.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-077.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-110.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-092.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-031.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-246.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-253.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-172.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-245.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-109.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-140.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-020.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-219.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-249.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-153.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-089.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-004.mp4",
+                "video_results": true
+            }
+        ]
+    ],
+    "aesthetic_quality": [
+        0.5482978490758533,
+        [
+            {
+                "video_path": "../Frozen/Frozen-Scene-057.mp4",
+                "video_results": 0.6746125221252441
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-233.mp4",
+                "video_results": 0.3574056923389435
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-240.mp4",
+                "video_results": 0.35705581307411194
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-202.mp4",
+                "video_results": 0.5989661812782288
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-134.mp4",
+                "video_results": 0.6335747241973877
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-005.mp4",
+                "video_results": 0.5756953358650208
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-171.mp4",
+                "video_results": 0.6287434101104736
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-242.mp4",
+                "video_results": 0.43211549520492554
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-035.mp4",
+                "video_results": 0.6455563902854919
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-261.mp4",
+                "video_results": 0.44489458203315735
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-191.mp4",
+                "video_results": 0.6502279043197632
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-060.mp4",
+                "video_results": 0.5419754385948181
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-167.mp4",
+                "video_results": 0.41033679246902466
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-107.mp4",
+                "video_results": 0.6413476467132568
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-236.mp4",
+                "video_results": 0.30007100105285645
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-259.mp4",
+                "video_results": 0.5117409229278564
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-201.mp4",
+                "video_results": 0.6855219006538391
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-137.mp4",
+                "video_results": 0.5962963700294495
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-247.mp4",
+                "video_results": 0.08521252870559692
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-178.mp4",
+                "video_results": 0.5497370958328247
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-148.mp4",
+                "video_results": 0.6360035538673401
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-173.mp4",
+                "video_results": 0.617891252040863
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-055.mp4",
+                "video_results": 0.6491321325302124
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-252.mp4",
+                "video_results": 0.21564354002475739
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-175.mp4",
+                "video_results": 0.655606746673584
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-151.mp4",
+                "video_results": 0.6078160405158997
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-235.mp4",
+                "video_results": 0.2416892945766449
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-042.mp4",
+                "video_results": 0.5335537791252136
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-090.mp4",
+                "video_results": 0.6070039868354797
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-093.mp4",
+                "video_results": 0.6553642153739929
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-122.mp4",
+                "video_results": 0.5120815634727478
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-046.mp4",
+                "video_results": 0.6067965030670166
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-216.mp4",
+                "video_results": 0.5841215252876282
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-034.mp4",
+                "video_results": 0.6666019558906555
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-203.mp4",
+                "video_results": 0.5249500274658203
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-115.mp4",
+                "video_results": 0.7259660959243774
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-076.mp4",
+                "video_results": 0.6897982954978943
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-058.mp4",
+                "video_results": 0.6218414306640625
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-141.mp4",
+                "video_results": 0.6396877765655518
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-196.mp4",
+                "video_results": 0.5546191930770874
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-220.mp4",
+                "video_results": 0.6469965577125549
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-244.mp4",
+                "video_results": 0.2451735883951187
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-033.mp4",
+                "video_results": 0.6489202976226807
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-251.mp4",
+                "video_results": 0.34309276938438416
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-228.mp4",
+                "video_results": 0.6678537130355835
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-045.mp4",
+                "video_results": 0.6127913594245911
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-097.mp4",
+                "video_results": 0.5158045887947083
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-071.mp4",
+                "video_results": 0.5748485922813416
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-255.mp4",
+                "video_results": 0.39582616090774536
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-237.mp4",
+                "video_results": 0.41391366720199585
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-083.mp4",
+                "video_results": 0.6237998604774475
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-212.mp4",
+                "video_results": 0.6282885074615479
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-104.mp4",
+                "video_results": 0.6202307939529419
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-086.mp4",
+                "video_results": 0.6231335401535034
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-023.mp4",
+                "video_results": 0.5353178381919861
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-108.mp4",
+                "video_results": 0.5315018892288208
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-234.mp4",
+                "video_results": 0.27246662974357605
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-078.mp4",
+                "video_results": 0.6308160424232483
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-184.mp4",
+                "video_results": 0.708700954914093
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-037.mp4",
+                "video_results": 0.6808225512504578
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-200.mp4",
+                "video_results": 0.7015735507011414
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-123.mp4",
+                "video_results": 0.6112649440765381
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-213.mp4",
+                "video_results": 0.5659932494163513
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-164.mp4",
+                "video_results": 0.5046882629394531
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-248.mp4",
+                "video_results": 0.3679026961326599
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-075.mp4",
+                "video_results": 0.5854061841964722
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-189.mp4",
+                "video_results": 0.5140150785446167
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-038.mp4",
+                "video_results": 0.6286328434944153
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-204.mp4",
+                "video_results": 0.5757779479026794
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-132.mp4",
+                "video_results": 0.6288639307022095
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-243.mp4",
+                "video_results": 0.34875595569610596
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-193.mp4",
+                "video_results": 0.5116333365440369
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-066.mp4",
+                "video_results": 0.6483660340309143
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-067.mp4",
+                "video_results": 0.6047586798667908
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-231.mp4",
+                "video_results": 0.6302101612091064
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-133.mp4",
+                "video_results": 0.6024293899536133
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-036.mp4",
+                "video_results": 0.6295377612113953
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-047.mp4",
+                "video_results": 0.6059684753417969
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-113.mp4",
+                "video_results": 0.617285430431366
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-174.mp4",
+                "video_results": 0.6258221864700317
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-079.mp4",
+                "video_results": 0.5851998329162598
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-227.mp4",
+                "video_results": 0.6358757615089417
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-239.mp4",
+                "video_results": 0.4362039864063263
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-257.mp4",
+                "video_results": 0.5306052565574646
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-181.mp4",
+                "video_results": 0.4585188925266266
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-238.mp4",
+                "video_results": 0.2894815504550934
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-084.mp4",
+                "video_results": 0.5945817828178406
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-250.mp4",
+                "video_results": 0.25827181339263916
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-170.mp4",
+                "video_results": 0.6069429516792297
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-124.mp4",
+                "video_results": 0.6181894540786743
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-256.mp4",
+                "video_results": 0.38845399022102356
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-061.mp4",
+                "video_results": 0.5923753380775452
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-072.mp4",
+                "video_results": 0.6488077640533447
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-001.mp4",
+                "video_results": 0.33488085865974426
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-176.mp4",
+                "video_results": 0.5431613922119141
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-254.mp4",
+                "video_results": 0.2612340748310089
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-051.mp4",
+                "video_results": 0.6099901795387268
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-063.mp4",
+                "video_results": 0.6271102428436279
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-044.mp4",
+                "video_results": 0.6648739576339722
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-179.mp4",
+                "video_results": 0.5782743692398071
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-119.mp4",
+                "video_results": 0.5940395593643188
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-112.mp4",
+                "video_results": 0.41923317313194275
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-094.mp4",
+                "video_results": 0.6640477776527405
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-209.mp4",
+                "video_results": 0.5983693599700928
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-040.mp4",
+                "video_results": 0.653403639793396
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-077.mp4",
+                "video_results": 0.6346796154975891
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-110.mp4",
+                "video_results": 0.5152384042739868
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-092.mp4",
+                "video_results": 0.648611307144165
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-031.mp4",
+                "video_results": 0.6542665958404541
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-246.mp4",
+                "video_results": 0.3542235195636749
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-253.mp4",
+                "video_results": 0.2964693307876587
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-172.mp4",
+                "video_results": 0.6491101980209351
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-245.mp4",
+                "video_results": 0.39292237162590027
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-109.mp4",
+                "video_results": 0.5714712738990784
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-140.mp4",
+                "video_results": 0.6156327128410339
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-020.mp4",
+                "video_results": 0.6265660524368286
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-219.mp4",
+                "video_results": 0.7061494588851929
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-249.mp4",
+                "video_results": 0.39155322313308716
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-153.mp4",
+                "video_results": 0.6223927736282349
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-089.mp4",
+                "video_results": 0.6135175824165344
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-004.mp4",
+                "video_results": 0.5626657009124756
+            }
+        ]
+    ],
+    "imaging_quality": [
+        0.6046106117944877,
+        [
+            {
+                "video_path": "../Frozen/Frozen-Scene-057.mp4",
+                "video_results": 76.15347663392411
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-233.mp4",
+                "video_results": 72.98804906471489
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-240.mp4",
+                "video_results": 46.54927413780373
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-202.mp4",
+                "video_results": 68.1106383505832
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-134.mp4",
+                "video_results": 58.319926590215964
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-005.mp4",
+                "video_results": 69.74334417187605
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-171.mp4",
+                "video_results": 57.084234712681095
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-242.mp4",
+                "video_results": 56.72402168042732
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-035.mp4",
+                "video_results": 71.21135550278883
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-261.mp4",
+                "video_results": 46.83929763888917
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-191.mp4",
+                "video_results": 62.04164542836591
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-060.mp4",
+                "video_results": 64.98802332608204
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-167.mp4",
+                "video_results": 43.00140063707219
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-107.mp4",
+                "video_results": 68.18442209940108
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-236.mp4",
+                "video_results": 61.5037882232666
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-259.mp4",
+                "video_results": 63.68129300840811
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-201.mp4",
+                "video_results": 73.98625654686154
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-137.mp4",
+                "video_results": 65.16665476593523
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-247.mp4",
+                "video_results": 61.61929297692997
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-178.mp4",
+                "video_results": 43.66379766464233
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-148.mp4",
+                "video_results": 64.55531455993652
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-173.mp4",
+                "video_results": 49.43836484636579
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-055.mp4",
+                "video_results": 68.09294603691727
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-252.mp4",
+                "video_results": 45.75699755610252
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-175.mp4",
+                "video_results": 65.3395662140428
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-151.mp4",
+                "video_results": 38.404530896080864
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-235.mp4",
+                "video_results": 65.13299556614197
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-042.mp4",
+                "video_results": 72.19742707283267
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-090.mp4",
+                "video_results": 51.35543804048742
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-093.mp4",
+                "video_results": 41.158711079801066
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-122.mp4",
+                "video_results": 43.40262416878132
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-046.mp4",
+                "video_results": 66.73691299043853
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-216.mp4",
+                "video_results": 75.87289089626736
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-034.mp4",
+                "video_results": 72.93366714022052
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-203.mp4",
+                "video_results": 72.79280954119803
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-115.mp4",
+                "video_results": 61.78562596332596
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-076.mp4",
+                "video_results": 65.01163914998372
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-058.mp4",
+                "video_results": 67.99850739509829
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-141.mp4",
+                "video_results": 60.46786066889763
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-196.mp4",
+                "video_results": 71.73314701825723
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-220.mp4",
+                "video_results": 77.26054561839385
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-244.mp4",
+                "video_results": 57.20295777612803
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-033.mp4",
+                "video_results": 59.0159692986067
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-251.mp4",
+                "video_results": 55.16807689023822
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-228.mp4",
+                "video_results": 71.45832142076995
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-045.mp4",
+                "video_results": 72.39093003790063
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-097.mp4",
+                "video_results": 48.52434149941245
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-071.mp4",
+                "video_results": 56.82275512112174
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-255.mp4",
+                "video_results": 54.64424518176487
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-237.mp4",
+                "video_results": 67.71802202860515
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-083.mp4",
+                "video_results": 63.52872080147549
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-212.mp4",
+                "video_results": 74.3192048072815
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-104.mp4",
+                "video_results": 62.10524586764249
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-086.mp4",
+                "video_results": 49.843162449923426
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-023.mp4",
+                "video_results": 45.79410609864352
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-108.mp4",
+                "video_results": 64.3336353302002
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-234.mp4",
+                "video_results": 67.36350555419922
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-078.mp4",
+                "video_results": 66.53561539743461
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-184.mp4",
+                "video_results": 42.993361030528746
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-037.mp4",
+                "video_results": 71.85880346555967
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-200.mp4",
+                "video_results": 70.8528975685044
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-123.mp4",
+                "video_results": 67.54173297352261
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-213.mp4",
+                "video_results": 66.9415537382427
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-164.mp4",
+                "video_results": 41.294154997794855
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-248.mp4",
+                "video_results": 58.33841335530184
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-075.mp4",
+                "video_results": 63.203002493722096
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-189.mp4",
+                "video_results": 46.633275457330654
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-038.mp4",
+                "video_results": 73.21820673735246
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-204.mp4",
+                "video_results": 69.44087548903477
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-132.mp4",
+                "video_results": 68.67092656514731
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-243.mp4",
+                "video_results": 67.50275100708008
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-193.mp4",
+                "video_results": 56.24341866690353
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-066.mp4",
+                "video_results": 61.07513847997633
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-067.mp4",
+                "video_results": 61.108197344027886
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-231.mp4",
+                "video_results": 59.41712542942592
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-133.mp4",
+                "video_results": 64.21502254211825
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-036.mp4",
+                "video_results": 61.08158177342908
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-047.mp4",
+                "video_results": 62.97495316096715
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-113.mp4",
+                "video_results": 65.80994168034306
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-174.mp4",
+                "video_results": 53.38414127595963
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-079.mp4",
+                "video_results": 32.15445473988851
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-227.mp4",
+                "video_results": 71.39665162093996
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-239.mp4",
+                "video_results": 55.635720100402835
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-257.mp4",
+                "video_results": 58.68365118238661
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-181.mp4",
+                "video_results": 39.61675004740708
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-238.mp4",
+                "video_results": 38.18598359884675
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-084.mp4",
+                "video_results": 52.56001739501953
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-250.mp4",
+                "video_results": 59.36919365859613
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-170.mp4",
+                "video_results": 51.833760854933
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-124.mp4",
+                "video_results": 61.24783041181355
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-256.mp4",
+                "video_results": 73.21841655405917
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-061.mp4",
+                "video_results": 63.80297731279253
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-072.mp4",
+                "video_results": 70.04102896231193
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-001.mp4",
+                "video_results": 17.562029149797226
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-176.mp4",
+                "video_results": 40.4056946505671
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-254.mp4",
+                "video_results": 64.33718914888343
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-051.mp4",
+                "video_results": 62.76207442510696
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-063.mp4",
+                "video_results": 72.58751353998294
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-044.mp4",
+                "video_results": 71.89235210418701
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-179.mp4",
+                "video_results": 53.9926659143888
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-119.mp4",
+                "video_results": 68.7710055253637
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-112.mp4",
+                "video_results": 65.74941438309689
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-094.mp4",
+                "video_results": 46.82098605309004
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-209.mp4",
+                "video_results": 67.24090316647388
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-040.mp4",
+                "video_results": 67.70842288992259
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-077.mp4",
+                "video_results": 69.91205089322982
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-110.mp4",
+                "video_results": 59.593967547783485
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-092.mp4",
+                "video_results": 59.01366495238948
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-031.mp4",
+                "video_results": 69.29249734011563
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-246.mp4",
+                "video_results": 62.95880519866943
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-253.mp4",
+                "video_results": 59.42697860255386
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-172.mp4",
+                "video_results": 57.52498856281263
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-245.mp4",
+                "video_results": 55.719433499365735
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-109.mp4",
+                "video_results": 57.27717612281678
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-140.mp4",
+                "video_results": 66.1545524597168
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-020.mp4",
+                "video_results": 61.629360242990344
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-219.mp4",
+                "video_results": 68.61174108717177
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-249.mp4",
+                "video_results": 61.74034941926294
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-153.mp4",
+                "video_results": 42.34008479568193
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-089.mp4",
+                "video_results": 55.888755531068064
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-004.mp4",
+                "video_results": 61.570302693349014
+            }
+        ]
+    ],
+    "human_action": [
+        0.0,
+        [
+            {
+                "video_path": "../Frozen/Frozen-Scene-057.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-233.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-240.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-202.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-134.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-005.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-171.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-242.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-035.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-261.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-191.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-060.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-167.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-107.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-236.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-259.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-201.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-137.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-247.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-178.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-148.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-173.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-055.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-252.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-175.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-151.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-235.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-042.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-090.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-093.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-122.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-046.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-216.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-034.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-203.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-115.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-076.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-058.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-141.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-196.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-220.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-244.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-033.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-251.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-228.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-045.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-097.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-071.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-255.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-237.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-083.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-212.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-104.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-086.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-023.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-108.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-234.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-078.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-184.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-037.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-200.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-123.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-213.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-164.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-248.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-075.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-189.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-038.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-204.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-132.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-243.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-193.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-066.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-067.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-231.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-133.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-036.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-047.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-113.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-174.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-079.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-227.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-239.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-257.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-181.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-238.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-084.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-250.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-170.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-124.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-256.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-061.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-072.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-001.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-176.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-254.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-051.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-063.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-044.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-179.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-119.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-112.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-094.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-209.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-040.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-077.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-110.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-092.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-031.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-246.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-253.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-172.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-245.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-109.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-140.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-020.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-219.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-249.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-153.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-089.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-004.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            }
+        ]
+    ],
+    "temporal_style": [
+        0.18166298696324845,
+        [
+            {
+                "video_path": "../Frozen/Frozen-Scene-057.mp4",
+                "video_results": 0.22714713215827942
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-233.mp4",
+                "video_results": 0.07370449602603912
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-240.mp4",
+                "video_results": 0.06890761852264404
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-202.mp4",
+                "video_results": 0.19740717113018036
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-134.mp4",
+                "video_results": 0.23762157559394836
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-005.mp4",
+                "video_results": 0.25509142875671387
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-171.mp4",
+                "video_results": 0.22921030223369598
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-242.mp4",
+                "video_results": 0.14750930666923523
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-035.mp4",
+                "video_results": 0.22263449430465698
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-261.mp4",
+                "video_results": 0.11433173716068268
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-191.mp4",
+                "video_results": 0.13778886198997498
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-060.mp4",
+                "video_results": 0.22212785482406616
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-167.mp4",
+                "video_results": 0.20642024278640747
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-107.mp4",
+                "video_results": 0.21995848417282104
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-236.mp4",
+                "video_results": 0.10522465407848358
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-259.mp4",
+                "video_results": 0.2595844566822052
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-201.mp4",
+                "video_results": 0.2066013067960739
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-137.mp4",
+                "video_results": 0.2298191338777542
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-247.mp4",
+                "video_results": 0.06928883492946625
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-178.mp4",
+                "video_results": 0.1242361068725586
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-148.mp4",
+                "video_results": 0.200967937707901
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-173.mp4",
+                "video_results": 0.1780259609222412
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-055.mp4",
+                "video_results": 0.1741439700126648
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-252.mp4",
+                "video_results": 0.054396308958530426
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-175.mp4",
+                "video_results": 0.21012265980243683
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-151.mp4",
+                "video_results": 0.20731113851070404
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-235.mp4",
+                "video_results": 0.15374651551246643
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-042.mp4",
+                "video_results": 0.13979050517082214
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-090.mp4",
+                "video_results": 0.20350481569766998
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-093.mp4",
+                "video_results": 0.21421976387500763
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-122.mp4",
+                "video_results": 0.12402868270874023
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-046.mp4",
+                "video_results": 0.20906394720077515
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-216.mp4",
+                "video_results": 0.14347659051418304
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-034.mp4",
+                "video_results": 0.15214568376541138
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-203.mp4",
+                "video_results": 0.17157584428787231
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-115.mp4",
+                "video_results": 0.17720700800418854
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-076.mp4",
+                "video_results": 0.22815680503845215
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-058.mp4",
+                "video_results": 0.16804160177707672
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-141.mp4",
+                "video_results": 0.23582889139652252
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-196.mp4",
+                "video_results": 0.2248639613389969
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-220.mp4",
+                "video_results": 0.2080516517162323
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-244.mp4",
+                "video_results": 0.08661755919456482
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-033.mp4",
+                "video_results": 0.2061551809310913
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-251.mp4",
+                "video_results": 0.07302054762840271
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-228.mp4",
+                "video_results": 0.21660733222961426
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-045.mp4",
+                "video_results": 0.22387684881687164
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-097.mp4",
+                "video_results": 0.1688787192106247
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-071.mp4",
+                "video_results": 0.22612392902374268
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-255.mp4",
+                "video_results": 0.0976761057972908
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-237.mp4",
+                "video_results": 0.07456578314304352
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-083.mp4",
+                "video_results": 0.20296978950500488
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-212.mp4",
+                "video_results": 0.2310960590839386
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-104.mp4",
+                "video_results": 0.21645154058933258
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-086.mp4",
+                "video_results": 0.2297343909740448
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-023.mp4",
+                "video_results": 0.11751590669155121
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-108.mp4",
+                "video_results": 0.23855537176132202
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-234.mp4",
+                "video_results": 0.10148873180150986
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-078.mp4",
+                "video_results": 0.21749743819236755
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-184.mp4",
+                "video_results": 0.19090500473976135
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-037.mp4",
+                "video_results": 0.2277335822582245
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-200.mp4",
+                "video_results": 0.20671740174293518
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-123.mp4",
+                "video_results": 0.21478348970413208
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-213.mp4",
+                "video_results": 0.2368752658367157
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-164.mp4",
+                "video_results": 0.2110767811536789
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-248.mp4",
+                "video_results": 0.08799536526203156
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-075.mp4",
+                "video_results": 0.21402505040168762
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-189.mp4",
+                "video_results": 0.23049497604370117
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-038.mp4",
+                "video_results": 0.1953752487897873
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-204.mp4",
+                "video_results": 0.2047165185213089
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-132.mp4",
+                "video_results": 0.2131308913230896
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-243.mp4",
+                "video_results": 0.06692709028720856
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-193.mp4",
+                "video_results": 0.15979544818401337
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-066.mp4",
+                "video_results": 0.21924906969070435
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-067.mp4",
+                "video_results": 0.23634804785251617
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-231.mp4",
+                "video_results": 0.2194674164056778
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-133.mp4",
+                "video_results": 0.21811923384666443
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-036.mp4",
+                "video_results": 0.20257636904716492
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-047.mp4",
+                "video_results": 0.2036726027727127
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-113.mp4",
+                "video_results": 0.22966676950454712
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-174.mp4",
+                "video_results": 0.18759915232658386
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-079.mp4",
+                "video_results": 0.21905556321144104
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-227.mp4",
+                "video_results": 0.19735291600227356
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-239.mp4",
+                "video_results": 0.09103736281394958
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-257.mp4",
+                "video_results": 0.13871072232723236
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-181.mp4",
+                "video_results": 0.20499131083488464
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-238.mp4",
+                "video_results": 0.08958651125431061
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-084.mp4",
+                "video_results": 0.2352137565612793
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-250.mp4",
+                "video_results": 0.07090730220079422
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-170.mp4",
+                "video_results": 0.22031092643737793
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-124.mp4",
+                "video_results": 0.2305394411087036
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-256.mp4",
+                "video_results": 0.1349582076072693
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-061.mp4",
+                "video_results": 0.22693724930286407
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-072.mp4",
+                "video_results": 0.2289237082004547
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-001.mp4",
+                "video_results": 0.0818442851305008
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-176.mp4",
+                "video_results": 0.12977510690689087
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-254.mp4",
+                "video_results": 0.062299810349941254
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-051.mp4",
+                "video_results": 0.22025491297245026
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-063.mp4",
+                "video_results": 0.21859464049339294
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-044.mp4",
+                "video_results": 0.23956426978111267
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-179.mp4",
+                "video_results": 0.16484880447387695
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-119.mp4",
+                "video_results": 0.21556606888771057
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-112.mp4",
+                "video_results": 0.12397583574056625
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-094.mp4",
+                "video_results": 0.21856807172298431
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-209.mp4",
+                "video_results": 0.2156236618757248
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-040.mp4",
+                "video_results": 0.2267102301120758
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-077.mp4",
+                "video_results": 0.22756576538085938
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-110.mp4",
+                "video_results": 0.22821278870105743
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-092.mp4",
+                "video_results": 0.22939184308052063
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-031.mp4",
+                "video_results": 0.22165420651435852
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-246.mp4",
+                "video_results": 0.09993301331996918
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-253.mp4",
+                "video_results": 0.07773743569850922
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-172.mp4",
+                "video_results": 0.20249980688095093
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-245.mp4",
+                "video_results": 0.09306465089321136
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-109.mp4",
+                "video_results": 0.2103399783372879
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-140.mp4",
+                "video_results": 0.24373909831047058
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-020.mp4",
+                "video_results": 0.1582830250263214
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-219.mp4",
+                "video_results": 0.20038364827632904
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-249.mp4",
+                "video_results": 0.10011893510818481
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-153.mp4",
+                "video_results": 0.2087337076663971
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-089.mp4",
+                "video_results": 0.20170976221561432
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-004.mp4",
+                "video_results": 0.23233562707901
+            }
+        ]
+    ],
+    "overall_consistency": [
+        0.18166298696324845,
+        [
+            {
+                "video_path": "../Frozen/Frozen-Scene-057.mp4",
+                "video_results": 0.22714713215827942
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-233.mp4",
+                "video_results": 0.07370449602603912
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-240.mp4",
+                "video_results": 0.06890761852264404
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-202.mp4",
+                "video_results": 0.19740717113018036
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-134.mp4",
+                "video_results": 0.23762157559394836
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-005.mp4",
+                "video_results": 0.25509142875671387
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-171.mp4",
+                "video_results": 0.22921030223369598
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-242.mp4",
+                "video_results": 0.14750930666923523
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-035.mp4",
+                "video_results": 0.22263449430465698
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-261.mp4",
+                "video_results": 0.11433173716068268
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-191.mp4",
+                "video_results": 0.13778886198997498
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-060.mp4",
+                "video_results": 0.22212785482406616
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-167.mp4",
+                "video_results": 0.20642024278640747
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-107.mp4",
+                "video_results": 0.21995848417282104
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-236.mp4",
+                "video_results": 0.10522465407848358
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-259.mp4",
+                "video_results": 0.2595844566822052
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-201.mp4",
+                "video_results": 0.2066013067960739
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-137.mp4",
+                "video_results": 0.2298191338777542
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-247.mp4",
+                "video_results": 0.06928883492946625
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-178.mp4",
+                "video_results": 0.1242361068725586
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-148.mp4",
+                "video_results": 0.200967937707901
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-173.mp4",
+                "video_results": 0.1780259609222412
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-055.mp4",
+                "video_results": 0.1741439700126648
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-252.mp4",
+                "video_results": 0.054396308958530426
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-175.mp4",
+                "video_results": 0.21012265980243683
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-151.mp4",
+                "video_results": 0.20731113851070404
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-235.mp4",
+                "video_results": 0.15374651551246643
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-042.mp4",
+                "video_results": 0.13979050517082214
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-090.mp4",
+                "video_results": 0.20350481569766998
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-093.mp4",
+                "video_results": 0.21421976387500763
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-122.mp4",
+                "video_results": 0.12402868270874023
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-046.mp4",
+                "video_results": 0.20906394720077515
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-216.mp4",
+                "video_results": 0.14347659051418304
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-034.mp4",
+                "video_results": 0.15214568376541138
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-203.mp4",
+                "video_results": 0.17157584428787231
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-115.mp4",
+                "video_results": 0.17720700800418854
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-076.mp4",
+                "video_results": 0.22815680503845215
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-058.mp4",
+                "video_results": 0.16804160177707672
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-141.mp4",
+                "video_results": 0.23582889139652252
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-196.mp4",
+                "video_results": 0.2248639613389969
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-220.mp4",
+                "video_results": 0.2080516517162323
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-244.mp4",
+                "video_results": 0.08661755919456482
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-033.mp4",
+                "video_results": 0.2061551809310913
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-251.mp4",
+                "video_results": 0.07302054762840271
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-228.mp4",
+                "video_results": 0.21660733222961426
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-045.mp4",
+                "video_results": 0.22387684881687164
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-097.mp4",
+                "video_results": 0.1688787192106247
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-071.mp4",
+                "video_results": 0.22612392902374268
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-255.mp4",
+                "video_results": 0.0976761057972908
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-237.mp4",
+                "video_results": 0.07456578314304352
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-083.mp4",
+                "video_results": 0.20296978950500488
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-212.mp4",
+                "video_results": 0.2310960590839386
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-104.mp4",
+                "video_results": 0.21645154058933258
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-086.mp4",
+                "video_results": 0.2297343909740448
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-023.mp4",
+                "video_results": 0.11751590669155121
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-108.mp4",
+                "video_results": 0.23855537176132202
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-234.mp4",
+                "video_results": 0.10148873180150986
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-078.mp4",
+                "video_results": 0.21749743819236755
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-184.mp4",
+                "video_results": 0.19090500473976135
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-037.mp4",
+                "video_results": 0.2277335822582245
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-200.mp4",
+                "video_results": 0.20671740174293518
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-123.mp4",
+                "video_results": 0.21478348970413208
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-213.mp4",
+                "video_results": 0.2368752658367157
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-164.mp4",
+                "video_results": 0.2110767811536789
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-248.mp4",
+                "video_results": 0.08799536526203156
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-075.mp4",
+                "video_results": 0.21402505040168762
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-189.mp4",
+                "video_results": 0.23049497604370117
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-038.mp4",
+                "video_results": 0.1953752487897873
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-204.mp4",
+                "video_results": 0.2047165185213089
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-132.mp4",
+                "video_results": 0.2131308913230896
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-243.mp4",
+                "video_results": 0.06692709028720856
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-193.mp4",
+                "video_results": 0.15979544818401337
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-066.mp4",
+                "video_results": 0.21924906969070435
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-067.mp4",
+                "video_results": 0.23634804785251617
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-231.mp4",
+                "video_results": 0.2194674164056778
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-133.mp4",
+                "video_results": 0.21811923384666443
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-036.mp4",
+                "video_results": 0.20257636904716492
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-047.mp4",
+                "video_results": 0.2036726027727127
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-113.mp4",
+                "video_results": 0.22966676950454712
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-174.mp4",
+                "video_results": 0.18759915232658386
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-079.mp4",
+                "video_results": 0.21905556321144104
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-227.mp4",
+                "video_results": 0.19735291600227356
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-239.mp4",
+                "video_results": 0.09103736281394958
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-257.mp4",
+                "video_results": 0.13871072232723236
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-181.mp4",
+                "video_results": 0.20499131083488464
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-238.mp4",
+                "video_results": 0.08958651125431061
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-084.mp4",
+                "video_results": 0.2352137565612793
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-250.mp4",
+                "video_results": 0.07090730220079422
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-170.mp4",
+                "video_results": 0.22031092643737793
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-124.mp4",
+                "video_results": 0.2305394411087036
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-256.mp4",
+                "video_results": 0.1349582076072693
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-061.mp4",
+                "video_results": 0.22693724930286407
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-072.mp4",
+                "video_results": 0.2289237082004547
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-001.mp4",
+                "video_results": 0.0818442851305008
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-176.mp4",
+                "video_results": 0.12977510690689087
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-254.mp4",
+                "video_results": 0.062299810349941254
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-051.mp4",
+                "video_results": 0.22025491297245026
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-063.mp4",
+                "video_results": 0.21859464049339294
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-044.mp4",
+                "video_results": 0.23956426978111267
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-179.mp4",
+                "video_results": 0.16484880447387695
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-119.mp4",
+                "video_results": 0.21556606888771057
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-112.mp4",
+                "video_results": 0.12397583574056625
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-094.mp4",
+                "video_results": 0.21856807172298431
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-209.mp4",
+                "video_results": 0.2156236618757248
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-040.mp4",
+                "video_results": 0.2267102301120758
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-077.mp4",
+                "video_results": 0.22756576538085938
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-110.mp4",
+                "video_results": 0.22821278870105743
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-092.mp4",
+                "video_results": 0.22939184308052063
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-031.mp4",
+                "video_results": 0.22165420651435852
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-246.mp4",
+                "video_results": 0.09993301331996918
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-253.mp4",
+                "video_results": 0.07773743569850922
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-172.mp4",
+                "video_results": 0.20249980688095093
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-245.mp4",
+                "video_results": 0.09306465089321136
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-109.mp4",
+                "video_results": 0.2103399783372879
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-140.mp4",
+                "video_results": 0.24373909831047058
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-020.mp4",
+                "video_results": 0.1582830250263214
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-219.mp4",
+                "video_results": 0.20038364827632904
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-249.mp4",
+                "video_results": 0.10011893510818481
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-153.mp4",
+                "video_results": 0.2087337076663971
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-089.mp4",
+                "video_results": 0.20170976221561432
+            },
+            {
+                "video_path": "../Frozen/Frozen-Scene-004.mp4",
+                "video_results": 0.23233562707901
+            }
+        ]
+    ]
+}

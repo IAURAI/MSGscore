@@ -1,0 +1,310 @@
+{
+    "subject_consistency": [
+        0.9034146869610717,
+        [
+            {
+                "video_path": "../inference_bad/a rabbit is comming to the home.mp4",
+                "video_results": 0.829636824866518
+            },
+            {
+                "video_path": "../inference_bad/A beautiful woman from an ancient Eskimo is lying on the north beach.mp4",
+                "video_results": 0.9877008352624742
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals2.mp4",
+                "video_results": 0.875404461237945
+            },
+            {
+                "video_path": "../inference_bad/Eskimo family is sleeping in the igloo.mp4",
+                "video_results": 0.951260156733425
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals.mp4",
+                "video_results": 0.9067024768967378
+            },
+            {
+                "video_path": "../inference_bad/Highway with some car in the future.mp4",
+                "video_results": 0.9474442742372814
+            }
+        ]
+    ],
+    "background_consistency": [
+        0.9327782018860774,
+        [
+            {
+                "video_path": "../inference_bad/a rabbit is comming to the home.mp4",
+                "video_results": 0.9187019543770032,
+                "video_sim": 286.635009765625,
+                "cnt_per_video": 312
+            },
+            {
+                "video_path": "../inference_bad/A beautiful woman from an ancient Eskimo is lying on the north beach.mp4",
+                "video_results": 0.9698036595394737,
+                "video_sim": 147.41015625,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals2.mp4",
+                "video_results": 0.923902009662829,
+                "video_sim": 140.43310546875,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../inference_bad/Eskimo family is sleeping in the igloo.mp4",
+                "video_results": 0.9325031481291118,
+                "video_sim": 141.740478515625,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals.mp4",
+                "video_results": 0.931165193256579,
+                "video_sim": 141.537109375,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../inference_bad/Highway with some car in the future.mp4",
+                "video_results": 0.9354103489925987,
+                "video_sim": 142.182373046875,
+                "cnt_per_video": 152
+            }
+        ]
+    ],
+    "temporal_flickering": [
+        0.9810477855158787,
+        [
+            {
+                "video_path": "../inference_bad/a rabbit is comming to the home.mp4",
+                "video_results": 0.9853019920049929
+            },
+            {
+                "video_path": "../inference_bad/A beautiful woman from an ancient Eskimo is lying on the north beach.mp4",
+                "video_results": 0.9880565297369863
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals2.mp4",
+                "video_results": 0.974976634979248
+            },
+            {
+                "video_path": "../inference_bad/Eskimo family is sleeping in the igloo.mp4",
+                "video_results": 0.9867967110054165
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals.mp4",
+                "video_results": 0.974394744050269
+            },
+            {
+                "video_path": "../inference_bad/Highway with some car in the future.mp4",
+                "video_results": 0.9767601013183593
+            }
+        ]
+    ],
+    "motion_smoothness": [
+        0.9948665457521311,
+        [
+            {
+                "video_path": "../inference_bad/a rabbit is comming to the home.mp4",
+                "video_results": 0.9946230001590053
+            },
+            {
+                "video_path": "../inference_bad/A beautiful woman from an ancient Eskimo is lying on the north beach.mp4",
+                "video_results": 0.9954494253312467
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals2.mp4",
+                "video_results": 0.9943509560070221
+            },
+            {
+                "video_path": "../inference_bad/Eskimo family is sleeping in the igloo.mp4",
+                "video_results": 0.9957022240601588
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals.mp4",
+                "video_results": 0.9944435101164156
+            },
+            {
+                "video_path": "../inference_bad/Highway with some car in the future.mp4",
+                "video_results": 0.9946301588389376
+            }
+        ]
+    ],
+    "dynamic_degree": [
+        0.6666666666666666,
+        [
+            {
+                "video_path": "../inference_bad/a rabbit is comming to the home.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_bad/A beautiful woman from an ancient Eskimo is lying on the north beach.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals2.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_bad/Eskimo family is sleeping in the igloo.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_bad/Highway with some car in the future.mp4",
+                "video_results": true
+            }
+        ]
+    ],
+    "aesthetic_quality": [
+        0.6199532846609751,
+        [
+            {
+                "video_path": "../inference_bad/a rabbit is comming to the home.mp4",
+                "video_results": 0.7838912010192871
+            },
+            {
+                "video_path": "../inference_bad/A beautiful woman from an ancient Eskimo is lying on the north beach.mp4",
+                "video_results": 0.6135852336883545
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals2.mp4",
+                "video_results": 0.5366517305374146
+            },
+            {
+                "video_path": "../inference_bad/Eskimo family is sleeping in the igloo.mp4",
+                "video_results": 0.5470857620239258
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals.mp4",
+                "video_results": 0.6042444705963135
+            },
+            {
+                "video_path": "../inference_bad/Highway with some car in the future.mp4",
+                "video_results": 0.6342613101005554
+            }
+        ]
+    ],
+    "imaging_quality": [
+        0.6785482491634198,
+        [
+            {
+                "video_path": "../inference_bad/a rabbit is comming to the home.mp4",
+                "video_results": 72.60094550623299
+            },
+            {
+                "video_path": "../inference_bad/A beautiful woman from an ancient Eskimo is lying on the north beach.mp4",
+                "video_results": 67.20804628359726
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals2.mp4",
+                "video_results": 64.08040185068168
+            },
+            {
+                "video_path": "../inference_bad/Eskimo family is sleeping in the igloo.mp4",
+                "video_results": 64.39822956160003
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals.mp4",
+                "video_results": 64.76489611856299
+            },
+            {
+                "video_path": "../inference_bad/Highway with some car in the future.mp4",
+                "video_results": 74.07643017737693
+            }
+        ]
+    ],
+    "human_action": [
+        0.0,
+        [
+            {
+                "video_path": "../inference_bad/a rabbit is comming to the home.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_bad/A beautiful woman from an ancient Eskimo is lying on the north beach.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals2.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_bad/Eskimo family is sleeping in the igloo.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_bad/Highway with some car in the future.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            }
+        ]
+    ],
+    "temporal_style": [
+        0.234720249970754,
+        [
+            {
+                "video_path": "../inference_bad/a rabbit is comming to the home.mp4",
+                "video_results": 0.1797531545162201
+            },
+            {
+                "video_path": "../inference_bad/A beautiful woman from an ancient Eskimo is lying on the north beach.mp4",
+                "video_results": 0.21849994361400604
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals2.mp4",
+                "video_results": 0.2590833902359009
+            },
+            {
+                "video_path": "../inference_bad/Eskimo family is sleeping in the igloo.mp4",
+                "video_results": 0.24303725361824036
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals.mp4",
+                "video_results": 0.26548752188682556
+            },
+            {
+                "video_path": "../inference_bad/Highway with some car in the future.mp4",
+                "video_results": 0.242460235953331
+            }
+        ]
+    ],
+    "overall_consistency": [
+        0.234720249970754,
+        [
+            {
+                "video_path": "../inference_bad/a rabbit is comming to the home.mp4",
+                "video_results": 0.1797531545162201
+            },
+            {
+                "video_path": "../inference_bad/A beautiful woman from an ancient Eskimo is lying on the north beach.mp4",
+                "video_results": 0.21849994361400604
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals2.mp4",
+                "video_results": 0.2590833902359009
+            },
+            {
+                "video_path": "../inference_bad/Eskimo family is sleeping in the igloo.mp4",
+                "video_results": 0.24303725361824036
+            },
+            {
+                "video_path": "../inference_bad/Ocean turns to a female polar bear and harp seals.mp4",
+                "video_results": 0.26548752188682556
+            },
+            {
+                "video_path": "../inference_bad/Highway with some car in the future.mp4",
+                "video_results": 0.242460235953331
+            }
+        ]
+    ]
+}

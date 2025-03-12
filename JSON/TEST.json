@@ -1,0 +1,138 @@
+{
+    "subject_consistency": [
+        0.9328208947236011,
+        [
+            {
+                "video_path": "../mov_inf/Good.mp4",
+                "video_results": 0.9571684757799221
+            },
+            {
+                "video_path": "../mov_inf/Bad.mp4",
+                "video_results": 0.8868488173343634
+            }
+        ]
+    ],
+    "background_consistency": [
+        0.9580117054029044,
+        [
+            {
+                "video_path": "../mov_inf/Good.mp4",
+                "video_results": 0.9722657951328397,
+                "video_sim": 279.040283203125,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../mov_inf/Bad.mp4",
+                "video_results": 0.9310977333470395,
+                "video_sim": 141.52685546875,
+                "cnt_per_video": 152
+            }
+        ]
+    ],
+    "temporal_flickering": [
+        0.9774446898815679,
+        [
+            {
+                "video_path": "../mov_inf/Good.mp4",
+                "video_results": 0.9894819035249598
+            },
+            {
+                "video_path": "../mov_inf/Bad.mp4",
+                "video_results": 0.9654074762381759
+            }
+        ]
+    ],
+    "motion_smoothness": [
+        0.9923983846696176,
+        [
+            {
+                "video_path": "../mov_inf/Good.mp4",
+                "video_results": 0.9947646872944821
+            },
+            {
+                "video_path": "../mov_inf/Bad.mp4",
+                "video_results": 0.9900320820447532
+            }
+        ]
+    ],
+    "dynamic_degree": [
+        0.5,
+        [
+            {
+                "video_path": "../mov_inf/Good.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../mov_inf/Bad.mp4",
+                "video_results": true
+            }
+        ]
+    ],
+    "aesthetic_quality": [
+        0.6987763047218323,
+        [
+            {
+                "video_path": "../mov_inf/Good.mp4",
+                "video_results": 0.7257741093635559
+            },
+            {
+                "video_path": "../mov_inf/Bad.mp4",
+                "video_results": 0.6717785000801086
+            }
+        ]
+    ],
+    "imaging_quality": [
+        0.755697429484012,
+        [
+            {
+                "video_path": "../mov_inf/Good.mp4",
+                "video_results": 74.45169483290778
+            },
+            {
+                "video_path": "../mov_inf/Bad.mp4",
+                "video_results": 76.68779106389464
+            }
+        ]
+    ],
+    "human_action": [
+        0.0,
+        [
+            {
+                "video_path": "../mov_inf/Good.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../mov_inf/Bad.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            }
+        ]
+    ],
+    "temporal_style": [
+        0.07468281686306,
+        [
+            {
+                "video_path": "../mov_inf/Good.mp4",
+                "video_results": 0.0756419375538826
+            },
+            {
+                "video_path": "../mov_inf/Bad.mp4",
+                "video_results": 0.0737236961722374
+            }
+        ]
+    ],
+    "overall_consistency": [
+        0.07468281686306,
+        [
+            {
+                "video_path": "../mov_inf/Good.mp4",
+                "video_results": 0.0756419375538826
+            },
+            {
+                "video_path": "../mov_inf/Bad.mp4",
+                "video_results": 0.0737236961722374
+            }
+        ]
+    ]
+}

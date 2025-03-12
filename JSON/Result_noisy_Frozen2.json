@@ -1,0 +1,2804 @@
+{
+    "subject_consistency": [
+        0.5001728361108946,
+        [
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-237.mp4",
+                "video_results": 0.4685189343161053
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-307.mp4",
+                "video_results": 0.41897127946071766
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-231.mp4",
+                "video_results": 0.5134263723467787
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-368.mp4",
+                "video_results": 0.48013568573974463
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-105.mp4",
+                "video_results": 0.4768913053472837
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-423.mp4",
+                "video_results": 0.5852282911849519
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-320.mp4",
+                "video_results": 0.5566924367176027
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-329.mp4",
+                "video_results": 0.4634778104808139
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-167.mp4",
+                "video_results": 0.5287799437380867
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-376.mp4",
+                "video_results": 0.5084732937173465
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-203.mp4",
+                "video_results": 0.5333972307901407
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-102.mp4",
+                "video_results": 0.48607916198670864
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-188.mp4",
+                "video_results": 0.47998544678856164
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-136.mp4",
+                "video_results": 0.4904603810833865
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-325.mp4",
+                "video_results": 0.5194389654439874
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-221.mp4",
+                "video_results": 0.5052042771896271
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-341.mp4",
+                "video_results": 0.5638575667495994
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-118.mp4",
+                "video_results": 0.5284028558060527
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-242.mp4",
+                "video_results": 0.49444156264265376
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-311.mp4",
+                "video_results": 0.5256500890708133
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-209.mp4",
+                "video_results": 0.4699421814370035
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-293.mp4",
+                "video_results": 0.48684275777024383
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-465.mp4",
+                "video_results": 0.4674979593190882
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-223.mp4",
+                "video_results": 0.5246622369798658
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-190.mp4",
+                "video_results": 0.5119801129116431
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-322.mp4",
+                "video_results": 0.49161546317359
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-063.mp4",
+                "video_results": 0.4092837458801935
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-324.mp4",
+                "video_results": 0.4950382149322553
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-463.mp4",
+                "video_results": 0.48598578477094134
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-351.mp4",
+                "video_results": 0.48176022662326345
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-094.mp4",
+                "video_results": 0.4714006354348569
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-046.mp4",
+                "video_results": 0.5537331391555759
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-080.mp4",
+                "video_results": 0.46964969127547257
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-052.mp4",
+                "video_results": 0.4338836081179918
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-165.mp4",
+                "video_results": 0.5185589269797007
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-452.mp4",
+                "video_results": 0.48867586056223594
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-302.mp4",
+                "video_results": 0.48195764436076083
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-142.mp4",
+                "video_results": 0.5635338550104815
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-111.mp4",
+                "video_results": 0.41681456996442434
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-100.mp4",
+                "video_results": 0.5435973326559178
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-222.mp4",
+                "video_results": 0.544850530847907
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-147.mp4",
+                "video_results": 0.4054439063125019
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-434.mp4",
+                "video_results": 0.49519198635363415
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-061.mp4",
+                "video_results": 0.45983151730615646
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-049.mp4",
+                "video_results": 0.5347046707505109
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-418.mp4",
+                "video_results": 0.47487486322114075
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-064.mp4",
+                "video_results": 0.49250228840695776
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-219.mp4",
+                "video_results": 0.5124982255338518
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-137.mp4",
+                "video_results": 0.5534301585562172
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-416.mp4",
+                "video_results": 0.5087509702055037
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-303.mp4",
+                "video_results": 0.5105805187158181
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-226.mp4",
+                "video_results": 0.5315423025568198
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-122.mp4",
+                "video_results": 0.5321553485256802
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-208.mp4",
+                "video_results": 0.4764873229543723
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-280.mp4",
+                "video_results": 0.5568614367395639
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-152.mp4",
+                "video_results": 0.551761512048124
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-337.mp4",
+                "video_results": 0.5060246555233159
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-332.mp4",
+                "video_results": 0.475039570431771
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-338.mp4",
+                "video_results": 0.5570564364687991
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-474.mp4",
+                "video_results": 0.49566145606238293
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-179.mp4",
+                "video_results": 0.5086784454850624
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-371.mp4",
+                "video_results": 0.40882737265315416
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-446.mp4",
+                "video_results": 0.4784005954861641
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-484.mp4",
+                "video_results": 0.5163544321556887
+            }
+        ]
+    ],
+    "background_consistency": [
+        0.7260447695362099,
+        [
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-237.mp4",
+                "video_results": 0.7259318033854166,
+                "video_sim": 65.3338623046875,
+                "cnt_per_video": 90
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-307.mp4",
+                "video_results": 0.7367991727941177,
+                "video_sim": 62.6279296875,
+                "cnt_per_video": 85
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-231.mp4",
+                "video_results": 0.7408338758680556,
+                "video_sim": 66.675048828125,
+                "cnt_per_video": 90
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-368.mp4",
+                "video_results": 0.7355362741570723,
+                "video_sim": 55.9007568359375,
+                "cnt_per_video": 76
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-105.mp4",
+                "video_results": 0.7026318359375,
+                "video_sim": 52.6973876953125,
+                "cnt_per_video": 75
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-423.mp4",
+                "video_results": 0.8009414672851562,
+                "video_sim": 76.890380859375,
+                "cnt_per_video": 96
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-320.mp4",
+                "video_results": 0.7430992904974489,
+                "video_sim": 72.82373046875,
+                "cnt_per_video": 98
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-329.mp4",
+                "video_results": 0.6750151535560345,
+                "video_sim": 58.726318359375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-167.mp4",
+                "video_results": 0.6956470630787037,
+                "video_sim": 56.347412109375,
+                "cnt_per_video": 81
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-376.mp4",
+                "video_results": 0.754650219066723,
+                "video_sim": 55.8441162109375,
+                "cnt_per_video": 74
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-203.mp4",
+                "video_results": 0.7377099105992269,
+                "video_sim": 71.557861328125,
+                "cnt_per_video": 97
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-102.mp4",
+                "video_results": 0.702619050678454,
+                "video_sim": 53.3990478515625,
+                "cnt_per_video": 76
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-188.mp4",
+                "video_results": 0.7010075495793269,
+                "video_sim": 54.6785888671875,
+                "cnt_per_video": 78
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-136.mp4",
+                "video_results": 0.7094164396587171,
+                "video_sim": 53.9156494140625,
+                "cnt_per_video": 76
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-325.mp4",
+                "video_results": 0.7046920776367187,
+                "video_sim": 56.3753662109375,
+                "cnt_per_video": 80
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-221.mp4",
+                "video_results": 0.730248020119863,
+                "video_sim": 53.30810546875,
+                "cnt_per_video": 73
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-341.mp4",
+                "video_results": 0.7613105773925781,
+                "video_sim": 73.0858154296875,
+                "cnt_per_video": 96
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-118.mp4",
+                "video_results": 0.7049365234375,
+                "video_sim": 70.49365234375,
+                "cnt_per_video": 100
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-242.mp4",
+                "video_results": 0.7108493381076388,
+                "video_sim": 51.18115234375,
+                "cnt_per_video": 72
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-311.mp4",
+                "video_results": 0.7121832860659246,
+                "video_sim": 51.9893798828125,
+                "cnt_per_video": 73
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-209.mp4",
+                "video_results": 0.6998944523358586,
+                "video_sim": 69.28955078125,
+                "cnt_per_video": 99
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-293.mp4",
+                "video_results": 0.7069637522977941,
+                "video_sim": 60.0919189453125,
+                "cnt_per_video": 85
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-465.mp4",
+                "video_results": 0.7336239284939237,
+                "video_sim": 52.8209228515625,
+                "cnt_per_video": 72
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-223.mp4",
+                "video_results": 0.7283103859031593,
+                "video_sim": 66.2762451171875,
+                "cnt_per_video": 91
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-190.mp4",
+                "video_results": 0.7161543996710527,
+                "video_sim": 54.427734375,
+                "cnt_per_video": 76
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-322.mp4",
+                "video_results": 0.7391099196213943,
+                "video_sim": 76.867431640625,
+                "cnt_per_video": 104
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-063.mp4",
+                "video_results": 0.6663996131674758,
+                "video_sim": 68.63916015625,
+                "cnt_per_video": 103
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-324.mp4",
+                "video_results": 0.7024782870678191,
+                "video_sim": 66.032958984375,
+                "cnt_per_video": 94
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-463.mp4",
+                "video_results": 0.7442291595123627,
+                "video_sim": 67.724853515625,
+                "cnt_per_video": 91
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-351.mp4",
+                "video_results": 0.7126124182412791,
+                "video_sim": 61.28466796875,
+                "cnt_per_video": 86
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-094.mp4",
+                "video_results": 0.6951842489121836,
+                "video_sim": 54.9195556640625,
+                "cnt_per_video": 79
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-046.mp4",
+                "video_results": 0.7928631122295673,
+                "video_sim": 82.457763671875,
+                "cnt_per_video": 104
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-080.mp4",
+                "video_results": 0.7172283793604651,
+                "video_sim": 61.681640625,
+                "cnt_per_video": 86
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-052.mp4",
+                "video_results": 0.7752853094362745,
+                "video_sim": 79.0791015625,
+                "cnt_per_video": 102
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-165.mp4",
+                "video_results": 0.732568359375,
+                "video_sim": 54.942626953125,
+                "cnt_per_video": 75
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-452.mp4",
+                "video_results": 0.6988459406672297,
+                "video_sim": 51.714599609375,
+                "cnt_per_video": 74
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-302.mp4",
+                "video_results": 0.7209065755208334,
+                "video_sim": 54.0679931640625,
+                "cnt_per_video": 75
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-142.mp4",
+                "video_results": 0.746728515625,
+                "video_sim": 63.471923828125,
+                "cnt_per_video": 85
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-111.mp4",
+                "video_results": 0.7052937297077922,
+                "video_sim": 54.3076171875,
+                "cnt_per_video": 77
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-100.mp4",
+                "video_results": 0.7359039306640625,
+                "video_sim": 58.872314453125,
+                "cnt_per_video": 80
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-222.mp4",
+                "video_results": 0.7402870579769737,
+                "video_sim": 70.3272705078125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-147.mp4",
+                "video_results": 0.6686826295490507,
+                "video_sim": 52.825927734375,
+                "cnt_per_video": 79
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-434.mp4",
+                "video_results": 0.710129829302226,
+                "video_sim": 51.8394775390625,
+                "cnt_per_video": 73
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-061.mp4",
+                "video_results": 0.7050768534342448,
+                "video_sim": 67.6873779296875,
+                "cnt_per_video": 96
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-049.mp4",
+                "video_results": 0.7482943148226351,
+                "video_sim": 55.373779296875,
+                "cnt_per_video": 74
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-418.mp4",
+                "video_results": 0.7213453813032671,
+                "video_sim": 63.4783935546875,
+                "cnt_per_video": 88
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-064.mp4",
+                "video_results": 0.7186292565387228,
+                "video_sim": 66.1138916015625,
+                "cnt_per_video": 92
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-219.mp4",
+                "video_results": 0.7294409481095679,
+                "video_sim": 59.084716796875,
+                "cnt_per_video": 81
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-137.mp4",
+                "video_results": 0.7438557942708334,
+                "video_sim": 62.48388671875,
+                "cnt_per_video": 84
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-416.mp4",
+                "video_results": 0.7347204034978693,
+                "video_sim": 64.6553955078125,
+                "cnt_per_video": 88
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-303.mp4",
+                "video_results": 0.7521405287191901,
+                "video_sim": 53.4019775390625,
+                "cnt_per_video": 71
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-226.mp4",
+                "video_results": 0.7264436003449676,
+                "video_sim": 55.9361572265625,
+                "cnt_per_video": 77
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-122.mp4",
+                "video_results": 0.7307720380960051,
+                "video_sim": 70.8848876953125,
+                "cnt_per_video": 97
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-208.mp4",
+                "video_results": 0.7015511648995536,
+                "video_sim": 58.9302978515625,
+                "cnt_per_video": 84
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-280.mp4",
+                "video_results": 0.7665585472470238,
+                "video_sim": 80.4886474609375,
+                "cnt_per_video": 105
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-152.mp4",
+                "video_results": 0.7377518214536517,
+                "video_sim": 65.659912109375,
+                "cnt_per_video": 89
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-337.mp4",
+                "video_results": 0.7677764892578125,
+                "video_sim": 79.8487548828125,
+                "cnt_per_video": 104
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-332.mp4",
+                "video_results": 0.7726826284123564,
+                "video_sim": 67.223388671875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-338.mp4",
+                "video_results": 0.7610693862757731,
+                "video_sim": 73.82373046875,
+                "cnt_per_video": 97
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-474.mp4",
+                "video_results": 0.7057742557010135,
+                "video_sim": 52.227294921875,
+                "cnt_per_video": 74
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-179.mp4",
+                "video_results": 0.7048586331881009,
+                "video_sim": 73.3052978515625,
+                "cnt_per_video": 104
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-371.mp4",
+                "video_results": 0.7057016410079657,
+                "video_sim": 71.9815673828125,
+                "cnt_per_video": 102
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-446.mp4",
+                "video_results": 0.6958348473837209,
+                "video_sim": 59.841796875,
+                "cnt_per_video": 86
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-484.mp4",
+                "video_results": 0.6991845703125,
+                "video_sim": 52.4388427734375,
+                "cnt_per_video": 75
+            }
+        ]
+    ],
+    "temporal_flickering": [
+        0.7720776878151239,
+        [
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-237.mp4",
+                "video_results": 0.7628378325817632
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-307.mp4",
+                "video_results": 0.7719357060451134
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-231.mp4",
+                "video_results": 0.775992015763825
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-368.mp4",
+                "video_results": 0.7837944030761719
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-105.mp4",
+                "video_results": 0.7948965334424786
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-423.mp4",
+                "video_results": 0.7359724456188725
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-320.mp4",
+                "video_results": 0.7987652049345129
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-329.mp4",
+                "video_results": 0.7654208164589078
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-167.mp4",
+                "video_results": 0.7436264038085938
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-376.mp4",
+                "video_results": 0.7731027191760493
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-203.mp4",
+                "video_results": 0.7801829020182292
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-102.mp4",
+                "video_results": 0.7871148352529488
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-188.mp4",
+                "video_results": 0.7576957253848805
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-136.mp4",
+                "video_results": 0.7641041026395909
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-325.mp4",
+                "video_results": 0.7947615081188726
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-221.mp4",
+                "video_results": 0.7801681668150658
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-341.mp4",
+                "video_results": 0.8232109668208104
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-118.mp4",
+                "video_results": 0.8005184996361826
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-242.mp4",
+                "video_results": 0.7449686087814031
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-311.mp4",
+                "video_results": 0.7991636388442096
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-209.mp4",
+                "video_results": 0.7442524330288756
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-293.mp4",
+                "video_results": 0.7143680946499693
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-465.mp4",
+                "video_results": 0.753944232417088
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-223.mp4",
+                "video_results": 0.7594906077665441
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-190.mp4",
+                "video_results": 0.7512715507956113
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-322.mp4",
+                "video_results": 0.7642557181564031
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-063.mp4",
+                "video_results": 0.7603396247414982
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-324.mp4",
+                "video_results": 0.774847277473001
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-463.mp4",
+                "video_results": 0.7706830342610677
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-351.mp4",
+                "video_results": 0.7854428459616268
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-094.mp4",
+                "video_results": 0.7852543699975107
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-046.mp4",
+                "video_results": 0.8050851410510493
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-080.mp4",
+                "video_results": 0.7635748470530791
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-052.mp4",
+                "video_results": 0.7359671798406863
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-165.mp4",
+                "video_results": 0.7589095171760111
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-452.mp4",
+                "video_results": 0.7443570305319394
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-302.mp4",
+                "video_results": 0.7983073066262638
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-142.mp4",
+                "video_results": 0.7908167969946768
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-111.mp4",
+                "video_results": 0.8018485424565334
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-100.mp4",
+                "video_results": 0.8149000429639629
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-222.mp4",
+                "video_results": 0.7782247057148054
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-147.mp4",
+                "video_results": 0.7430370555204504
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-434.mp4",
+                "video_results": 0.7145685532513787
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-061.mp4",
+                "video_results": 0.7704444885253906
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-049.mp4",
+                "video_results": 0.7869758605957031
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-418.mp4",
+                "video_results": 0.7378187890146293
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-064.mp4",
+                "video_results": 0.7708978391161152
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-219.mp4",
+                "video_results": 0.781421646417356
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-137.mp4",
+                "video_results": 0.8083354725557215
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-416.mp4",
+                "video_results": 0.7466949762082568
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-303.mp4",
+                "video_results": 0.7922122581332338
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-226.mp4",
+                "video_results": 0.7825589198692172
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-122.mp4",
+                "video_results": 0.7883809407552084
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-208.mp4",
+                "video_results": 0.7232263303270527
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-280.mp4",
+                "video_results": 0.738921490837546
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-152.mp4",
+                "video_results": 0.7951238744399127
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-337.mp4",
+                "video_results": 0.8146781921386719
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-332.mp4",
+                "video_results": 0.7650536181879979
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-338.mp4",
+                "video_results": 0.8061049816655178
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-474.mp4",
+                "video_results": 0.7711302065381817
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-179.mp4",
+                "video_results": 0.7487762750363818
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-371.mp4",
+                "video_results": 0.7954088996438419
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-446.mp4",
+                "video_results": 0.7486311370251225
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-484.mp4",
+                "video_results": 0.7881962794883578
+            }
+        ]
+    ],
+    "motion_smoothness": [
+        0.8029292149604503,
+        [
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-237.mp4",
+                "video_results": 0.7916593569930568
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-307.mp4",
+                "video_results": 0.8163005212469203
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-231.mp4",
+                "video_results": 0.8094245286733881
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-368.mp4",
+                "video_results": 0.8158278458747992
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-105.mp4",
+                "video_results": 0.8167137293457559
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-423.mp4",
+                "video_results": 0.7676683805773007
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-320.mp4",
+                "video_results": 0.8361388139108188
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-329.mp4",
+                "video_results": 0.8033144742824924
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-167.mp4",
+                "video_results": 0.7720049329798119
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-376.mp4",
+                "video_results": 0.811076054020967
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-203.mp4",
+                "video_results": 0.8038306842520426
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-102.mp4",
+                "video_results": 0.8139904546666079
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-188.mp4",
+                "video_results": 0.794113236769
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-136.mp4",
+                "video_results": 0.7957496066778935
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-325.mp4",
+                "video_results": 0.8272461405171493
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-221.mp4",
+                "video_results": 0.8091089200189132
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-341.mp4",
+                "video_results": 0.8601854152264028
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-118.mp4",
+                "video_results": 0.8354351255650235
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-242.mp4",
+                "video_results": 0.7731557503506299
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-311.mp4",
+                "video_results": 0.8220372293373331
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-209.mp4",
+                "video_results": 0.7811067719857933
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-293.mp4",
+                "video_results": 0.7381191020102876
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-465.mp4",
+                "video_results": 0.7861800051666565
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-223.mp4",
+                "video_results": 0.78239831133828
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-190.mp4",
+                "video_results": 0.769135369639979
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-322.mp4",
+                "video_results": 0.7928868701375381
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-063.mp4",
+                "video_results": 0.7859057072434348
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-324.mp4",
+                "video_results": 0.8138440309075011
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-463.mp4",
+                "video_results": 0.8072831083490567
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-351.mp4",
+                "video_results": 0.8229520893048198
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-094.mp4",
+                "video_results": 0.820739056801146
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-046.mp4",
+                "video_results": 0.8388888469948472
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-080.mp4",
+                "video_results": 0.7969562878679992
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-052.mp4",
+                "video_results": 0.7593536550414152
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-165.mp4",
+                "video_results": 0.7842192220137262
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-452.mp4",
+                "video_results": 0.776294638809714
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-302.mp4",
+                "video_results": 0.8236019524798989
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-142.mp4",
+                "video_results": 0.8209928072101764
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-111.mp4",
+                "video_results": 0.8352099726324268
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-100.mp4",
+                "video_results": 0.8515692886334829
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-222.mp4",
+                "video_results": 0.808717071161555
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-147.mp4",
+                "video_results": 0.7683449116085381
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-434.mp4",
+                "video_results": 0.721331105367377
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-061.mp4",
+                "video_results": 0.8127056648353245
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-049.mp4",
+                "video_results": 0.8138222484742508
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-418.mp4",
+                "video_results": 0.7583772144838064
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-064.mp4",
+                "video_results": 0.8053025499812323
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-219.mp4",
+                "video_results": 0.8103417056273606
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-137.mp4",
+                "video_results": 0.8412605870516474
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-416.mp4",
+                "video_results": 0.7893668429899542
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-303.mp4",
+                "video_results": 0.8176325985027967
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-226.mp4",
+                "video_results": 0.8100986217957219
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-122.mp4",
+                "video_results": 0.8190873363819205
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-208.mp4",
+                "video_results": 0.7461053244338796
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-280.mp4",
+                "video_results": 0.7660607485843332
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-152.mp4",
+                "video_results": 0.8275933013122972
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-337.mp4",
+                "video_results": 0.8520492014056527
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-332.mp4",
+                "video_results": 0.8034290442722798
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-338.mp4",
+                "video_results": 0.846979910725648
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-474.mp4",
+                "video_results": 0.8021060523741856
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-179.mp4",
+                "video_results": 0.7853709761438349
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-371.mp4",
+                "video_results": 0.8255467168325905
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-446.mp4",
+                "video_results": 0.777731631748971
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-484.mp4",
+                "video_results": 0.8154900955191723
+            }
+        ]
+    ],
+    "dynamic_degree": [
+        1.0,
+        [
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-237.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-307.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-231.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-368.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-105.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-423.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-320.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-329.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-167.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-376.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-203.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-102.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-188.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-136.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-325.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-221.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-341.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-118.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-242.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-311.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-209.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-293.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-465.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-223.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-190.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-322.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-063.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-324.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-463.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-351.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-094.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-046.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-080.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-052.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-165.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-452.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-302.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-142.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-111.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-100.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-222.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-147.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-434.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-061.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-049.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-418.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-064.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-219.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-137.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-416.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-303.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-226.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-122.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-208.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-280.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-152.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-337.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-332.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-338.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-474.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-179.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-371.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-446.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-484.mp4",
+                "video_results": true
+            }
+        ]
+    ],
+    "aesthetic_quality": [
+        0.4231918854638934,
+        [
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-237.mp4",
+                "video_results": 0.43085092306137085
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-307.mp4",
+                "video_results": 0.4113413393497467
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-231.mp4",
+                "video_results": 0.41814887523651123
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-368.mp4",
+                "video_results": 0.3830675780773163
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-105.mp4",
+                "video_results": 0.4429530203342438
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-423.mp4",
+                "video_results": 0.36036133766174316
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-320.mp4",
+                "video_results": 0.371792733669281
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-329.mp4",
+                "video_results": 0.44122055172920227
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-167.mp4",
+                "video_results": 0.45663613080978394
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-376.mp4",
+                "video_results": 0.4010787904262543
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-203.mp4",
+                "video_results": 0.41579723358154297
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-102.mp4",
+                "video_results": 0.4110376536846161
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-188.mp4",
+                "video_results": 0.4275718927383423
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-136.mp4",
+                "video_results": 0.42154762148857117
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-325.mp4",
+                "video_results": 0.46744635701179504
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-221.mp4",
+                "video_results": 0.4366041123867035
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-341.mp4",
+                "video_results": 0.453943133354187
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-118.mp4",
+                "video_results": 0.4473072290420532
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-242.mp4",
+                "video_results": 0.4335622787475586
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-311.mp4",
+                "video_results": 0.4647911787033081
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-209.mp4",
+                "video_results": 0.4107733368873596
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-293.mp4",
+                "video_results": 0.4010777473449707
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-465.mp4",
+                "video_results": 0.39107027649879456
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-223.mp4",
+                "video_results": 0.4260782301425934
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-190.mp4",
+                "video_results": 0.4069563150405884
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-322.mp4",
+                "video_results": 0.3886933922767639
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-063.mp4",
+                "video_results": 0.39718306064605713
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-324.mp4",
+                "video_results": 0.34693798422813416
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-463.mp4",
+                "video_results": 0.39656001329421997
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-351.mp4",
+                "video_results": 0.42590266466140747
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-094.mp4",
+                "video_results": 0.44140729308128357
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-046.mp4",
+                "video_results": 0.4213184118270874
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-080.mp4",
+                "video_results": 0.36994776129722595
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-052.mp4",
+                "video_results": 0.3873623311519623
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-165.mp4",
+                "video_results": 0.42302000522613525
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-452.mp4",
+                "video_results": 0.4531284272670746
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-302.mp4",
+                "video_results": 0.45364388823509216
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-142.mp4",
+                "video_results": 0.45972082018852234
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-111.mp4",
+                "video_results": 0.4012444019317627
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-100.mp4",
+                "video_results": 0.44225868582725525
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-222.mp4",
+                "video_results": 0.43359288573265076
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-147.mp4",
+                "video_results": 0.4527413547039032
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-434.mp4",
+                "video_results": 0.37917566299438477
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-061.mp4",
+                "video_results": 0.38193392753601074
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-049.mp4",
+                "video_results": 0.45727047324180603
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-418.mp4",
+                "video_results": 0.3848353326320648
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-064.mp4",
+                "video_results": 0.42381468415260315
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-219.mp4",
+                "video_results": 0.4441714584827423
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-137.mp4",
+                "video_results": 0.435575008392334
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-416.mp4",
+                "video_results": 0.39882102608680725
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-303.mp4",
+                "video_results": 0.4753500521183014
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-226.mp4",
+                "video_results": 0.4281100928783417
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-122.mp4",
+                "video_results": 0.4153955578804016
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-208.mp4",
+                "video_results": 0.4553980231285095
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-280.mp4",
+                "video_results": 0.40018370747566223
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-152.mp4",
+                "video_results": 0.48553407192230225
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-337.mp4",
+                "video_results": 0.42986127734184265
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-332.mp4",
+                "video_results": 0.42944225668907166
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-338.mp4",
+                "video_results": 0.42020702362060547
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-474.mp4",
+                "video_results": 0.44439688324928284
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-179.mp4",
+                "video_results": 0.43921178579330444
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-371.mp4",
+                "video_results": 0.39836281538009644
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-446.mp4",
+                "video_results": 0.45426440238952637
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-484.mp4",
+                "video_results": 0.4752858877182007
+            }
+        ]
+    ],
+    "imaging_quality": [
+        0.6211381349682639,
+        [
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-237.mp4",
+                "video_results": 61.460336622301035
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-307.mp4",
+                "video_results": 64.70880570522574
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-231.mp4",
+                "video_results": 57.61985464410468
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-368.mp4",
+                "video_results": 60.06661080694818
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-105.mp4",
+                "video_results": 67.4766603771009
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-423.mp4",
+                "video_results": 44.003625456819826
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-320.mp4",
+                "video_results": 66.73281521267361
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-329.mp4",
+                "video_results": 64.33454634926535
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-167.mp4",
+                "video_results": 60.180084461119115
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-376.mp4",
+                "video_results": 62.24774307250976
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-203.mp4",
+                "video_results": 59.279824120657786
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-102.mp4",
+                "video_results": 67.36927958897182
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-188.mp4",
+                "video_results": 59.312500965746146
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-136.mp4",
+                "video_results": 67.37805765325373
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-325.mp4",
+                "video_results": 64.2768701153037
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-221.mp4",
+                "video_results": 63.00846770003035
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-341.mp4",
+                "video_results": 68.16728053142116
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-118.mp4",
+                "video_results": 68.70752387471718
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-242.mp4",
+                "video_results": 64.3292940740716
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-311.mp4",
+                "video_results": 68.06473737149625
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-209.mp4",
+                "video_results": 62.46571075439453
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-293.mp4",
+                "video_results": 63.68286159426667
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-465.mp4",
+                "video_results": 56.20114888230415
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-223.mp4",
+                "video_results": 53.06655008896537
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-190.mp4",
+                "video_results": 63.72905428997882
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-322.mp4",
+                "video_results": 67.84211894444057
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-063.mp4",
+                "video_results": 62.678058000711296
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-324.mp4",
+                "video_results": 63.1643524571469
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-463.mp4",
+                "video_results": 66.78728020709494
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-351.mp4",
+                "video_results": 65.53533606693662
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-094.mp4",
+                "video_results": 66.0415994167328
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-046.mp4",
+                "video_results": 64.3772336324056
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-080.mp4",
+                "video_results": 60.76290503315542
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-052.mp4",
+                "video_results": 44.89427412829353
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-165.mp4",
+                "video_results": 57.567739486694336
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-452.mp4",
+                "video_results": 66.8010996500651
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-302.mp4",
+                "video_results": 67.45942642814235
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-142.mp4",
+                "video_results": 64.23726623002872
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-111.mp4",
+                "video_results": 65.33743070944762
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-100.mp4",
+                "video_results": 68.45045287520797
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-222.mp4",
+                "video_results": 58.05544853210449
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-147.mp4",
+                "video_results": 63.75020294189453
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-434.mp4",
+                "video_results": 50.89118524499842
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-061.mp4",
+                "video_results": 56.2004363463097
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-049.mp4",
+                "video_results": 57.767616221110025
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-418.mp4",
+                "video_results": 56.29908263817262
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-064.mp4",
+                "video_results": 68.14626365579585
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-219.mp4",
+                "video_results": 60.80712732454626
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-137.mp4",
+                "video_results": 66.90937926348518
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-416.mp4",
+                "video_results": 52.633693202158035
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-303.mp4",
+                "video_results": 64.20226515663995
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-226.mp4",
+                "video_results": 65.6843137496557
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-122.mp4",
+                "video_results": 67.76406790285694
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-208.mp4",
+                "video_results": 57.580299915986906
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-280.mp4",
+                "video_results": 45.208707647503545
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-152.mp4",
+                "video_results": 59.12242308722602
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-337.mp4",
+                "video_results": 64.7460191272554
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-332.mp4",
+                "video_results": 59.87014458396218
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-338.mp4",
+                "video_results": 62.638380829168824
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-474.mp4",
+                "video_results": 65.74282374064127
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-179.mp4",
+                "video_results": 63.268014453706286
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-371.mp4",
+                "video_results": 66.34443801583596
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-446.mp4",
+                "video_results": 63.88716502573298
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-484.mp4",
+                "video_results": 67.95774760999177
+            }
+        ]
+    ],
+    "human_action": [
+        0.0,
+        [
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-237.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-307.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-231.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-368.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-105.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-423.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-320.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-329.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-167.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-376.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-203.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-102.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-188.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-136.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-325.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-221.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-341.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-118.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-242.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-311.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-209.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-293.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-465.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-223.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-190.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-322.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-063.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-324.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-463.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-351.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-094.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-046.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-080.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-052.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-165.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-452.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-302.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-142.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-111.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-100.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-222.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-147.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-434.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-061.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-049.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-418.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-064.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-219.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-137.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-416.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-303.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-226.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-122.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-208.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-280.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-152.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-337.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-332.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-338.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-474.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-179.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-371.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-446.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-484.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            }
+        ]
+    ],
+    "temporal_style": [
+        0.18678447068668902,
+        [
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-237.mp4",
+                "video_results": 0.20036523044109344
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-307.mp4",
+                "video_results": 0.15809357166290283
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-231.mp4",
+                "video_results": 0.20796844363212585
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-368.mp4",
+                "video_results": 0.14203590154647827
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-105.mp4",
+                "video_results": 0.19255436956882477
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-423.mp4",
+                "video_results": 0.22670796513557434
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-320.mp4",
+                "video_results": 0.19282405078411102
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-329.mp4",
+                "video_results": 0.21684306859970093
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-167.mp4",
+                "video_results": 0.18859335780143738
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-376.mp4",
+                "video_results": 0.10106532275676727
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-203.mp4",
+                "video_results": 0.19151289761066437
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-102.mp4",
+                "video_results": 0.18988698720932007
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-188.mp4",
+                "video_results": 0.19991284608840942
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-136.mp4",
+                "video_results": 0.18741273880004883
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-325.mp4",
+                "video_results": 0.2107526659965515
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-221.mp4",
+                "video_results": 0.18342271447181702
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-341.mp4",
+                "video_results": 0.2236120104789734
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-118.mp4",
+                "video_results": 0.19007612764835358
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-242.mp4",
+                "video_results": 0.19288992881774902
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-311.mp4",
+                "video_results": 0.21572887897491455
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-209.mp4",
+                "video_results": 0.19848521053791046
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-293.mp4",
+                "video_results": 0.19599750638008118
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-465.mp4",
+                "video_results": 0.2167021930217743
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-223.mp4",
+                "video_results": 0.19749879837036133
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-190.mp4",
+                "video_results": 0.1953207552433014
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-322.mp4",
+                "video_results": 0.18918177485466003
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-063.mp4",
+                "video_results": 0.20057758688926697
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-324.mp4",
+                "video_results": 0.19936718046665192
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-463.mp4",
+                "video_results": 0.2137269228696823
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-351.mp4",
+                "video_results": 0.2230021208524704
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-094.mp4",
+                "video_results": 0.1961534023284912
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-046.mp4",
+                "video_results": 0.18238577246665955
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-080.mp4",
+                "video_results": 0.17388083040714264
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-052.mp4",
+                "video_results": 0.11567483842372894
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-165.mp4",
+                "video_results": 0.187388077378273
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-452.mp4",
+                "video_results": 0.19900530576705933
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-302.mp4",
+                "video_results": 0.22598817944526672
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-142.mp4",
+                "video_results": 0.1800968050956726
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-111.mp4",
+                "video_results": 0.1430923044681549
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-100.mp4",
+                "video_results": 0.1868748664855957
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-222.mp4",
+                "video_results": 0.18011176586151123
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-147.mp4",
+                "video_results": 0.19301310181617737
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-434.mp4",
+                "video_results": 0.20216095447540283
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-061.mp4",
+                "video_results": 0.1203235536813736
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-049.mp4",
+                "video_results": 0.11127889156341553
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-418.mp4",
+                "video_results": 0.20431023836135864
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-064.mp4",
+                "video_results": 0.20459634065628052
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-219.mp4",
+                "video_results": 0.17198795080184937
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-137.mp4",
+                "video_results": 0.18051552772521973
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-416.mp4",
+                "video_results": 0.19041568040847778
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-303.mp4",
+                "video_results": 0.228675976395607
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-226.mp4",
+                "video_results": 0.14760534465312958
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-122.mp4",
+                "video_results": 0.16213324666023254
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-208.mp4",
+                "video_results": 0.17678964138031006
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-280.mp4",
+                "video_results": 0.17858293652534485
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-152.mp4",
+                "video_results": 0.17092974483966827
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-337.mp4",
+                "video_results": 0.22641773521900177
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-332.mp4",
+                "video_results": 0.15510010719299316
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-338.mp4",
+                "video_results": 0.22203417122364044
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-474.mp4",
+                "video_results": 0.19592031836509705
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-179.mp4",
+                "video_results": 0.17189964652061462
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-371.mp4",
+                "video_results": 0.153752863407135
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-446.mp4",
+                "video_results": 0.2050786018371582
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-484.mp4",
+                "video_results": 0.16791227459907532
+            }
+        ]
+    ],
+    "overall_consistency": [
+        0.18678447068668902,
+        [
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-237.mp4",
+                "video_results": 0.20036523044109344
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-307.mp4",
+                "video_results": 0.15809357166290283
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-231.mp4",
+                "video_results": 0.20796844363212585
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-368.mp4",
+                "video_results": 0.14203590154647827
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-105.mp4",
+                "video_results": 0.19255436956882477
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-423.mp4",
+                "video_results": 0.22670796513557434
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-320.mp4",
+                "video_results": 0.19282405078411102
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-329.mp4",
+                "video_results": 0.21684306859970093
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-167.mp4",
+                "video_results": 0.18859335780143738
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-376.mp4",
+                "video_results": 0.10106532275676727
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-203.mp4",
+                "video_results": 0.19151289761066437
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-102.mp4",
+                "video_results": 0.18988698720932007
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-188.mp4",
+                "video_results": 0.19991284608840942
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-136.mp4",
+                "video_results": 0.18741273880004883
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-325.mp4",
+                "video_results": 0.2107526659965515
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-221.mp4",
+                "video_results": 0.18342271447181702
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-341.mp4",
+                "video_results": 0.2236120104789734
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-118.mp4",
+                "video_results": 0.19007612764835358
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-242.mp4",
+                "video_results": 0.19288992881774902
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-311.mp4",
+                "video_results": 0.21572887897491455
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-209.mp4",
+                "video_results": 0.19848521053791046
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-293.mp4",
+                "video_results": 0.19599750638008118
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-465.mp4",
+                "video_results": 0.2167021930217743
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-223.mp4",
+                "video_results": 0.19749879837036133
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-190.mp4",
+                "video_results": 0.1953207552433014
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-322.mp4",
+                "video_results": 0.18918177485466003
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-063.mp4",
+                "video_results": 0.20057758688926697
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-324.mp4",
+                "video_results": 0.19936718046665192
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-463.mp4",
+                "video_results": 0.2137269228696823
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-351.mp4",
+                "video_results": 0.2230021208524704
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-094.mp4",
+                "video_results": 0.1961534023284912
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-046.mp4",
+                "video_results": 0.18238577246665955
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-080.mp4",
+                "video_results": 0.17388083040714264
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-052.mp4",
+                "video_results": 0.11567483842372894
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-165.mp4",
+                "video_results": 0.187388077378273
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-452.mp4",
+                "video_results": 0.19900530576705933
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-302.mp4",
+                "video_results": 0.22598817944526672
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-142.mp4",
+                "video_results": 0.1800968050956726
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-111.mp4",
+                "video_results": 0.1430923044681549
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-100.mp4",
+                "video_results": 0.1868748664855957
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-222.mp4",
+                "video_results": 0.18011176586151123
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-147.mp4",
+                "video_results": 0.19301310181617737
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-434.mp4",
+                "video_results": 0.20216095447540283
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-061.mp4",
+                "video_results": 0.1203235536813736
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-049.mp4",
+                "video_results": 0.11127889156341553
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-418.mp4",
+                "video_results": 0.20431023836135864
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-064.mp4",
+                "video_results": 0.20459634065628052
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-219.mp4",
+                "video_results": 0.17198795080184937
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-137.mp4",
+                "video_results": 0.18051552772521973
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-416.mp4",
+                "video_results": 0.19041568040847778
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-303.mp4",
+                "video_results": 0.228675976395607
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-226.mp4",
+                "video_results": 0.14760534465312958
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-122.mp4",
+                "video_results": 0.16213324666023254
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-208.mp4",
+                "video_results": 0.17678964138031006
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-280.mp4",
+                "video_results": 0.17858293652534485
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-152.mp4",
+                "video_results": 0.17092974483966827
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-337.mp4",
+                "video_results": 0.22641773521900177
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-332.mp4",
+                "video_results": 0.15510010719299316
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-338.mp4",
+                "video_results": 0.22203417122364044
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-474.mp4",
+                "video_results": 0.19592031836509705
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-179.mp4",
+                "video_results": 0.17189964652061462
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-371.mp4",
+                "video_results": 0.153752863407135
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-446.mp4",
+                "video_results": 0.2050786018371582
+            },
+            {
+                "video_path": "../random_noisy_videos_full/Frozen2/random_noisy_Frozen2-Scene-484.mp4",
+                "video_results": 0.16791227459907532
+            }
+        ]
+    ]
+}

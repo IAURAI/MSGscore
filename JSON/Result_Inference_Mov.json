@@ -1,0 +1,2202 @@
+{
+    "subject_consistency": [
+        0.9198207749393555,
+        [
+            {
+                "video_path": "../inference_video/Scene2_they_are_talking.mp4",
+                "video_results": 0.9785716278772605
+            },
+            {
+                "video_path": "../inference_video/Scene0.2.mp4",
+                "video_results": 0.833280752761669
+            },
+            {
+                "video_path": "../inference_video/Scene3_story3.mp4",
+                "video_results": 0.9293757651589418
+            },
+            {
+                "video_path": "../inference_video/Scene3_story5.mp4",
+                "video_results": 0.8928754986993942
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_2.mp4",
+                "video_results": 0.9320398751866942
+            },
+            {
+                "video_path": "../inference_video/Scene8_The_turtle_on_the_right_is_laugh.mp4",
+                "video_results": 0.9503014771954009
+            },
+            {
+                "video_path": "../inference_video/Scene2.2.Reverse_The_ice_suddenly_breaks_into_lar.mp4",
+                "video_results": 0.9107353762851507
+            },
+            {
+                "video_path": "../inference_video/Scene3_story36.mp4",
+                "video_results": 0.9237560306899639
+            },
+            {
+                "video_path": "../inference_video/Scene0.4.mp4",
+                "video_results": 0.9290087298856795
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration.mp4",
+                "video_results": 0.9052724918765479
+            },
+            {
+                "video_path": "../inference_video/Scene9-3. Tortoise got medal_1.mp4",
+                "video_results": 0.9820385131894088
+            },
+            {
+                "video_path": "../inference_video/Scene9_final.mp4",
+                "video_results": 0.951804808412607
+            },
+            {
+                "video_path": "../inference_video/Scene5__The_rabbit_is_lying_comfortably_.mp4",
+                "video_results": 0.9492839025572325
+            },
+            {
+                "video_path": "../inference_video/Scene6_The_rabbit_is_lying_comfortably_ (1).mp4",
+                "video_results": 0.9108083184139851
+            },
+            {
+                "video_path": "../inference_video/Scene4.0.mp4",
+                "video_results": 0.9230496113616709
+            },
+            {
+                "video_path": "../inference_video/Scene09_06.mp4",
+                "video_results": 0.9064520056049029
+            },
+            {
+                "video_path": "../inference_video/Scene7_Rabbit_is_just_waking_up.mp4",
+                "video_results": 0.896540453323187
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_1.mp4",
+                "video_results": 0.926268390973686
+            },
+            {
+                "video_path": "../inference_video/Scene0_They_are_smiling.mp4",
+                "video_results": 0.9819829791392151
+            },
+            {
+                "video_path": "../inference_video/Scene0.mp4",
+                "video_results": 0.8499842404088598
+            },
+            {
+                "video_path": "../inference_video/Scene1_1_High_Quality_rabbit_is....mp4",
+                "video_results": 0.9197542883264713
+            },
+            {
+                "video_path": "../inference_video/Scene4.6.mp4",
+                "video_results": 0.9450122324846676
+            },
+            {
+                "video_path": "../inference_video/Scene4.3.mp4",
+                "video_results": 0.90571456991837
+            },
+            {
+                "video_path": "../inference_video/Scene5.1.mp4",
+                "video_results": 0.9814143890613004
+            },
+            {
+                "video_path": "../inference_video/Scene1.1_Children_laugh_and_run__throwing.mp4",
+                "video_results": 0.9496471147401638
+            },
+            {
+                "video_path": "../inference_video/Scene3_story0.mp4",
+                "video_results": 0.9074371138308521
+            },
+            {
+                "video_path": "../inference_video/Starting Story.mp4",
+                "video_results": 0.8878806085930657
+            },
+            {
+                "video_path": "../inference_video/Scene4_turtle is running.mp4",
+                "video_results": 0.8905622277750531
+            },
+            {
+                "video_path": "../inference_video/Scene2.1_some_ice_of_land_breaks.mp4",
+                "video_results": 0.9434146170832138
+            },
+            {
+                "video_path": "../inference_video/Scene0.3.mp4",
+                "video_results": 0.8780583614671688
+            },
+            {
+                "video_path": "../inference_video/Scene6.mp4",
+                "video_results": 0.9833071467123533
+            },
+            {
+                "video_path": "../inference_video/Scene5.0.mp4",
+                "video_results": 0.9437000094182816
+            },
+            {
+                "video_path": "../inference_video/Scene4.3_.mp4",
+                "video_results": 0.9559078745375899
+            },
+            {
+                "video_path": "../inference_video/Scene4.2_narration.mp4",
+                "video_results": 0.8352246318030131
+            },
+            {
+                "video_path": "../inference_video/Scene3_witch.mp4",
+                "video_results": 0.9416775679546782
+            },
+            {
+                "video_path": "../inference_video/Scene1.2_Children_laugh_and_run__throwing.mp4",
+                "video_results": 0.9646568432313587
+            },
+            {
+                "video_path": "../inference_video/Scene4.5.mp4",
+                "video_results": 0.9478272639603411
+            },
+            {
+                "video_path": "../inference_video/Scene5.3.mp4",
+                "video_results": 0.9066745303441424
+            },
+            {
+                "video_path": "../inference_video/Scene6.1.mp4",
+                "video_results": 0.9223105300094279
+            },
+            {
+                "video_path": "../inference_video/Scene6.2.mp4",
+                "video_results": 0.9139938632785651
+            },
+            {
+                "video_path": "../inference_video/Scene3_The_ice_suddenly_breaks_into_lar (1).mp4",
+                "video_results": 0.9760674511306378
+            },
+            {
+                "video_path": "../inference_video/Scene0.1.mp4",
+                "video_results": 0.9282575789927306
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration22.mp4",
+                "video_results": 0.9796218146619043
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_2.mp4",
+                "video_results": 0.9412660008590472
+            },
+            {
+                "video_path": "../inference_video/Scene3_rabbit is running.mp4",
+                "video_results": 0.8922313950434193
+            },
+            {
+                "video_path": "../inference_video/Scene3_story4.mp4",
+                "video_results": 0.8585135828899709
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_1.mp4",
+                "video_results": 0.9567549254628424
+            },
+            {
+                "video_path": "../inference_video/Scene3_story1.mp4",
+                "video_results": 0.8730100024687616
+            },
+            {
+                "video_path": "../inference_video/Scene3_story2.mp4",
+                "video_results": 0.9487757943570614
+            },
+            {
+                "video_path": "../inference_video/Scene5.2.mp4",
+                "video_results": 0.9870751480522909
+            }
+        ]
+    ],
+    "background_consistency": [
+        0.9505853277501644,
+        [
+            {
+                "video_path": "../inference_video/Scene2_they_are_talking.mp4",
+                "video_results": 0.9705794484991777,
+                "video_sim": 147.528076171875,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../inference_video/Scene0.2.mp4",
+                "video_results": 0.8757393642624408,
+                "video_sim": 369.56201171875,
+                "cnt_per_video": 422
+            },
+            {
+                "video_path": "../inference_video/Scene3_story3.mp4",
+                "video_results": 0.9347084446957237,
+                "video_sim": 142.07568359375,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../inference_video/Scene3_story5.mp4",
+                "video_results": 0.9284804075021778,
+                "video_sim": 266.473876953125,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_2.mp4",
+                "video_results": 0.9369674842116724,
+                "video_sim": 268.90966796875,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Scene8_The_turtle_on_the_right_is_laugh.mp4",
+                "video_results": 0.9776450709292763,
+                "video_sim": 148.60205078125,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../inference_video/Scene2.2.Reverse_The_ice_suddenly_breaks_into_lar.mp4",
+                "video_results": 0.9598660582049763,
+                "video_sim": 405.0634765625,
+                "cnt_per_video": 422
+            },
+            {
+                "video_path": "../inference_video/Scene3_story36.mp4",
+                "video_results": 0.9515495699041812,
+                "video_sim": 273.0947265625,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Scene0.4.mp4",
+                "video_results": 0.953176890516115,
+                "video_sim": 273.561767578125,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration.mp4",
+                "video_results": 0.9271020392106043,
+                "video_sim": 391.237060546875,
+                "cnt_per_video": 422
+            },
+            {
+                "video_path": "../inference_video/Scene9-3. Tortoise got medal_1.mp4",
+                "video_results": 0.9863247223432056,
+                "video_sim": 283.0751953125,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Scene9_final.mp4",
+                "video_results": 0.9759372808994391,
+                "video_sim": 304.492431640625,
+                "cnt_per_video": 312
+            },
+            {
+                "video_path": "../inference_video/Scene5__The_rabbit_is_lying_comfortably_.mp4",
+                "video_results": 0.984779553535657,
+                "video_sim": 307.251220703125,
+                "cnt_per_video": 312
+            },
+            {
+                "video_path": "../inference_video/Scene6_The_rabbit_is_lying_comfortably_ (1).mp4",
+                "video_results": 0.9625971867487981,
+                "video_sim": 300.330322265625,
+                "cnt_per_video": 312
+            },
+            {
+                "video_path": "../inference_video/Scene4.0.mp4",
+                "video_results": 0.9522467879887441,
+                "video_sim": 401.84814453125,
+                "cnt_per_video": 422
+            },
+            {
+                "video_path": "../inference_video/Scene09_06.mp4",
+                "video_results": 0.942694091796875,
+                "video_sim": 113.123291015625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "../inference_video/Scene7_Rabbit_is_just_waking_up.mp4",
+                "video_results": 0.9680567032251602,
+                "video_sim": 302.03369140625,
+                "cnt_per_video": 312
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_1.mp4",
+                "video_results": 0.9657539606925087,
+                "video_sim": 277.17138671875,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Scene0_They_are_smiling.mp4",
+                "video_results": 0.982831453022204,
+                "video_sim": 149.390380859375,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../inference_video/Scene0.mp4",
+                "video_results": 0.9224689148058797,
+                "video_sim": 513.815185546875,
+                "cnt_per_video": 557
+            },
+            {
+                "video_path": "../inference_video/Scene1_1_High_Quality_rabbit_is....mp4",
+                "video_results": 0.9678289951422275,
+                "video_sim": 301.962646484375,
+                "cnt_per_video": 312
+            },
+            {
+                "video_path": "../inference_video/Scene4.6.mp4",
+                "video_results": 0.9833479561857618,
+                "video_sim": 813.228759765625,
+                "cnt_per_video": 827
+            },
+            {
+                "video_path": "../inference_video/Scene4.3.mp4",
+                "video_results": 0.9495981462325784,
+                "video_sim": 272.53466796875,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Scene5.1.mp4",
+                "video_results": 0.97802734375,
+                "video_sim": 148.66015625,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../inference_video/Scene1.1_Children_laugh_and_run__throwing.mp4",
+                "video_results": 0.9533378998815166,
+                "video_sim": 402.30859375,
+                "cnt_per_video": 422
+            },
+            {
+                "video_path": "../inference_video/Scene3_story0.mp4",
+                "video_results": 0.9527294411476481,
+                "video_sim": 273.433349609375,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Starting Story.mp4",
+                "video_results": 0.8313562976535653,
+                "video_sim": 483.849365234375,
+                "cnt_per_video": 582
+            },
+            {
+                "video_path": "../inference_video/Scene4_turtle is running.mp4",
+                "video_results": 0.950330764121924,
+                "video_sim": 424.7978515625,
+                "cnt_per_video": 447
+            },
+            {
+                "video_path": "../inference_video/Scene2.1_some_ice_of_land_breaks.mp4",
+                "video_results": 0.9485356666485192,
+                "video_sim": 272.229736328125,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Scene0.3.mp4",
+                "video_results": 0.9304777670405052,
+                "video_sim": 267.047119140625,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Scene6.mp4",
+                "video_results": 0.9670956260279605,
+                "video_sim": 146.99853515625,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../inference_video/Scene5.0.mp4",
+                "video_results": 0.9765012521777003,
+                "video_sim": 280.255859375,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Scene4.3_.mp4",
+                "video_results": 0.9739558858082706,
+                "video_sim": 129.5361328125,
+                "cnt_per_video": 133
+            },
+            {
+                "video_path": "../inference_video/Scene4.2_narration.mp4",
+                "video_results": 0.9472170282879147,
+                "video_sim": 399.7255859375,
+                "cnt_per_video": 422
+            },
+            {
+                "video_path": "../inference_video/Scene3_witch.mp4",
+                "video_results": 0.9462737505444251,
+                "video_sim": 271.58056640625,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Scene1.2_Children_laugh_and_run__throwing.mp4",
+                "video_results": 0.9696089718319955,
+                "video_sim": 211.374755859375,
+                "cnt_per_video": 218
+            },
+            {
+                "video_path": "../inference_video/Scene4.5.mp4",
+                "video_results": 0.9714638949570498,
+                "video_sim": 409.957763671875,
+                "cnt_per_video": 422
+            },
+            {
+                "video_path": "../inference_video/Scene5.3.mp4",
+                "video_results": 0.9356804292791812,
+                "video_sim": 268.540283203125,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Scene6.1.mp4",
+                "video_results": 0.979385159026955,
+                "video_sim": 413.300537109375,
+                "cnt_per_video": 422
+            },
+            {
+                "video_path": "../inference_video/Scene6.2.mp4",
+                "video_results": 0.9789503144054879,
+                "video_sim": 280.958740234375,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Scene3_The_ice_suddenly_breaks_into_lar (1).mp4",
+                "video_results": 0.9672809029290069,
+                "video_sim": 277.609619140625,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Scene0.1.mp4",
+                "video_results": 0.9430458105005924,
+                "video_sim": 397.96533203125,
+                "cnt_per_video": 422
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration22.mp4",
+                "video_results": 0.9674586245888158,
+                "video_sim": 147.0537109375,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_2.mp4",
+                "video_results": 0.9701313219572368,
+                "video_sim": 147.4599609375,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../inference_video/Scene3_rabbit is running.mp4",
+                "video_results": 0.9450525800886446,
+                "video_sim": 526.394287109375,
+                "cnt_per_video": 557
+            },
+            {
+                "video_path": "../inference_video/Scene3_story4.mp4",
+                "video_results": 0.9273440712376645,
+                "video_sim": 140.956298828125,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_1.mp4",
+                "video_results": 0.9738939664089721,
+                "video_sim": 279.507568359375,
+                "cnt_per_video": 287
+            },
+            {
+                "video_path": "../inference_video/Scene3_story1.mp4",
+                "video_results": 0.9305371736225329,
+                "video_sim": 141.441650390625,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../inference_video/Scene3_story2.mp4",
+                "video_results": 0.9556306537828947,
+                "video_sim": 145.255859375,
+                "cnt_per_video": 152
+            },
+            {
+                "video_path": "../inference_video/Scene5.2.mp4",
+                "video_results": 0.9775711862664473,
+                "video_sim": 148.5908203125,
+                "cnt_per_video": 152
+            }
+        ]
+    ],
+    "temporal_flickering": [
+        0.9839538113977396,
+        [
+            {
+                "video_path": "../inference_video/Scene2_they_are_talking.mp4",
+                "video_results": 0.9850679706124699
+            },
+            {
+                "video_path": "../inference_video/Scene0.2.mp4",
+                "video_results": 0.9885095895505419
+            },
+            {
+                "video_path": "../inference_video/Scene3_story3.mp4",
+                "video_results": 0.9741281490699918
+            },
+            {
+                "video_path": "../inference_video/Scene3_story5.mp4",
+                "video_results": 0.9879277173210593
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_2.mp4",
+                "video_results": 0.9900218757928586
+            },
+            {
+                "video_path": "../inference_video/Scene8_The_turtle_on_the_right_is_laugh.mp4",
+                "video_results": 0.9920383257024429
+            },
+            {
+                "video_path": "../inference_video/Scene2.2.Reverse_The_ice_suddenly_breaks_into_lar.mp4",
+                "video_results": 0.9961285266221739
+            },
+            {
+                "video_path": "../inference_video/Scene3_story36.mp4",
+                "video_results": 0.983218557694379
+            },
+            {
+                "video_path": "../inference_video/Scene0.4.mp4",
+                "video_results": 0.9779528000775506
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration.mp4",
+                "video_results": 0.9662280138801126
+            },
+            {
+                "video_path": "../inference_video/Scene9-3. Tortoise got medal_1.mp4",
+                "video_results": 0.9938580456901999
+            },
+            {
+                "video_path": "../inference_video/Scene9_final.mp4",
+                "video_results": 0.9817814041586483
+            },
+            {
+                "video_path": "../inference_video/Scene5__The_rabbit_is_lying_comfortably_.mp4",
+                "video_results": 0.9844406875909544
+            },
+            {
+                "video_path": "../inference_video/Scene6_The_rabbit_is_lying_comfortably_ (1).mp4",
+                "video_results": 0.9746292843538172
+            },
+            {
+                "video_path": "../inference_video/Scene4.0.mp4",
+                "video_results": 0.9889146982454786
+            },
+            {
+                "video_path": "../inference_video/Scene09_06.mp4",
+                "video_results": 0.9858857510136623
+            },
+            {
+                "video_path": "../inference_video/Scene7_Rabbit_is_just_waking_up.mp4",
+                "video_results": 0.9861413048762901
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_1.mp4",
+                "video_results": 0.9807878681257659
+            },
+            {
+                "video_path": "../inference_video/Scene0_They_are_smiling.mp4",
+                "video_results": 0.988776870802337
+            },
+            {
+                "video_path": "../inference_video/Scene0.mp4",
+                "video_results": 0.9832603529387829
+            },
+            {
+                "video_path": "../inference_video/Scene1_1_High_Quality_rabbit_is....mp4",
+                "video_results": 0.9864706413418639
+            },
+            {
+                "video_path": "../inference_video/Scene4.6.mp4",
+                "video_results": 0.9958355356665218
+            },
+            {
+                "video_path": "../inference_video/Scene4.3.mp4",
+                "video_results": 0.9708348442526424
+            },
+            {
+                "video_path": "../inference_video/Scene5.1.mp4",
+                "video_results": 0.9915008283128925
+            },
+            {
+                "video_path": "../inference_video/Scene1.1_Children_laugh_and_run__throwing.mp4",
+                "video_results": 0.9906194948682598
+            },
+            {
+                "video_path": "../inference_video/Scene3_story0.mp4",
+                "video_results": 0.9752507901659199
+            },
+            {
+                "video_path": "../inference_video/Starting Story.mp4",
+                "video_results": 0.9913685144162645
+            },
+            {
+                "video_path": "../inference_video/Scene4_turtle is running.mp4",
+                "video_results": 0.9688855246001599
+            },
+            {
+                "video_path": "../inference_video/Scene2.1_some_ice_of_land_breaks.mp4",
+                "video_results": 0.9900208734998516
+            },
+            {
+                "video_path": "../inference_video/Scene0.3.mp4",
+                "video_results": 0.9854027476965213
+            },
+            {
+                "video_path": "../inference_video/Scene6.mp4",
+                "video_results": 0.9952822348650764
+            },
+            {
+                "video_path": "../inference_video/Scene5.0.mp4",
+                "video_results": 0.9855768147636862
+            },
+            {
+                "video_path": "../inference_video/Scene4.3_.mp4",
+                "video_results": 0.9940983954597922
+            },
+            {
+                "video_path": "../inference_video/Scene4.2_narration.mp4",
+                "video_results": 0.9718848116257611
+            },
+            {
+                "video_path": "../inference_video/Scene3_witch.mp4",
+                "video_results": 0.9907741948670032
+            },
+            {
+                "video_path": "../inference_video/Scene1.2_Children_laugh_and_run__throwing.mp4",
+                "video_results": 0.9892205041997573
+            },
+            {
+                "video_path": "../inference_video/Scene4.5.mp4",
+                "video_results": 0.9819265795689003
+            },
+            {
+                "video_path": "../inference_video/Scene5.3.mp4",
+                "video_results": 0.9590338239482805
+            },
+            {
+                "video_path": "../inference_video/Scene6.1.mp4",
+                "video_results": 0.9866542573068656
+            },
+            {
+                "video_path": "../inference_video/Scene6.2.mp4",
+                "video_results": 0.9762730766745175
+            },
+            {
+                "video_path": "../inference_video/Scene3_The_ice_suddenly_breaks_into_lar (1).mp4",
+                "video_results": 0.994841617228938
+            },
+            {
+                "video_path": "../inference_video/Scene0.1.mp4",
+                "video_results": 0.9865152340309292
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration22.mp4",
+                "video_results": 0.990236011205935
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_2.mp4",
+                "video_results": 0.9837800904816272
+            },
+            {
+                "video_path": "../inference_video/Scene3_rabbit is running.mp4",
+                "video_results": 0.9720591956493901
+            },
+            {
+                "video_path": "../inference_video/Scene3_story4.mp4",
+                "video_results": 0.9716492148006663
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_1.mp4",
+                "video_results": 0.9896125896304262
+            },
+            {
+                "video_path": "../inference_video/Scene3_story1.mp4",
+                "video_results": 0.9778642448724485
+            },
+            {
+                "video_path": "../inference_video/Scene3_story2.mp4",
+                "video_results": 0.9835218653959387
+            },
+            {
+                "video_path": "../inference_video/Scene5.2.mp4",
+                "video_results": 0.9809982243706198
+            }
+        ]
+    ],
+    "motion_smoothness": [
+        0.9949116003668937,
+        [
+            {
+                "video_path": "../inference_video/Scene2_they_are_talking.mp4",
+                "video_results": 0.995601302159917
+            },
+            {
+                "video_path": "../inference_video/Scene0.2.mp4",
+                "video_results": 0.9959691087858096
+            },
+            {
+                "video_path": "../inference_video/Scene3_story3.mp4",
+                "video_results": 0.9930208601334661
+            },
+            {
+                "video_path": "../inference_video/Scene3_story5.mp4",
+                "video_results": 0.9951930650339811
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_2.mp4",
+                "video_results": 0.9957239232207064
+            },
+            {
+                "video_path": "../inference_video/Scene8_The_turtle_on_the_right_is_laugh.mp4",
+                "video_results": 0.9964120539270929
+            },
+            {
+                "video_path": "../inference_video/Scene2.2.Reverse_The_ice_suddenly_breaks_into_lar.mp4",
+                "video_results": 0.9967694923282636
+            },
+            {
+                "video_path": "../inference_video/Scene3_story36.mp4",
+                "video_results": 0.9952194126566063
+            },
+            {
+                "video_path": "../inference_video/Scene0.4.mp4",
+                "video_results": 0.993758073553455
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration.mp4",
+                "video_results": 0.9926431512761381
+            },
+            {
+                "video_path": "../inference_video/Scene9-3. Tortoise got medal_1.mp4",
+                "video_results": 0.9957680646530984
+            },
+            {
+                "video_path": "../inference_video/Scene9_final.mp4",
+                "video_results": 0.9939240527656994
+            },
+            {
+                "video_path": "../inference_video/Scene5__The_rabbit_is_lying_comfortably_.mp4",
+                "video_results": 0.9945701284028637
+            },
+            {
+                "video_path": "../inference_video/Scene6_The_rabbit_is_lying_comfortably_ (1).mp4",
+                "video_results": 0.9937356221441273
+            },
+            {
+                "video_path": "../inference_video/Scene4.0.mp4",
+                "video_results": 0.9957318910672154
+            },
+            {
+                "video_path": "../inference_video/Scene09_06.mp4",
+                "video_results": 0.9959317230072756
+            },
+            {
+                "video_path": "../inference_video/Scene7_Rabbit_is_just_waking_up.mp4",
+                "video_results": 0.9950793026864373
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_1.mp4",
+                "video_results": 0.9943032414449771
+            },
+            {
+                "video_path": "../inference_video/Scene0_They_are_smiling.mp4",
+                "video_results": 0.9961465621899954
+            },
+            {
+                "video_path": "../inference_video/Scene0.mp4",
+                "video_results": 0.9946069711275506
+            },
+            {
+                "video_path": "../inference_video/Scene1_1_High_Quality_rabbit_is....mp4",
+                "video_results": 0.9951775934071873
+            },
+            {
+                "video_path": "../inference_video/Scene4.6.mp4",
+                "video_results": 0.9963780918220042
+            },
+            {
+                "video_path": "../inference_video/Scene4.3.mp4",
+                "video_results": 0.9933995804160096
+            },
+            {
+                "video_path": "../inference_video/Scene5.1.mp4",
+                "video_results": 0.9964956441385795
+            },
+            {
+                "video_path": "../inference_video/Scene1.1_Children_laugh_and_run__throwing.mp4",
+                "video_results": 0.9959081834288537
+            },
+            {
+                "video_path": "../inference_video/Scene3_story0.mp4",
+                "video_results": 0.9946687152008078
+            },
+            {
+                "video_path": "../inference_video/Starting Story.mp4",
+                "video_results": 0.9960589102023891
+            },
+            {
+                "video_path": "../inference_video/Scene4_turtle is running.mp4",
+                "video_results": 0.9925281737719914
+            },
+            {
+                "video_path": "../inference_video/Scene2.1_some_ice_of_land_breaks.mp4",
+                "video_results": 0.9964706218005851
+            },
+            {
+                "video_path": "../inference_video/Scene0.3.mp4",
+                "video_results": 0.9954182424201955
+            },
+            {
+                "video_path": "../inference_video/Scene6.mp4",
+                "video_results": 0.9964910962530876
+            },
+            {
+                "video_path": "../inference_video/Scene5.0.mp4",
+                "video_results": 0.9951554894049534
+            },
+            {
+                "video_path": "../inference_video/Scene4.3_.mp4",
+                "video_results": 0.9959182920477315
+            },
+            {
+                "video_path": "../inference_video/Scene4.2_narration.mp4",
+                "video_results": 0.9936120952596526
+            },
+            {
+                "video_path": "../inference_video/Scene3_witch.mp4",
+                "video_results": 0.9962983748249526
+            },
+            {
+                "video_path": "../inference_video/Scene1.2_Children_laugh_and_run__throwing.mp4",
+                "video_results": 0.99545946226881
+            },
+            {
+                "video_path": "../inference_video/Scene4.5.mp4",
+                "video_results": 0.9945743324028148
+            },
+            {
+                "video_path": "../inference_video/Scene5.3.mp4",
+                "video_results": 0.9870415452900517
+            },
+            {
+                "video_path": "../inference_video/Scene6.1.mp4",
+                "video_results": 0.9951025225762204
+            },
+            {
+                "video_path": "../inference_video/Scene6.2.mp4",
+                "video_results": 0.9943112959542953
+            },
+            {
+                "video_path": "../inference_video/Scene3_The_ice_suddenly_breaks_into_lar (1).mp4",
+                "video_results": 0.9966582987424363
+            },
+            {
+                "video_path": "../inference_video/Scene0.1.mp4",
+                "video_results": 0.9956786719250135
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration22.mp4",
+                "video_results": 0.996553378959253
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_2.mp4",
+                "video_results": 0.9946700694996871
+            },
+            {
+                "video_path": "../inference_video/Scene3_rabbit is running.mp4",
+                "video_results": 0.9912753176594753
+            },
+            {
+                "video_path": "../inference_video/Scene3_story4.mp4",
+                "video_results": 0.994013502769148
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_1.mp4",
+                "video_results": 0.9949116289370579
+            },
+            {
+                "video_path": "../inference_video/Scene3_story1.mp4",
+                "video_results": 0.9948302393363839
+            },
+            {
+                "video_path": "../inference_video/Scene3_story2.mp4",
+                "video_results": 0.9956115133930491
+            },
+            {
+                "video_path": "../inference_video/Scene5.2.mp4",
+                "video_results": 0.9948011316673356
+            }
+        ]
+    ],
+    "dynamic_degree": [
+        0.6,
+        [
+            {
+                "video_path": "../inference_video/Scene2_they_are_talking.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene0.2.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene3_story3.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene3_story5.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_2.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene8_The_turtle_on_the_right_is_laugh.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene2.2.Reverse_The_ice_suddenly_breaks_into_lar.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene3_story36.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene0.4.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene9-3. Tortoise got medal_1.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene9_final.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene5__The_rabbit_is_lying_comfortably_.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene6_The_rabbit_is_lying_comfortably_ (1).mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene4.0.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene09_06.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene7_Rabbit_is_just_waking_up.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_1.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene0_They_are_smiling.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene0.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene1_1_High_Quality_rabbit_is....mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene4.6.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene4.3.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene5.1.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene1.1_Children_laugh_and_run__throwing.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene3_story0.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Starting Story.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene4_turtle is running.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene2.1_some_ice_of_land_breaks.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene0.3.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene6.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene5.0.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene4.3_.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene4.2_narration.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene3_witch.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene1.2_Children_laugh_and_run__throwing.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene4.5.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene5.3.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene6.1.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene6.2.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene3_The_ice_suddenly_breaks_into_lar (1).mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene0.1.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration22.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_2.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene3_rabbit is running.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene3_story4.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_1.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "../inference_video/Scene3_story1.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene3_story2.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "../inference_video/Scene5.2.mp4",
+                "video_results": false
+            }
+        ]
+    ],
+    "aesthetic_quality": [
+        0.6324643790721893,
+        [
+            {
+                "video_path": "../inference_video/Scene2_they_are_talking.mp4",
+                "video_results": 0.7219156622886658
+            },
+            {
+                "video_path": "../inference_video/Scene0.2.mp4",
+                "video_results": 0.552257776260376
+            },
+            {
+                "video_path": "../inference_video/Scene3_story3.mp4",
+                "video_results": 0.5758779048919678
+            },
+            {
+                "video_path": "../inference_video/Scene3_story5.mp4",
+                "video_results": 0.6238239407539368
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_2.mp4",
+                "video_results": 0.7182764410972595
+            },
+            {
+                "video_path": "../inference_video/Scene8_The_turtle_on_the_right_is_laugh.mp4",
+                "video_results": 0.7165324687957764
+            },
+            {
+                "video_path": "../inference_video/Scene2.2.Reverse_The_ice_suddenly_breaks_into_lar.mp4",
+                "video_results": 0.5770121812820435
+            },
+            {
+                "video_path": "../inference_video/Scene3_story36.mp4",
+                "video_results": 0.6671581864356995
+            },
+            {
+                "video_path": "../inference_video/Scene0.4.mp4",
+                "video_results": 0.6086048483848572
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration.mp4",
+                "video_results": 0.5507127642631531
+            },
+            {
+                "video_path": "../inference_video/Scene9-3. Tortoise got medal_1.mp4",
+                "video_results": 0.7231071591377258
+            },
+            {
+                "video_path": "../inference_video/Scene9_final.mp4",
+                "video_results": 0.7667416334152222
+            },
+            {
+                "video_path": "../inference_video/Scene5__The_rabbit_is_lying_comfortably_.mp4",
+                "video_results": 0.8015632033348083
+            },
+            {
+                "video_path": "../inference_video/Scene6_The_rabbit_is_lying_comfortably_ (1).mp4",
+                "video_results": 0.7068024277687073
+            },
+            {
+                "video_path": "../inference_video/Scene4.0.mp4",
+                "video_results": 0.7036473155021667
+            },
+            {
+                "video_path": "../inference_video/Scene09_06.mp4",
+                "video_results": 0.6966498494148254
+            },
+            {
+                "video_path": "../inference_video/Scene7_Rabbit_is_just_waking_up.mp4",
+                "video_results": 0.764715313911438
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_1.mp4",
+                "video_results": 0.7635214924812317
+            },
+            {
+                "video_path": "../inference_video/Scene0_They_are_smiling.mp4",
+                "video_results": 0.5118591785430908
+            },
+            {
+                "video_path": "../inference_video/Scene0.mp4",
+                "video_results": 0.6737493872642517
+            },
+            {
+                "video_path": "../inference_video/Scene1_1_High_Quality_rabbit_is....mp4",
+                "video_results": 0.6792755722999573
+            },
+            {
+                "video_path": "../inference_video/Scene4.6.mp4",
+                "video_results": 0.5556419491767883
+            },
+            {
+                "video_path": "../inference_video/Scene4.3.mp4",
+                "video_results": 0.4922853112220764
+            },
+            {
+                "video_path": "../inference_video/Scene5.1.mp4",
+                "video_results": 0.5365365743637085
+            },
+            {
+                "video_path": "../inference_video/Scene1.1_Children_laugh_and_run__throwing.mp4",
+                "video_results": 0.5077376365661621
+            },
+            {
+                "video_path": "../inference_video/Scene3_story0.mp4",
+                "video_results": 0.5460570454597473
+            },
+            {
+                "video_path": "../inference_video/Starting Story.mp4",
+                "video_results": 0.6699112057685852
+            },
+            {
+                "video_path": "../inference_video/Scene4_turtle is running.mp4",
+                "video_results": 0.724372923374176
+            },
+            {
+                "video_path": "../inference_video/Scene2.1_some_ice_of_land_breaks.mp4",
+                "video_results": 0.5728200078010559
+            },
+            {
+                "video_path": "../inference_video/Scene0.3.mp4",
+                "video_results": 0.5026393532752991
+            },
+            {
+                "video_path": "../inference_video/Scene6.mp4",
+                "video_results": 0.6387547850608826
+            },
+            {
+                "video_path": "../inference_video/Scene5.0.mp4",
+                "video_results": 0.5343017578125
+            },
+            {
+                "video_path": "../inference_video/Scene4.3_.mp4",
+                "video_results": 0.5413317084312439
+            },
+            {
+                "video_path": "../inference_video/Scene4.2_narration.mp4",
+                "video_results": 0.5504485964775085
+            },
+            {
+                "video_path": "../inference_video/Scene3_witch.mp4",
+                "video_results": 0.6328373551368713
+            },
+            {
+                "video_path": "../inference_video/Scene1.2_Children_laugh_and_run__throwing.mp4",
+                "video_results": 0.5579360723495483
+            },
+            {
+                "video_path": "../inference_video/Scene4.5.mp4",
+                "video_results": 0.6083601713180542
+            },
+            {
+                "video_path": "../inference_video/Scene5.3.mp4",
+                "video_results": 0.5701771974563599
+            },
+            {
+                "video_path": "../inference_video/Scene6.1.mp4",
+                "video_results": 0.6098808646202087
+            },
+            {
+                "video_path": "../inference_video/Scene6.2.mp4",
+                "video_results": 0.5411282181739807
+            },
+            {
+                "video_path": "../inference_video/Scene3_The_ice_suddenly_breaks_into_lar (1).mp4",
+                "video_results": 0.5977280735969543
+            },
+            {
+                "video_path": "../inference_video/Scene0.1.mp4",
+                "video_results": 0.6094233989715576
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration22.mp4",
+                "video_results": 0.7589601874351501
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_2.mp4",
+                "video_results": 0.8043272495269775
+            },
+            {
+                "video_path": "../inference_video/Scene3_rabbit is running.mp4",
+                "video_results": 0.6939389109611511
+            },
+            {
+                "video_path": "../inference_video/Scene3_story4.mp4",
+                "video_results": 0.5495827794075012
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_1.mp4",
+                "video_results": 0.7215544581413269
+            },
+            {
+                "video_path": "../inference_video/Scene3_story1.mp4",
+                "video_results": 0.6113707423210144
+            },
+            {
+                "video_path": "../inference_video/Scene3_story2.mp4",
+                "video_results": 0.5899564027786255
+            },
+            {
+                "video_path": "../inference_video/Scene5.2.mp4",
+                "video_results": 0.68941330909729
+            }
+        ]
+    ],
+    "imaging_quality": [
+        0.7023911281421544,
+        [
+            {
+                "video_path": "../inference_video/Scene2_they_are_talking.mp4",
+                "video_results": 68.69708234500261
+            },
+            {
+                "video_path": "../inference_video/Scene0.2.mp4",
+                "video_results": 76.53580110518364
+            },
+            {
+                "video_path": "../inference_video/Scene3_story3.mp4",
+                "video_results": 71.15120003893485
+            },
+            {
+                "video_path": "../inference_video/Scene3_story5.mp4",
+                "video_results": 69.71383374267154
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_2.mp4",
+                "video_results": 72.66376009252336
+            },
+            {
+                "video_path": "../inference_video/Scene8_The_turtle_on_the_right_is_laugh.mp4",
+                "video_results": 78.38714594622843
+            },
+            {
+                "video_path": "../inference_video/Scene2.2.Reverse_The_ice_suddenly_breaks_into_lar.mp4",
+                "video_results": 40.944877615493525
+            },
+            {
+                "video_path": "../inference_video/Scene3_story36.mp4",
+                "video_results": 66.53536036279466
+            },
+            {
+                "video_path": "../inference_video/Scene0.4.mp4",
+                "video_results": 72.368884589937
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration.mp4",
+                "video_results": 73.15143531095897
+            },
+            {
+                "video_path": "../inference_video/Scene9-3. Tortoise got medal_1.mp4",
+                "video_results": 71.94800655047099
+            },
+            {
+                "video_path": "../inference_video/Scene9_final.mp4",
+                "video_results": 74.11526864633774
+            },
+            {
+                "video_path": "../inference_video/Scene5__The_rabbit_is_lying_comfortably_.mp4",
+                "video_results": 69.88305420311876
+            },
+            {
+                "video_path": "../inference_video/Scene6_The_rabbit_is_lying_comfortably_ (1).mp4",
+                "video_results": 74.53781600805898
+            },
+            {
+                "video_path": "../inference_video/Scene4.0.mp4",
+                "video_results": 57.58575117503498
+            },
+            {
+                "video_path": "../inference_video/Scene09_06.mp4",
+                "video_results": 75.76858936656605
+            },
+            {
+                "video_path": "../inference_video/Scene7_Rabbit_is_just_waking_up.mp4",
+                "video_results": 66.50045671554419
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_1.mp4",
+                "video_results": 76.66523573133681
+            },
+            {
+                "video_path": "../inference_video/Scene0_They_are_smiling.mp4",
+                "video_results": 74.13763148488562
+            },
+            {
+                "video_path": "../inference_video/Scene0.mp4",
+                "video_results": 75.7551128838652
+            },
+            {
+                "video_path": "../inference_video/Scene1_1_High_Quality_rabbit_is....mp4",
+                "video_results": 75.93493021029634
+            },
+            {
+                "video_path": "../inference_video/Scene4.6.mp4",
+                "video_results": 72.52297867669
+            },
+            {
+                "video_path": "../inference_video/Scene4.3.mp4",
+                "video_results": 72.17961557706197
+            },
+            {
+                "video_path": "../inference_video/Scene5.1.mp4",
+                "video_results": 76.42508956809449
+            },
+            {
+                "video_path": "../inference_video/Scene1.1_Children_laugh_and_run__throwing.mp4",
+                "video_results": 76.21972760861084
+            },
+            {
+                "video_path": "../inference_video/Scene3_story0.mp4",
+                "video_results": 57.081658681233726
+            },
+            {
+                "video_path": "../inference_video/Starting Story.mp4",
+                "video_results": 63.290503068403765
+            },
+            {
+                "video_path": "../inference_video/Scene4_turtle is running.mp4",
+                "video_results": 72.31628678526197
+            },
+            {
+                "video_path": "../inference_video/Scene2.1_some_ice_of_land_breaks.mp4",
+                "video_results": 66.20635656515758
+            },
+            {
+                "video_path": "../inference_video/Scene0.3.mp4",
+                "video_results": 68.63160587681665
+            },
+            {
+                "video_path": "../inference_video/Scene6.mp4",
+                "video_results": 70.58876177220563
+            },
+            {
+                "video_path": "../inference_video/Scene5.0.mp4",
+                "video_results": 61.545391625828216
+            },
+            {
+                "video_path": "../inference_video/Scene4.3_.mp4",
+                "video_results": 73.97272246631223
+            },
+            {
+                "video_path": "../inference_video/Scene4.2_narration.mp4",
+                "video_results": 76.39497040011359
+            },
+            {
+                "video_path": "../inference_video/Scene3_witch.mp4",
+                "video_results": 72.03280793295966
+            },
+            {
+                "video_path": "../inference_video/Scene1.2_Children_laugh_and_run__throwing.mp4",
+                "video_results": 72.90435979137682
+            },
+            {
+                "video_path": "../inference_video/Scene4.5.mp4",
+                "video_results": 75.48007485319819
+            },
+            {
+                "video_path": "../inference_video/Scene5.3.mp4",
+                "video_results": 68.07665011617873
+            },
+            {
+                "video_path": "../inference_video/Scene6.1.mp4",
+                "video_results": 78.2548353587482
+            },
+            {
+                "video_path": "../inference_video/Scene6.2.mp4",
+                "video_results": 77.73056427637736
+            },
+            {
+                "video_path": "../inference_video/Scene3_The_ice_suddenly_breaks_into_lar (1).mp4",
+                "video_results": 47.38771357801225
+            },
+            {
+                "video_path": "../inference_video/Scene0.1.mp4",
+                "video_results": 74.67977313679724
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration22.mp4",
+                "video_results": 60.729755925197225
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_2.mp4",
+                "video_results": 76.91907092325049
+            },
+            {
+                "video_path": "../inference_video/Scene3_rabbit is running.mp4",
+                "video_results": 62.364483946113175
+            },
+            {
+                "video_path": "../inference_video/Scene3_story4.mp4",
+                "video_results": 63.02464735741709
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_1.mp4",
+                "video_results": 74.31686920589871
+            },
+            {
+                "video_path": "../inference_video/Scene3_story1.mp4",
+                "video_results": 69.47738081489513
+            },
+            {
+                "video_path": "../inference_video/Scene3_story2.mp4",
+                "video_results": 75.76671919479868
+            },
+            {
+                "video_path": "../inference_video/Scene5.2.mp4",
+                "video_results": 72.453031502518
+            }
+        ]
+    ],
+    "human_action": [
+        0.0,
+        [
+            {
+                "video_path": "../inference_video/Scene2_they_are_talking.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene0.2.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene3_story3.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene3_story5.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_2.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene8_The_turtle_on_the_right_is_laugh.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene2.2.Reverse_The_ice_suddenly_breaks_into_lar.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene3_story36.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene0.4.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene9-3. Tortoise got medal_1.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene9_final.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene5__The_rabbit_is_lying_comfortably_.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene6_The_rabbit_is_lying_comfortably_ (1).mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene4.0.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene09_06.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene7_Rabbit_is_just_waking_up.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_1.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene0_They_are_smiling.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene0.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene1_1_High_Quality_rabbit_is....mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene4.6.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene4.3.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene5.1.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene1.1_Children_laugh_and_run__throwing.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene3_story0.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Starting Story.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene4_turtle is running.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene2.1_some_ice_of_land_breaks.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene0.3.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene6.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene5.0.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene4.3_.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene4.2_narration.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene3_witch.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene1.2_Children_laugh_and_run__throwing.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene4.5.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene5.3.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene6.1.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene6.2.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene3_The_ice_suddenly_breaks_into_lar (1).mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene0.1.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration22.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_2.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene3_rabbit is running.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene3_story4.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_1.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene3_story1.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene3_story2.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            },
+            {
+                "video_path": "../inference_video/Scene5.2.mp4",
+                "video_results": false,
+                "cor_num_per_video": 0
+            }
+        ]
+    ],
+    "temporal_style": [
+        0.11112143892794847,
+        [
+            {
+                "video_path": "../inference_video/Scene2_they_are_talking.mp4",
+                "video_results": 0.08663544058799744
+            },
+            {
+                "video_path": "../inference_video/Scene0.2.mp4",
+                "video_results": 0.04692719131708145
+            },
+            {
+                "video_path": "../inference_video/Scene3_story3.mp4",
+                "video_results": 0.10008679330348969
+            },
+            {
+                "video_path": "../inference_video/Scene3_story5.mp4",
+                "video_results": 0.08400073647499084
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_2.mp4",
+                "video_results": 0.1782560795545578
+            },
+            {
+                "video_path": "../inference_video/Scene8_The_turtle_on_the_right_is_laugh.mp4",
+                "video_results": 0.1908273547887802
+            },
+            {
+                "video_path": "../inference_video/Scene2.2.Reverse_The_ice_suddenly_breaks_into_lar.mp4",
+                "video_results": 0.15647046267986298
+            },
+            {
+                "video_path": "../inference_video/Scene3_story36.mp4",
+                "video_results": 0.058287546038627625
+            },
+            {
+                "video_path": "../inference_video/Scene0.4.mp4",
+                "video_results": 0.09817805886268616
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration.mp4",
+                "video_results": 0.07278173416852951
+            },
+            {
+                "video_path": "../inference_video/Scene9-3. Tortoise got medal_1.mp4",
+                "video_results": 0.27838966250419617
+            },
+            {
+                "video_path": "../inference_video/Scene9_final.mp4",
+                "video_results": 0.10579567402601242
+            },
+            {
+                "video_path": "../inference_video/Scene5__The_rabbit_is_lying_comfortably_.mp4",
+                "video_results": 0.2156812846660614
+            },
+            {
+                "video_path": "../inference_video/Scene6_The_rabbit_is_lying_comfortably_ (1).mp4",
+                "video_results": 0.21359823644161224
+            },
+            {
+                "video_path": "../inference_video/Scene4.0.mp4",
+                "video_results": 0.09986512362957001
+            },
+            {
+                "video_path": "../inference_video/Scene09_06.mp4",
+                "video_results": 0.06670071184635162
+            },
+            {
+                "video_path": "../inference_video/Scene7_Rabbit_is_just_waking_up.mp4",
+                "video_results": 0.2001822590827942
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_1.mp4",
+                "video_results": 0.17270171642303467
+            },
+            {
+                "video_path": "../inference_video/Scene0_They_are_smiling.mp4",
+                "video_results": 0.12416107952594757
+            },
+            {
+                "video_path": "../inference_video/Scene0.mp4",
+                "video_results": 0.07970160245895386
+            },
+            {
+                "video_path": "../inference_video/Scene1_1_High_Quality_rabbit_is....mp4",
+                "video_results": 0.19743815064430237
+            },
+            {
+                "video_path": "../inference_video/Scene4.6.mp4",
+                "video_results": 0.04904426634311676
+            },
+            {
+                "video_path": "../inference_video/Scene4.3.mp4",
+                "video_results": 0.03859685733914375
+            },
+            {
+                "video_path": "../inference_video/Scene5.1.mp4",
+                "video_results": 0.0676286518573761
+            },
+            {
+                "video_path": "../inference_video/Scene1.1_Children_laugh_and_run__throwing.mp4",
+                "video_results": 0.03355200216174126
+            },
+            {
+                "video_path": "../inference_video/Scene3_story0.mp4",
+                "video_results": 0.13129495084285736
+            },
+            {
+                "video_path": "../inference_video/Starting Story.mp4",
+                "video_results": 0.107852041721344
+            },
+            {
+                "video_path": "../inference_video/Scene4_turtle is running.mp4",
+                "video_results": 0.22400812804698944
+            },
+            {
+                "video_path": "../inference_video/Scene2.1_some_ice_of_land_breaks.mp4",
+                "video_results": 0.12624725699424744
+            },
+            {
+                "video_path": "../inference_video/Scene0.3.mp4",
+                "video_results": 0.07468540221452713
+            },
+            {
+                "video_path": "../inference_video/Scene6.mp4",
+                "video_results": 0.033348262310028076
+            },
+            {
+                "video_path": "../inference_video/Scene5.0.mp4",
+                "video_results": 0.08966152369976044
+            },
+            {
+                "video_path": "../inference_video/Scene4.3_.mp4",
+                "video_results": 0.02829982154071331
+            },
+            {
+                "video_path": "../inference_video/Scene4.2_narration.mp4",
+                "video_results": 0.07021445780992508
+            },
+            {
+                "video_path": "../inference_video/Scene3_witch.mp4",
+                "video_results": 0.0862196534872055
+            },
+            {
+                "video_path": "../inference_video/Scene1.2_Children_laugh_and_run__throwing.mp4",
+                "video_results": -0.006071876734495163
+            },
+            {
+                "video_path": "../inference_video/Scene4.5.mp4",
+                "video_results": 0.07436062395572662
+            },
+            {
+                "video_path": "../inference_video/Scene5.3.mp4",
+                "video_results": 0.09437444806098938
+            },
+            {
+                "video_path": "../inference_video/Scene6.1.mp4",
+                "video_results": 0.08651848137378693
+            },
+            {
+                "video_path": "../inference_video/Scene6.2.mp4",
+                "video_results": 0.08440884947776794
+            },
+            {
+                "video_path": "../inference_video/Scene3_The_ice_suddenly_breaks_into_lar (1).mp4",
+                "video_results": 0.1324695497751236
+            },
+            {
+                "video_path": "../inference_video/Scene0.1.mp4",
+                "video_results": 0.06733717024326324
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration22.mp4",
+                "video_results": 0.1176600381731987
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_2.mp4",
+                "video_results": 0.18076518177986145
+            },
+            {
+                "video_path": "../inference_video/Scene3_rabbit is running.mp4",
+                "video_results": 0.22974221408367157
+            },
+            {
+                "video_path": "../inference_video/Scene3_story4.mp4",
+                "video_results": 0.09547736495733261
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_1.mp4",
+                "video_results": 0.17499879002571106
+            },
+            {
+                "video_path": "../inference_video/Scene3_story1.mp4",
+                "video_results": 0.08651058375835419
+            },
+            {
+                "video_path": "../inference_video/Scene3_story2.mp4",
+                "video_results": 0.08859878778457642
+            },
+            {
+                "video_path": "../inference_video/Scene5.2.mp4",
+                "video_results": 0.06160156428813934
+            }
+        ]
+    ],
+    "overall_consistency": [
+        0.11112143892794847,
+        [
+            {
+                "video_path": "../inference_video/Scene2_they_are_talking.mp4",
+                "video_results": 0.08663544058799744
+            },
+            {
+                "video_path": "../inference_video/Scene0.2.mp4",
+                "video_results": 0.04692719131708145
+            },
+            {
+                "video_path": "../inference_video/Scene3_story3.mp4",
+                "video_results": 0.10008679330348969
+            },
+            {
+                "video_path": "../inference_video/Scene3_story5.mp4",
+                "video_results": 0.08400073647499084
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_2.mp4",
+                "video_results": 0.1782560795545578
+            },
+            {
+                "video_path": "../inference_video/Scene8_The_turtle_on_the_right_is_laugh.mp4",
+                "video_results": 0.1908273547887802
+            },
+            {
+                "video_path": "../inference_video/Scene2.2.Reverse_The_ice_suddenly_breaks_into_lar.mp4",
+                "video_results": 0.15647046267986298
+            },
+            {
+                "video_path": "../inference_video/Scene3_story36.mp4",
+                "video_results": 0.058287546038627625
+            },
+            {
+                "video_path": "../inference_video/Scene0.4.mp4",
+                "video_results": 0.09817805886268616
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration.mp4",
+                "video_results": 0.07278173416852951
+            },
+            {
+                "video_path": "../inference_video/Scene9-3. Tortoise got medal_1.mp4",
+                "video_results": 0.27838966250419617
+            },
+            {
+                "video_path": "../inference_video/Scene9_final.mp4",
+                "video_results": 0.10579567402601242
+            },
+            {
+                "video_path": "../inference_video/Scene5__The_rabbit_is_lying_comfortably_.mp4",
+                "video_results": 0.2156812846660614
+            },
+            {
+                "video_path": "../inference_video/Scene6_The_rabbit_is_lying_comfortably_ (1).mp4",
+                "video_results": 0.21359823644161224
+            },
+            {
+                "video_path": "../inference_video/Scene4.0.mp4",
+                "video_results": 0.09986512362957001
+            },
+            {
+                "video_path": "../inference_video/Scene09_06.mp4",
+                "video_results": 0.06670071184635162
+            },
+            {
+                "video_path": "../inference_video/Scene7_Rabbit_is_just_waking_up.mp4",
+                "video_results": 0.2001822590827942
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_1.mp4",
+                "video_results": 0.17270171642303467
+            },
+            {
+                "video_path": "../inference_video/Scene0_They_are_smiling.mp4",
+                "video_results": 0.12416107952594757
+            },
+            {
+                "video_path": "../inference_video/Scene0.mp4",
+                "video_results": 0.07970160245895386
+            },
+            {
+                "video_path": "../inference_video/Scene1_1_High_Quality_rabbit_is....mp4",
+                "video_results": 0.19743815064430237
+            },
+            {
+                "video_path": "../inference_video/Scene4.6.mp4",
+                "video_results": 0.04904426634311676
+            },
+            {
+                "video_path": "../inference_video/Scene4.3.mp4",
+                "video_results": 0.03859685733914375
+            },
+            {
+                "video_path": "../inference_video/Scene5.1.mp4",
+                "video_results": 0.0676286518573761
+            },
+            {
+                "video_path": "../inference_video/Scene1.1_Children_laugh_and_run__throwing.mp4",
+                "video_results": 0.03355200216174126
+            },
+            {
+                "video_path": "../inference_video/Scene3_story0.mp4",
+                "video_results": 0.13129495084285736
+            },
+            {
+                "video_path": "../inference_video/Starting Story.mp4",
+                "video_results": 0.107852041721344
+            },
+            {
+                "video_path": "../inference_video/Scene4_turtle is running.mp4",
+                "video_results": 0.22400812804698944
+            },
+            {
+                "video_path": "../inference_video/Scene2.1_some_ice_of_land_breaks.mp4",
+                "video_results": 0.12624725699424744
+            },
+            {
+                "video_path": "../inference_video/Scene0.3.mp4",
+                "video_results": 0.07468540221452713
+            },
+            {
+                "video_path": "../inference_video/Scene6.mp4",
+                "video_results": 0.033348262310028076
+            },
+            {
+                "video_path": "../inference_video/Scene5.0.mp4",
+                "video_results": 0.08966152369976044
+            },
+            {
+                "video_path": "../inference_video/Scene4.3_.mp4",
+                "video_results": 0.02829982154071331
+            },
+            {
+                "video_path": "../inference_video/Scene4.2_narration.mp4",
+                "video_results": 0.07021445780992508
+            },
+            {
+                "video_path": "../inference_video/Scene3_witch.mp4",
+                "video_results": 0.0862196534872055
+            },
+            {
+                "video_path": "../inference_video/Scene1.2_Children_laugh_and_run__throwing.mp4",
+                "video_results": -0.006071876734495163
+            },
+            {
+                "video_path": "../inference_video/Scene4.5.mp4",
+                "video_results": 0.07436062395572662
+            },
+            {
+                "video_path": "../inference_video/Scene5.3.mp4",
+                "video_results": 0.09437444806098938
+            },
+            {
+                "video_path": "../inference_video/Scene6.1.mp4",
+                "video_results": 0.08651848137378693
+            },
+            {
+                "video_path": "../inference_video/Scene6.2.mp4",
+                "video_results": 0.08440884947776794
+            },
+            {
+                "video_path": "../inference_video/Scene3_The_ice_suddenly_breaks_into_lar (1).mp4",
+                "video_results": 0.1324695497751236
+            },
+            {
+                "video_path": "../inference_video/Scene0.1.mp4",
+                "video_results": 0.06733717024326324
+            },
+            {
+                "video_path": "../inference_video/Scene4.1_narration22.mp4",
+                "video_results": 0.1176600381731987
+            },
+            {
+                "video_path": "../inference_video/Scene9-1. Tortoise cross line_2.mp4",
+                "video_results": 0.18076518177986145
+            },
+            {
+                "video_path": "../inference_video/Scene3_rabbit is running.mp4",
+                "video_results": 0.22974221408367157
+            },
+            {
+                "video_path": "../inference_video/Scene3_story4.mp4",
+                "video_results": 0.09547736495733261
+            },
+            {
+                "video_path": "../inference_video/Scene9-2. Rabbit cross line_1.mp4",
+                "video_results": 0.17499879002571106
+            },
+            {
+                "video_path": "../inference_video/Scene3_story1.mp4",
+                "video_results": 0.08651058375835419
+            },
+            {
+                "video_path": "../inference_video/Scene3_story2.mp4",
+                "video_results": 0.08859878778457642
+            },
+            {
+                "video_path": "../inference_video/Scene5.2.mp4",
+                "video_results": 0.06160156428813934
+            }
+        ]
+    ]
+}
